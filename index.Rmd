@@ -1,30 +1,22 @@
 ---
-title: "Leandro Zipitria"
-author: "Leandro Zipitria"
-date: "6 de abril de 2019"
+title: "  "
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+\
 
-## R Markdown
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+<img src="Imagenes/Leandro.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+I am Economist. My fields of specialization are Industrial Organization, Regulation, and Antitrust. I have a PhD in Economics by the [Universidad de San Andrés](https://www.udesa.edu.ar/departamento-de-economia/economia), Argentina.
 
-```{r cars}
-summary(cars)
-```
+I am mainly at [dECON](http://cienciassociales.edu.uy/departamentodeeconomia/leandro-zipitria-2/) at the Universidad de la República, but also teach at [Universidad de Montevideo](http://fcee.um.edu.uy/profesoresum/2446-leandro-zipitria/).
 
-## Including Plots
+My full CV is available in [English](files/english_CV_2019-04.pdf) and [Spanish](files/spanish_CV_2019-04.pdf).
 
-You can also embed plots, for example:
+\
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+***
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Last revision: `r format(Sys.Date(), "%B %d, %Y")`. Leandro Zipitría.

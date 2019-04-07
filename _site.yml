@@ -5,12 +5,10 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "Programming"
-      href: software.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Consultancy"
-      href: consultancy.html
+    - text: "Bio"
+      href: bio.html
     - text: "Personal"
       href: personal.html
   right:

@@ -1,0 +1,21 @@
+---
+title: " "
+output: html_document
+---
+
+#
+
+\
+
+You can contact me at:
+
+Constituyente 1502, 6th floor  
+CP 11700, Montevideo  
+Uruguay  
++598 24106449, ext. 662  
+  
+leandro.zipitria@gmail.com
+
+***
+
+Last revision: `r format(Sys.Date(), "%B %d, %Y")`. Leandro Zipitría.

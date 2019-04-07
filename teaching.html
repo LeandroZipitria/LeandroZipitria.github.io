@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Teaching</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Leandro Zipitria</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="bio.html">Bio</a>
+</li>
+<li>
+  <a href="personal.html">Personal</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/LeandroZipitria">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/leandrozipitria/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Teaching</h1>
+
+</div>
+
+
+<hr />
+<p>Nowadays, I teach at the Universidad de Montevideo, at the Facultad de Ciencias Sociales, and Facultad de Ciencias Económicas y de Administración.</p>
+<p>Here are some slides from the courses I have taught. All courses are in Spanish.</p>
+<hr />
+<div id="defensa-de-la-competencia-i" class="section level1">
+<h1>Defensa de la competencia (I)</h1>
+<p>A continuación encontrarán las transparencias de un curso de Defensa de la Competencia que dicté en la Universidad de Montevideo en el año 2008. El público objetivo del curso eran abogados. Se basan en el libro de Motta (2004) “Competition Policy”, en distintos artículos y en documentos oficiales de los distintos órganos de aplicación. Nota: si las utiliza, favor cite la fuente.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/intro-competencia/clase-1-conceptos-econc3b3micos.pdf">Conceptos económicos</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/clase-2-objetivos-de-la-dc.pdf">Objetivos de la defensa de la competencia</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/clase-3-mercado-relevante-y-poder-de-mercado.pdf">Mercado relevante y poder de mercado</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/clase-4-abuso-de-posicion-domin.pdf">Abuso de posición dominante</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/clase-5-acuerdos-horizontales.pdf">Restricciones horizontales</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/clase-6-restricciones-horizontales.pdf">Restricciones verticales</a></p></li>
+</ol>
+<p>Este segundo curso fue dictado para funcionarios de la Comisión de Promoción y Defensa de la Competencia de Uruguay en 2015.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/intro-competencia/1-conceptos.pdf">Conceptos económicos</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/2-mercado.pdf">Mercado relevante</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/3-posdominante.pdf">Posición dominante</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/4-colusion.pdf">Colusión</a></p></li>
+<li><p><a href="files/teaching/intro-competencia/5-verticales.pdf">Restricciones verticales</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="defensa-de-la-competencia-ii" class="section level1">
+<h1>Defensa de la competencia (II)</h1>
+<p>Este material se basa en un curso de Maestría en Defensa de la Competencia.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/competencia-avanzado/clase_1_-_mercado_relevante2.pdf">Mercado relevante y poder de mercado</a></p></li>
+<li><p><a href="files/teaching/competencia-avanzado/clase_2_-_estrategicos2.pdf">Abuso de posición dominante</a></p></li>
+<li><p><a href="files/teaching/competencia-avanzado/clase_3_-_colusion1.pdf">Colusión</a></p></li>
+<li><p><a href="files/teaching/competencia-avanzado/clase_4_-_verticales2.pdf">Restricciones verticales</a></p></li>
+<li><p><a href="files/teaching/competencia-avanzado/clase_5_-_fusiones1.pdf">Fusiones</a></p></li>
+</ol>
+<div id="lineamientos" class="section level2">
+<h2>Lineamientos</h2>
+<p>Aquí recopilo los lineamientos disponibles sobre mercados y conductas.</p>
+<ol style="list-style-type: decimal">
+<li><p>Mercado relevante. <a href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:1997:372:0005:0013:ES:PDF">Mercado de referencia, UE, 1997</a>, y un documento de la antigua Office of Fair Trading de Inglaterra sobre <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284423/oft403.pdf">Market Definition</a></p></li>
+<li><p>Poder de mercado y abuso de posición dominante. Lineamientos de la Unión Europea sobre <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:52009XC0224(01)&amp;from=ES">Abuso de posición dominante (2009)</a>, y dos documentos de la antigua Office of Fair Trading de Inglaterra sobre <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284400/oft415.pdf">Assessment of market power</a> y <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284422/oft402.pdf">Abuse of dominant position</a></p></li>
+<li><p>Colusion. Los lineamientos de la Unión Europea sobre <a href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2011:011:0001:0072:ES:PDF">Acuerdos horizontales, 2011</a>.</p></li>
+<li><p>Restricciones verticales. Lineamientos de la Unión Europea sobre <a href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:130:0001:0046:ES:PDF">Acuerdos verticales, 2010</a> y de la antigua Office of Fair Trading de Inglaterra sobre <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284430/oft419.pdf">Vertical agreements</a></p></li>
+<li><p>Fusiones. Lineamientos de EE.UU. o <a href="https://www.ftc.gov/sites/default/files/attachments/merger-review/100819hmg.pdf">Merger guidelines, 2010</a>, los lineamientos de la Unión Europea sobre <a href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2004:031:0005:0018:es:PDF">Fusiones horizontales, 2004</a> y <a href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:265:0006:0025:es:PDF">Fusiones no horizontales, 2008</a>, e Inglaterra, las <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284449/OFT1254.pdf">Merger Assessment Guidelines, 2010</a>.</p></li>
+</ol>
+</div>
+<div id="casos" class="section level2">
+<h2>Casos</h2>
+<p>Algunos casos fundamentales en defensa de la competencia.</p>
+<div id="ee.uu." class="section level3">
+<h3>EE.UU.</h3>
+<p><a href="https://supreme.justia.com/cases/federal/us/221/1/">Standard Oil (1911)</a>, <a href="https://caselaw.findlaw.com/us-supreme-court/351/377.html">DuPont (1956)</a>, <a href="https://caselaw.findlaw.com/us-supreme-court/370/294.html">Brown Shoe (1962)</a>, <a href="https://www.ftc.gov/enforcement/cases-proceedings/9710008/staples-inc-office-depot-inc">Staples/Depot (1997)</a></p>
+</div>
+<div id="europa" class="section level3">
+<h3>Europa</h3>
+<p><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:61976CJ0027&amp;from=EN">United Brands (1978)</a>, <a href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61976CJ0085:EN:PDF">Hoffman LaRoche (1979)</a>, <a href="http://ec.europa.eu/competition/mergers/cases/decisions/m166_en.pdf">Torras/Sarrio (1992)</a>, <a href="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992D0553:ES:PDF">Nestlé/Perrier (1992)</a>, <a href="http://ec.europa.eu/competition/mergers/cases/decisions/m2220_en.pdf">General Electric/Honeywell (2001)</a>, <a href="https://leandrozipitria.files.wordpress.com/2013/09/ue-microsoft.pdf">Microsoft (2004)</a>, <a href="http://ec.europa.eu/competition/antitrust/cases/dec_docs/39740/39740_14996_3.pdf">Google, 2017</a></p>
+<hr />
+</div>
+</div>
+</div>
+<div id="regulacion-economica" class="section level1">
+<h1>Regulación económica</h1>
+<p>Transparencias de parte del curso que dicto junto a Mario Bergara en la Maestría en Economía Internacional del dECON – FCS – UdelaR.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/regulacion/Clase_1_Practica_Regulatoria.pdf">Práctica regulatoria</a></p></li>
+<li><p><a href="files/teaching/regulacion/Clase_2_EEPP.pdf">Empresas públicas</a></p></li>
+</ol>
+<p>Otras presentaciones sobre el tema.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/regulacion2/clase2.pdf">Monopolio natural</a></p></li>
+<li><p><a href="files/teaching/regulacion2/clase31.pdf">Instituciones regulatorias</a></p></li>
+<li><p><a href="files/teaching/regulacion2/clase41.pdf">Instrumentos regulatorios: información completa</a></p></li>
+<li><p><a href="files/teaching/regulacion2/clase51.pdf">Instrumentos regulatorios: información asimétrica</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="juegos-y-contratos" class="section level1">
+<h1>Juegos y contratos</h1>
+<p>Mis presentaciones en el curso de Micro III (Teoría de Juegos y Contratos) en la Facultad de Ciencias Económicas y Administración – UdelaR.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/microiii/1.1-Repaso_Juegos_Normal.pdf">Repaso: juegos en forma normal</a></p></li>
+<li><p><a href="files/teaching/microiii/1.2-Repaso_Juegos_extensivos.pdf">Repaso: juegos en forma extensiva</a></p></li>
+<li><p><a href="files/teaching/microiii/3-juegos_bayesianos.pdf">Juegos bayesianos</a></p></li>
+<li><p><a href="files/teaching/microiii/6.1-Contratos_presentacion.pdf">Contratos: introducción</a></p></li>
+<li><p><a href="files/teaching/microiii/6.2-Contratos_Seleccion_Adversa.pdf">Selección adversa</a></p></li>
+<li><p><a href="files/teaching/microiii/6.3-Contratos_Riesgo_Moral.pdf">Riesgo moral</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="organizacion-industrial" class="section level1">
+<h1>Organización industrial</h1>
+<p>Presentaciones del curso de Organización Industrial que doy en la Universidad de Montevideo.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/oi-um/1-Introduccion.pdf">Introducción</a></p></li>
+<li><p><a href="files/teaching/oi-um/2-CP.pdf">Competencia perfecta</a></p></li>
+<li><p><a href="files/teaching/oi-um/3-Monopolio.pdf">Monopolio</a></p></li>
+<li><p><a href="files/teaching/oi-um/4-TeoJuegos.pdf">Teoría de juegos</a></p></li>
+<li><p><a href="files/teaching/oi-um/5-Oligopolio.pdf">Oligopolio: bienes homogéneos</a></p></li>
+<li><p><a href="files/teaching/oi-um/6-BsDiferenciados.pdf">Oligopolio: bienes diferenciados</a></p></li>
+<li><p><a href="files/teaching/oi-um/7-Concentracion.pdf">Concentración</a></p></li>
+<li><p><a href="files/teaching/oi-um/8-Entrada.pdf">Entrada al mercado</a></p></li>
+<li><p><a href="files/teaching/oi-um/9-CostosH.pdf">Costos hundidos</a></p></li>
+<li><p><a href="files/teaching/oi-um/11-Restriciones.verticales.pdf">Restricciones verticales</a></p></li>
+<li><p><a href="files/teaching/oi-um/12-Estrategicos.pdf">Comportamientos estratégicos</a></p></li>
+<li><p><a href="files/teaching/oi-um/13-Colusion.pdf">Colusión</a></p></li>
+<li><p><a href="files/teaching/oi-um/15-Discriminacion.pdf">Discriminación de precios</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="microeconomia" class="section level1">
+<h1>Microeconomía</h1>
+<p>Las transparencias de parte del curso de Microeconomía de la Maestría en Economía de la Facultad de Ciencias Sociales, UdelaR. El curso está basado en el texto de Mas-Colell, Whinston y Greene (1995): Microeconomic Theory.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/Micro/Cap5.Produccion.pdf">Producción</a></p></li>
+<li><p><a href="files/teaching/Micro/Cap10.Mercados_competitivos.pdf">Equilibrio parcial</a></p></li>
+<li><p><a href="files/teaching/Micro/Cap15.Equilibrio_general.pdf">Equilibrio general</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="instituciones" class="section level1">
+<h1>Instituciones</h1>
+<p>Presentaciones del curso de Teoría de las Instituciones que doy junto a Mario Bergara en la Maestría en Economía de la Facultad de Ciencias Sociales, UdelaR.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="files/teaching/instituciones/1.Limite_empresas.pdf">Límite de las empresas</a></p></li>
+<li><p><a href="files/teaching/instituciones/2.Limite_gobiernos.pdf">Límite de los gobiernos</a></p></li>
+<li><p><a href="files/teaching/instituciones/3.Crecimiento.pdf">Crecimiento</a></p></li>
+<li><p><a href="files/teaching/instituciones/4.Cultura.pdf">Cultura</a></p></li>
+</ol>
+<hr />
+<p>Last revision: abril 07, 2019. Leandro Zipitría.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
