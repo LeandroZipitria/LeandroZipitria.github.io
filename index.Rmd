@@ -1,9 +1,21 @@
 ---
-title: "  "
+title: "Leandro Zipitria"
 output: html_document
+header-includes:
+  \AtBeginDocument{\let\maketitle\relax}
 ---
 
+
 \
+
+<style type="text/css">
+
+h1.title {
+  font-size: 0px;
+  text-align: center;
+}
+
+</style>
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
