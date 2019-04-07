@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 analytics:
-  		provider: "google-universal"
-  	google:
- 	tracking_id: "UA-137858282-1"
+  provider: "google-universal"
+  google:
+ 	  tracking_id: "UA-137858282-1"
