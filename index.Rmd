@@ -1,8 +1,6 @@
 ---
 title: "Leandro Zipitria"
 output: html_document
-header-includes:
-  \AtBeginDocument{\let\maketitle\relax}
 ---
 
 
