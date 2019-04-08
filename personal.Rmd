@@ -28,7 +28,7 @@ I also support several artist through Bandcamp. There are so many talented music
 
 Some years ago I have some music bands, which are now disbanded. I used to play the guitar. Below are some recordings that I have made decades ago.
 
-\
+  
 
 ## Maldicion
 
@@ -41,7 +41,7 @@ This was an experimental industrial band. In 1996 we recorded a single called "T
 
 Lately, in 1997 we record a new song made completely using computers for the rhythm section. The song was called [“Less“](files/music/maldicion-less.ogg). Enjoy it.
 
-\
+  
 
 ## Monotremata
 
