@@ -1,10 +1,19 @@
 ---
-title: " "
+title: "Contact"
 output: 
    html_document:
       includes:
          in_header: ganalitics.html
 ---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 0px;
+  text-align: center;
+}
+
+</style>
 
 #
 
