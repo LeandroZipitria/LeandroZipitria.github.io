@@ -4,6 +4,8 @@ output:
   html_document:
     toc: true # Add toc
     toc_float: true # keep it on the left
+    includes:
+       in_header: ganalitics.html
 ---
 
 "If you're not having fun, you're doing something wrong." Marx (Groucho)
