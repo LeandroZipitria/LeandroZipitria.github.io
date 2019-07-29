@@ -22,6 +22,8 @@ h1.title {
 
 <img src="Imagenes/Leandro.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
+Welcome to my website.
+
 I am Economist. My fields of specialization are Industrial Organization, Regulation, and Antitrust. I have a PhD in Economics by the [Universidad de San Andrés](https://www.udesa.edu.ar/departamento-de-economia/economia), Argentina.
 
 I am mainly at [dECON](http://cienciassociales.edu.uy/departamentodeeconomia/leandro-zipitria-2/) at the Universidad de la República, but also teach at [Universidad de Montevideo](http://fcee.um.edu.uy/profesoresum/2446-leandro-zipitria/).
