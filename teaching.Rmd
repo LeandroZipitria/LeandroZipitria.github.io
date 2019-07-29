@@ -147,25 +147,27 @@ Presentaciones del curso de Organización Industrial que doy en la Universidad d
 
 1. [Monopolio](files/teaching/oi-um/3-Monopolio.pdf)
 
-1. [Teoría de juegos](files/teaching/oi-um/4-TeoJuegos.pdf)
+1. [Discriminación de precios](files/teaching/oi-um/4-Discriminacion.pdf)
+
+<!-- 1. [Teoría de juegos](files/teaching/oi-um/4-TeoJuegos.pdf) -->
 
 1. [Oligopolio: bienes homogéneos](files/teaching/oi-um/5-Oligopolio.pdf)
 
-1. [Oligopolio: bienes diferenciados](files/teaching/oi-um/6-BsDiferenciados.pdf)
+1. [Colusión](files/teaching/oi-um/6-Colusion.pdf)
 
-1. [Concentración](files/teaching/oi-um/7-Concentracion.pdf)
+<!-- 1. [Oligopolio: bienes diferenciados](files/teaching/oi-um/6-BsDiferenciados.pdf) -->
 
-1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf)
+<!-- 1. [Concentración](files/teaching/oi-um/7-Concentracion.pdf) -->
 
-1. [Costos hundidos](files/teaching/oi-um/9-CostosH.pdf)
+<!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
 
-1. [Restricciones verticales](files/teaching/oi-um/11-Restriciones.verticales.pdf)
+<!-- 1. [Costos hundidos](files/teaching/oi-um/9-CostosH.pdf) -->
 
-1. [Comportamientos estratégicos](files/teaching/oi-um/12-Estrategicos.pdf)
+<!-- 1. [Restricciones verticales](files/teaching/oi-um/11-Restriciones.verticales.pdf) -->
 
-1. [Colusión](files/teaching/oi-um/13-Colusion.pdf)
+<!-- 1. [Comportamientos estratégicos](files/teaching/oi-um/12-Estrategicos.pdf) -->
 
-1. [Discriminación de precios](files/teaching/oi-um/15-Discriminacion.pdf)
+
 
 ---
 
