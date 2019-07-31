@@ -1,0 +1,24 @@
+name: "Leandro Zipitria"
+output_dir: "."
+navbar:
+  title: "Leandro Zipitria"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Bio"
+      href: bio.html
+    - text: "Personal"
+      href: personal.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/LeandroZipitria
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/leandrozipitria/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
