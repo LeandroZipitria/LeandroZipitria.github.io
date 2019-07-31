@@ -1,2 +1,0 @@
-# Leandro Zipitria
-Welcome!
