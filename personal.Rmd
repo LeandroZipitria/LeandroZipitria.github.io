@@ -14,7 +14,6 @@ output:
 
 \
 
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="Imagenes/Dibujo_Cuba_lowres_sinb.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
@@ -31,6 +30,8 @@ output:
 \
 
 A funny portrait made by a cuban street artist.
+
+\
 
 # Music
 
