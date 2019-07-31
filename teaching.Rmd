@@ -141,6 +141,8 @@ Mis presentaciones en el curso de Micro III (Teoría de Juegos y Contratos) en l
 
 Presentaciones del curso de Organización Industrial que doy en la Universidad de Montevideo.
 
+- [Teoría de juegos](files/teaching/oi-um/Adicional-TeoJuegos.pdf)
+
 1. [Introducción](files/teaching/oi-um/1-Introduccion.pdf)
 
 1. [Competencia perfecta](files/teaching/oi-um/2-CP.pdf)
@@ -148,8 +150,6 @@ Presentaciones del curso de Organización Industrial que doy en la Universidad d
 1. [Monopolio](files/teaching/oi-um/3-Monopolio.pdf)
 
 1. [Discriminación de precios](files/teaching/oi-um/4-Discriminacion.pdf)
-
-<!-- 1. [Teoría de juegos](files/teaching/oi-um/4-TeoJuegos.pdf) -->
 
 1. [Oligopolio: bienes homogéneos](files/teaching/oi-um/5-Oligopolio.pdf)
 
