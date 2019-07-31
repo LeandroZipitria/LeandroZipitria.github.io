@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 theme: jekyll-theme-slate
 analytics:
   provider: "google-universal"
   google:
     tracking_id: "UA-137858282-1"
+=======
+theme: jekyll-theme-slate
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-137858282-1"
+>>>>>>> 337a240717f40d4a1d0fc6c4b0c822bdc17966e4
     anonymize_ip: false # default
