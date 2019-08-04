@@ -18,6 +18,8 @@ navbar:
       href: http://github.com/LeandroZipitria
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/leandrozipitria/
+    - icon: fa-stack-overflow fa-lg
+      href: https://stackoverflow.com/users/6541439/leandro-zipitria
 output:
   html_document:
     theme: paper
