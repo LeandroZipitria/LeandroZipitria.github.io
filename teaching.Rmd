@@ -18,6 +18,41 @@ Here are some slides from the courses I have taught. All courses are in Spanish.
 
 ---
 
+
+# Organización industrial
+
+Presentaciones del curso de Organización Industrial que doy en la Universidad de Montevideo.
+
+- [Teoría de juegos](files/teaching/oi-um/Adicional-TeoJuegos.pdf)
+
+1. [Introducción](files/teaching/oi-um/1-Introduccion.pdf)
+
+1. [Competencia perfecta](files/teaching/oi-um/2-CP.pdf)
+
+1. [Monopolio](files/teaching/oi-um/3-Monopolio.pdf)
+
+1. [Discriminación de precios](files/teaching/oi-um/4-Discriminacion.pdf)
+
+1. [Oligopolio: bienes homogéneos](files/teaching/oi-um/5-Oligopolio.pdf)
+
+1. [Colusión](files/teaching/oi-um/6-Colusion.pdf)
+
+1. [Estructura de mercado](files/teaching/oi-um/7-Estructura.pdf)
+
+<!-- 1. [Oligopolio: bienes diferenciados](files/teaching/oi-um/6-BsDiferenciados.pdf) -->
+
+<!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
+
+<!-- 1. [Costos hundidos](files/teaching/oi-um/9-CostosH.pdf) -->
+
+<!-- 1. [Restricciones verticales](files/teaching/oi-um/11-Restriciones.verticales.pdf) -->
+
+<!-- 1. [Comportamientos estratégicos](files/teaching/oi-um/12-Estrategicos.pdf) -->
+
+Hace un tiempo realicé unas notas a modo de resumen de los temas del curso. Está bastante desactualizado, pero puede ser de utilidad. Pueden descargarlas [aquí](files/teaching/oi-um/CursoOI.2012.pdf).
+
+---
+
 # Defensa de la competencia (I)
 
 A continuación encontrarán las transparencias de un curso de Defensa de la Competencia que dicté en la Universidad de Montevideo en el año 2008. El público objetivo del curso eran abogados. Se basan en el libro de Motta (2004) “Competition Policy”, en distintos artículos y en documentos oficiales de los distintos órganos de aplicación. Nota: si las utiliza, favor cite la fuente.
@@ -134,40 +169,6 @@ Mis presentaciones en el curso de Micro III (Teoría de Juegos y Contratos) en l
 1. [Selección adversa](files/teaching/microiii/6.2-Contratos_Seleccion_Adversa.pdf)
 
 1. [Riesgo moral](files/teaching/microiii/6.3-Contratos_Riesgo_Moral.pdf)
-
----
-
-# Organización industrial
-
-Presentaciones del curso de Organización Industrial que doy en la Universidad de Montevideo.
-
-- [Teoría de juegos](files/teaching/oi-um/Adicional-TeoJuegos.pdf)
-
-1. [Introducción](files/teaching/oi-um/1-Introduccion.pdf)
-
-1. [Competencia perfecta](files/teaching/oi-um/2-CP.pdf)
-
-1. [Monopolio](files/teaching/oi-um/3-Monopolio.pdf)
-
-1. [Discriminación de precios](files/teaching/oi-um/4-Discriminacion.pdf)
-
-1. [Oligopolio: bienes homogéneos](files/teaching/oi-um/5-Oligopolio.pdf)
-
-1. [Colusión](files/teaching/oi-um/6-Colusion.pdf)
-
-<!-- 1. [Oligopolio: bienes diferenciados](files/teaching/oi-um/6-BsDiferenciados.pdf) -->
-
-<!-- 1. [Concentración](files/teaching/oi-um/7-Concentracion.pdf) -->
-
-<!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
-
-<!-- 1. [Costos hundidos](files/teaching/oi-um/9-CostosH.pdf) -->
-
-<!-- 1. [Restricciones verticales](files/teaching/oi-um/11-Restriciones.verticales.pdf) -->
-
-<!-- 1. [Comportamientos estratégicos](files/teaching/oi-um/12-Estrategicos.pdf) -->
-
-
 
 ---
 
