@@ -39,6 +39,8 @@ Presentaciones del curso de Organización Industrial que doy en la Universidad d
 
 1. [Estructura de mercado](files/teaching/oi-um/7-Estructura.pdf)
 
+1. [Fusiones horizontales](files/teaching/oi-um/8-Fusiones.pdf)
+
 <!-- 1. [Oligopolio: bienes diferenciados](files/teaching/oi-um/6-BsDiferenciados.pdf) -->
 
 <!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
