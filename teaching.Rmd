@@ -41,13 +41,13 @@ Presentaciones del curso de Organización Industrial que doy en la Universidad d
 
 1. [Fusiones horizontales](files/teaching/oi-um/8-Fusiones.pdf)
 
-<!-- 1. [Oligopolio: bienes diferenciados](files/teaching/oi-um/6-BsDiferenciados.pdf) -->
+1. [Cierre de mercado](files/teaching/oi-um/9-Cierre.pdf)
+
+1. [Restricciones verticales](files/teaching/oi-um/10-Restriciones.verticales.pdf)
+
+1. [Bienes diferenciados](files/teaching/oi-um/11 -BsDiferenciados.pdf)
 
 <!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
-
-<!-- 1. [Costos hundidos](files/teaching/oi-um/9-CostosH.pdf) -->
-
-<!-- 1. [Restricciones verticales](files/teaching/oi-um/11-Restriciones.verticales.pdf) -->
 
 <!-- 1. [Comportamientos estratégicos](files/teaching/oi-um/12-Estrategicos.pdf) -->
 
