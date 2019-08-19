@@ -45,7 +45,7 @@ Presentaciones del curso de Organización Industrial que doy en la Universidad d
 
 1. [Restricciones verticales](files/teaching/oi-um/10-Restriciones.verticales.pdf)
 
-1. [Bienes diferenciados](files/teaching/oi-um/11 -BsDiferenciados.pdf)
+1. [Bienes diferenciados](files/teaching/oi-um/11 -BsDiferenciados.pdf) 
 
 <!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
 
