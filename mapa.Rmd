@@ -1,0 +1,56 @@
+---
+title: "Mapa"
+output: 
+  html_document:
+    toc: true # Add toc
+    toc_float: true # keep it on the left
+    includes:
+       in_header: ganalitics.html
+---
+
+
+Mapa de supermercados en Montevideo, Canelones y Maldonado (de acuerdo a su tamaño). \\
+
+El tamaño del círculo es igual al número de cajas por 100 metros. Por ejemplo, en el caso del Geànt con 62 cajas, son 6 kilómetros; en el caso del Disco 24 con 4 cajas, son 400 metros.
+
+
+```{r superPlot, echo=FALSE, warning=FALSE}
+library(leaflet)
+library(data.table)
+library(Matrix)
+
+#setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
+setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
+
+
+establecimientos <- fread("establecimientos.csv", data.table = F)
+
+# a ver si pasa
+#colnames(establecimientos)
+deptos <- c("Montevideo","Canelones","Maldonado")
+cadenas <- c("Devoto","Disco","Tienda Inglesa","Macromercado Mayorista",
+             "Ta - Ta","Geant")
+#sacar <- c("Frog","Multi Ahorro", "Iberpark", "La Colonial")
+#'%!in%' <- function(x,y)!('%in%'(x,y))
+estab <- establecimientos[establecimientos$depto %in% deptos & establecimientos$farmacia ==0 &
+                            establecimientos$chain %in% cadenas,
+                          c(1,6,11,12,13)]
+estab$chain <- as.factor(estab$chain)
+estab$chain <- droplevels(estab$chain)
+
+#colnames(estab)
+
+pal <- colorFactor(
+  palette = 'Dark2',
+  domain = estab$chain)
+
+m <- leaflet(estab) %>% addTiles() %>% 
+  addCircles(lng = ~long, lat = ~lat, weight = 1,
+             radius = ~Cashiers*100, popup = ~Super, color = ~pal(chain)) %>% 
+  addLegend("bottomright", pal = pal, values = ~chain,
+            title = "Cadenas",
+            opacity = 3)
+setView(m, -55.8, -34.6, zoom = 9)
+
+```
+
