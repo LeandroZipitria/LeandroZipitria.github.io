@@ -4,19 +4,20 @@ output: html_document
 
 ---
 
+## Antes de la fusión
 
-Mapa de supermercados en Montevideo, Canelones y Maldonado (de acuerdo a su tamaño).\
+Mapa interactivo de supermercados en Montevideo, Canelones y Maldonado (de acuerdo a su tamaño) antes de la fusión prevista entre Tienda Inglesa y el Grupo Disco (Disco, Devoto, Geànt).\
 
 El tamaño del círculo es igual al número de cajas por 100 metros. Por ejemplo, en el caso del Geànt con 62 cajas, son 6 kilómetros; en el caso del Disco 24 con 4 cajas, son 400 metros.\
 
 
-```{r superPlot, echo=FALSE, warning=FALSE}
+```{r superPlotAntes, echo=FALSE, warning=FALSE}
 library(leaflet)
 library(data.table)
 library(Matrix)
 
-#setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
-setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
+setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
+#setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
 
 
 establecimientos <- fread("establecimientos.csv", data.table = F)
@@ -37,16 +38,67 @@ estab$chain <- droplevels(estab$chain)
 #colnames(estab)
 
 pal <- colorFactor(
-  palette = 'Dark2',
+  palette = 'Paired',
   domain = estab$chain)
 
-m <- leaflet(estab) %>% addTiles() %>% 
+m <- leaflet(estab) %>% 
+  addTiles() %>% 
   addCircles(lng = ~long, lat = ~lat, weight = 1,
-             radius = ~Cashiers*100, popup = ~Super, color = ~pal(chain)) %>% 
-  addLegend("bottomright", pal = pal, values = ~chain,
-            title = "Cadenas",
-            opacity = 3)
-setView(m, -55.8, -34.6, zoom = 9)
+             radius = ~Cashiers*100, color = ~pal(chain), group = ~chain) %>% 
+  # addLegend("bottomright", pal = pal, values = ~chain2,
+  #           title = "Cadenas",
+  #           opacity = 3) %>% 
+  addLayersControl(
+    overlayGroups = ~chain,
+    options = layersControlOptions(collapsed = F)
+  )
+setView(m, -55.5, -34.6, zoom = 9)
+
+```
+
+
+## Después de la fusión
+
+Mapa interactivo de supermercados en Montevideo, Canelones y Maldonado (de acuerdo a su tamaño) después de la fusión prevista entre Tienda Inglesa y el Grupo Disco (Disco, Devoto, Geànt).\
+
+
+El tamaño del círculo es igual al número de cajas por 100 metros. Por ejemplo, en el caso del Geànt con 62 cajas, son 6 kilómetros; en el caso del Disco 24 con 4 cajas, son 400 metros.\
+
+
+```{r superPlotDespues, echo=FALSE, warning=FALSE}
+library(leaflet)
+library(data.table)
+library(Matrix)
+
+setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
+#setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
+
+
+establecimientos <- fread("establecimientos.csv", data.table = F)
+
+fusionadas <- c("Devoto", "Disco","Geant", "Tienda Inglesa")
+
+estab$chain2 <- ifelse(estab$chain %in% fusionadas, "Tienda Inglesa", as.character(estab$chain))
+
+
+#colnames(estab)
+
+pal <- colorFactor(
+  palette = c("darkgreen","blue","red"),
+  domain = estab$chain2)
+
+m <- leaflet(estab) %>% 
+  addTiles() %>% 
+  addCircles(lng = ~long, lat = ~lat, weight = 1,
+             radius = ~Cashiers*100, color = ~pal(chain2), group = ~chain2) %>% 
+  # addLegend("bottomright", pal = pal, values = ~chain2,
+  #           title = "Cadenas",
+  #           opacity = 3) %>% 
+  addLayersControl(
+    overlayGroups = ~chain2,
+    options = layersControlOptions(collapsed = F)
+  )
+setView(m, -55.5, -34.6, zoom = 9)
 
 ```
 
