@@ -42,7 +42,7 @@ pal <- colorFactor(
 
 m <- leaflet(estab) %>% 
   addTiles() %>% 
-  addCircles(lng = ~long, lat = ~lat, weight = 1,
+  addCircles(lng = ~long, lat = ~lat, weight = 3,
              radius = ~Cashiers*100, color = ~pal(chain), group = ~chain) %>% 
   # addLegend("bottomright", pal = pal, values = ~chain2,
   #           title = "Cadenas",
@@ -88,7 +88,7 @@ pal <- colorFactor(
 
 m <- leaflet(estab) %>% 
   addTiles() %>% 
-  addCircles(lng = ~long, lat = ~lat, weight = 1,
+  addCircles(lng = ~long, lat = ~lat, weight = 3,
              radius = ~Cashiers*100, color = ~pal(chain2), group = ~chain2) %>% 
   # addLegend("bottomright", pal = pal, values = ~chain2,
   #           title = "Cadenas",
