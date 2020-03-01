@@ -16,9 +16,8 @@ library(leaflet)
 library(data.table)
 library(Matrix)
 
-setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
-#setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
-
+#setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
+setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
 
 establecimientos <- fread("establecimientos.csv", data.table = F)
 
@@ -26,7 +25,7 @@ establecimientos <- fread("establecimientos.csv", data.table = F)
 #colnames(establecimientos)
 deptos <- c("Montevideo","Canelones","Maldonado")
 cadenas <- c("Devoto","Disco","Tienda Inglesa","Macromercado Mayorista",
-             "Ta - Ta","Geant")
+             "Ta - Ta","Geant", "El Dorado")
 #sacar <- c("Frog","Multi Ahorro", "Iberpark", "La Colonial")
 #'%!in%' <- function(x,y)!('%in%'(x,y))
 estab <- establecimientos[establecimientos$depto %in% deptos & establecimientos$farmacia ==0 &
@@ -70,8 +69,8 @@ library(leaflet)
 library(data.table)
 library(Matrix)
 
-setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
-#setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
+#setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
+setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
 
 
 establecimientos <- fread("establecimientos.csv", data.table = F)
