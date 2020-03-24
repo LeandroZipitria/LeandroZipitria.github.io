@@ -1,5 +1,5 @@
 ---
-title: "Mapa65"
+title: "Mapa mayores de 65 años"
 author: "Leandro Zipitria"
 date: "24/3/2020"
 output: html_document
