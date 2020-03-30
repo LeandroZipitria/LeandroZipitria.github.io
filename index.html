@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -95,7 +95,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -244,6 +243,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -255,18 +255,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -364,10 +352,11 @@ h1.title {
 </center>
 <hr />
 <p>I am Economist. My fields of specialization are Industrial Organization, Regulation, and Antitrust. I have a PhD in Economics by the <a href="https://www.udesa.edu.ar/departamento-de-economia/economia">Universidad de San Andrés</a>, Argentina.</p>
-<p>I am mainly at <a href="http://cienciassociales.edu.uy/departamentodeeconomia/leandro-zipitria-2/">dECON</a> at the Universidad de la República, but also teach at <a href="http://fcee.um.edu.uy/profesoresum/2446-leandro-zipitria/">Universidad de Montevideo</a>.</p>
+<p>I am mainly at <a href="http://cienciassociales.edu.uy/departamentodeeconomia/leandro-zipitria-2/">dECON</a> at the Universidad de la República.</p>
+<p>I have a side project with Daniel Czarnievicz with the aim of visualizing data from Uruguay called <a href="https://www.unaimagen.uy/">unaimagen</a>, because “an image worth a thousand words”.</p>
 <p>My full CV is available in <a href="files/english_CV.pdf">English</a> and <a href="files/spanish_CV.pdf">Spanish</a>.</p>
 <hr />
-<p>Last revision: August 22, 2019. Leandro Zipitría.</p>
+<p>Last revision: marzo 30, 2020. Leandro Zipitría.</p>
 
 
 
@@ -386,6 +375,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
