@@ -1,0 +1,11 @@
+---
+title: "Clases de Organización Industrial"
+author: "Leandro Zipitria"
+date: "1/4/2020"
+output: html_document
+---
+
+En esta página voy a ir subiendo las grabaciones de las clases de Organización Industrial del primer semestre de la Facultad de Ciencias Económicas y de Administración.
+
+Fecha: 1/4/2020.
+Tema: [Discriminación de precios (parte 1)](files/videos/Clase 01-04-2020.mp4).
