@@ -1,6 +1,9 @@
 ---
 title: "Mapa"
-output: html_document
+output: 
+  html_document:
+    includes:
+       in_header: ganalitics.html
 
 ---
 
@@ -16,10 +19,7 @@ library(leaflet)
 library(data.table)
 library(Matrix)
 
-#setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
-setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
-
-establecimientos <- fread("establecimientos.csv", data.table = F)
+establecimientos <- fread("~/Dropbox/Docs/Consultorias/2020-Tata/R/establecimientos.csv", data.table = F)
 
 # a ver si pasa
 #colnames(establecimientos)
@@ -69,11 +69,7 @@ library(leaflet)
 library(data.table)
 library(Matrix)
 
-#setwd("c://Users/leandro/Dropbox/Docs/Consultorias/2020-Tata/R/") # decon
-setwd("~/Dropbox/Docs/Consultorias/2020-Tata/R/") # casa
-
-
-establecimientos <- fread("establecimientos.csv", data.table = F)
+establecimientos <- fread("~/Dropbox/Docs/Consultorias/2020-Tata/R/establecimientos.csv", data.table = F)
 
 fusionadas <- c("Devoto", "Disco","Geant", "Tienda Inglesa")
 
