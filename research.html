@@ -13,12 +13,22 @@
 
 <title>Research</title>
 
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -37,12 +47,16 @@
   gtag('config', 'UA-137858282-1');
 </script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -55,32 +69,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -91,10 +80,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -111,40 +96,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -172,7 +130,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -184,7 +142,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -195,10 +153,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -210,7 +181,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -336,7 +306,7 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
+<div class="row">
 <div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
@@ -402,7 +372,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -447,6 +417,7 @@ div.tocify {
 <p><br />
 </p>
 <ol style="list-style-type: decimal">
+<li><p><a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16371#">Local Retail Prices, Product Varieties and Neighborhood Change</a>, (2021) with Fernando Borraz, Felipe Carozzi, and Nicolás González-Pampillon. (New)</p></li>
 <li><p>Czarnievicz, Daniel y <strong>Leandro Zipitría</strong>. (2018). <a href="files/2018.Concentración%20y%20precios%20en%20cinco%20mercados%20minoristas.pdf">Concentración y precios en cinco mercados minoristas</a>. Documento de trabajo 06/18, dECON.</p></li>
 <li><p>Borraz, Fernando and <strong>Leandro Zipitría</strong>. (2017). <a href="https://www.econstor.eu/bitstream/10419/162799/1/GLO_DP_0087.pdf">Law of One Price, Distance, and Borders</a>. GLO Discussion Paper, No. 87. <a href="https://github.com/LeandroZipitria/Border">Codes</a></p></li>
 <li><p>Rius, Andrés y <strong>Leandro Zipitría</strong>. (2016). <a href="https://repositorio.cepal.org/bitstream/handle/11362/39864/S1501314_es.pdf;jsessionid=8C82D69F3FC49D2272777AF8960C1BFB?sequence=1">Formación y determinación de precios en el Uruguay</a>. Series de CEPAL #22.</p></li>
@@ -462,9 +433,8 @@ div.tocify {
 <p><br />
 </p>
 <ol style="list-style-type: decimal">
-<li><p><a href="files/Version_43-2020.pdf">Varieties as a Source of Law of One Price Deviation</a>, with Fernando Borraz. (submitted)</p></li>
+<li><p><a href="files/Version_43-2020.pdf">Varieties as a Source of Law of One Price Deviation</a>, with Fernando Borraz.</p></li>
 <li><p><a href="files/Borraz.Zipitria%20-%20Long%20Run%20Price%20or%20Variety%20Convergence.pdf">Long Run Price or Basket Convergence?</a>, with Fernando Borraz. <a href="https://github.com/LeandroZipitria/Convergence">Codes</a></p></li>
-<li><p><a href="files/LSV-2020-final.pdf">Gentrifying Neighborhoods, Retail Prices and Varieties</a>, with Fernando Borraz, Felipe Carozzi, and Nicolás González-Pampillon</p></li>
 <li><p>Sales, Price Rigidities, and the Business Cycle, with Fernando Borraz and Mariana Leguisamo</p></li>
 <li><p>Variation on a Theme: Retail Price Dispersion, with Iael Klaczko.</p></li>
 </ol>
@@ -481,7 +451,7 @@ div.tocify {
 <li><p>Bergara, Mario y <strong>Leandro Zipitría</strong>. (2003). <a href="https://books.google.com.uy/books?id=esb5agSJfkkC&amp;pg=PA132&amp;lpg=PA132&amp;dq=&amp;hl=es#v=onepage&amp;q&amp;f=false">Una visión institucional de la legislación de bancarrota</a>. Capíulo VII del libro “Las reglas de juego en el Uruguay: el entorno institucional y los problemas económicos”. Editorial Trilce.</p></li>
 </ul>
 <hr />
-<p>Last revision: agosto 24, 2020. Leandro Zipitría.</p>
+<p>Last revision: julio 19, 2021. Leandro Zipitría.</p>
 </div>
 
 
@@ -495,7 +465,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -513,7 +483,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -522,6 +492,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

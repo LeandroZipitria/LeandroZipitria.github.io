@@ -55,6 +55,8 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 \
 
+1. [Local Retail Prices, Product Varieties and Neighborhood Change](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16371#), (2021) with Fernando Borraz, Felipe Carozzi, and Nicolás González-Pampillon. (New)
+
 1. Czarnievicz, Daniel y **Leandro Zipitría**. (2018). [Concentración y precios en cinco mercados minoristas](files/2018.Concentración y precios en cinco mercados minoristas.pdf). Documento de trabajo 06/18, dECON.
   
 1. Borraz, Fernando and **Leandro Zipitría**. (2017). [Law of One Price, Distance, and Borders](https://www.econstor.eu/bitstream/10419/162799/1/GLO_DP_0087.pdf). GLO Discussion Paper, No. 87. [Codes](https://github.com/LeandroZipitria/Border)
@@ -74,11 +76,9 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 \
 
 
-1. [Varieties as a Source of Law of One Price Deviation](files/Version_43-2020.pdf), with Fernando Borraz. (submitted)
+1. [Varieties as a Source of Law of One Price Deviation](files/Version_43-2020.pdf), with Fernando Borraz.
 
 1. [Long Run Price or Basket Convergence?](files/Borraz.Zipitria - Long Run Price or Variety Convergence.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence)
-
-1. [Gentrifying Neighborhoods, Retail Prices and Varieties](files/LSV-2020-final.pdf), with Fernando Borraz, Felipe Carozzi, and Nicolás González-Pampillon
 
 1. Sales, Price Rigidities, and the Business Cycle, with Fernando Borraz and Mariana Leguisamo
 
