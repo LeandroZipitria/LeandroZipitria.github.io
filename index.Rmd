@@ -31,7 +31,7 @@ I am Economist. My fields of specialization are Industrial Organization, Regulat
 
 I am mainly at [dECON](http://cienciassociales.edu.uy/departamentodeeconomia/leandro-zipitria-2/) at the Universidad de la República.
 
-I have a side project with Daniel Czarnievicz with the aim of visualizing data from Uruguay called [unaimagen](https://www.unaimagen.uy/), because "an image worth a thousand words".
+I had a side project with Daniel Czarnievicz with the aim of visualizing data from Uruguay called [unaimagen](https://www.unaimagen.uy/), because "an image worth a thousand words".
 
 My full CV is available in [English](files/english_CV.pdf) and [Spanish](files/spanish_CV.pdf).
 
