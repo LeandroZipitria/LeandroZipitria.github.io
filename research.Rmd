@@ -59,7 +59,7 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 1. 2018. Czarnievicz, Daniel and **Leandro Zipitría**. [Concentración y precios en cinco mercados minoristas](files/2018.Concentración y precios en cinco mercados minoristas.pdf). Documento de trabajo 06/18, dECON.
   
-1. 2017. Borraz, Fernando and **Leandro Zipitría**. [Law of One Price, Distance, and Borders](https://www.econstor.eu/bitstream/10419/162799/1/GLO_DP_0087.pdf). GLO Discussion Paper, No. 87. [Codes](https://github.com/LeandroZipitria/Border)
+1. 2017. Borraz, Fernando and **Leandro Zipitría**. [Law of One Price, Distance, and Borders](https://www.econstor.eu/bitstream/10419/162799/1/GLO_DP_0087.pdf). GLO Discussion Paper, No. 87. [Codes](https://github.com/LeandroZipitria/Border)  
   
 1. 2016. Rius, Andrés and **Leandro Zipitría**. [Formación y determinación de precios en el Uruguay](https://repositorio.cepal.org/bitstream/handle/11362/39864/S1501314_es.pdf;jsessionid=8C82D69F3FC49D2272777AF8960C1BFB?sequence=1). Series de CEPAL #22.
   
@@ -76,7 +76,7 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 \
 
 
-1. [Varieties as a Source of Law of One Price Deviation](files/LOP Version 2021_12_11.pdf), with Fernando Borraz. (Submitted)
+1. [Varieties as a Source of Law of One Price Deviation](files/LOP Version 2021_12_11.pdf), with Fernando Borraz. (R&R International Economics)
 
 1. [Long Run Price or Basket Convergence?](files/Borraz.Zipitria - Long Run Price or Variety Convergence.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence)
 
