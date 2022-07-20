@@ -100,4 +100,4 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 ***
 
-Last revision: `r format(Sys.Date(), "%B %d, %Y")`. Leandro Zipitría.
+Last revision: julio 20, 2022. Leandro Zipitría.
