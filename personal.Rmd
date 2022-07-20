@@ -53,12 +53,12 @@ Some years ago I have some music bands, which are now disbanded. I used to play 
 
 This was an experimental industrial band. In 1996 we recorded a single called "Tedio". The songs were:
 
-1. [Endurece como metal](files/music/01-maldicion-tedio-endurece-como-metal.ogg)
-1. [Pameta](files/music/02-maldicion-tedio-palmeta.ogg)
-1. [Dislocación](files/music/03-maldicion-tedio-dislocacion.ogg)
-1. [Lo que va a pasar](files/music/04-maldicion-tedio-lo-que-va-a-pasar.ogg)
+1. [Endurece como metal](files/music/01 - Maldicion - Tedio - Endurece como metal.mp3)
+1. [Palmeta](files/music/02 - Maldicion - Tedio - Palmeta.mp3)
+1. [Dislocación](files/music/03 - Maldicion - Tedio - Dislocacion.mp3)
+1. [Lo que va a pasar](files/music/04 - Maldicion - Tedio - Lo que va a pasar.mp3)
 
-Lately, in 1997 we record a new song made completely using computers for the rhythm section. The song was called [“Less“](files/music/maldicion-less.ogg). Enjoy it.
+Lately, in 1997 we record a new song made completely using computers for the rhythm section. The song was called [“Less“](files/music/Maldicion - Less.mp3). Enjoy it.
 
   
 
