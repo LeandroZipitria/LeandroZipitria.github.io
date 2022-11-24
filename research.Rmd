@@ -35,7 +35,7 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 \
 
-1. 2022. Borraz, Fernando and **Leandro Zipitría**. [Varieties as a Source of Law of One Price Deviation](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543). WP version [here](files/LOP Version 2021_12_11.pdf). International Economics, (*forthcoming*)
+1. 2022. Borraz, Fernando and **Leandro Zipitría**. [Varieties as a Source of Law of One Price Deviation](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543). International Economics, 172: 1-14. WP version [here](files/LOP Version 2021_12_11.pdf). 
 
 1. 2016. Borraz, Fernando, Alberto Cavallo, Roberto Rigobon, and **Leandro Zipitría**. [Distance and Political Boundaries: Estimating Border Effects under Inequality Constraints](files/2016.Borraz_Cavallo_Rigobon_Zipitria - Distance and political boundaries.pdf). International Journal of Finance and Economics (21): 3-35.
   
@@ -57,11 +57,9 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 \
 
-1. 2021. Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillon, and **Leandro Zipitría** [Local Retail Prices, Product Varieties and Neighborhood Change](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16371#). (R&R AEJ: Policy)
+1. 2021. Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillon, and **Leandro Zipitría** [Local Retail Prices, Product Varieties and Neighborhood Change](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16371#). (AEJ: Economic Policy, conditionally accepted)
 
 1. 2018. Czarnievicz, Daniel and **Leandro Zipitría**. [Concentración y precios en cinco mercados minoristas](files/2018.Concentración y precios en cinco mercados minoristas.pdf). Documento de trabajo 06/18, dECON.
-  
-1. 2017. Borraz, Fernando and **Leandro Zipitría**. [Law of One Price, Distance, and Borders](https://www.econstor.eu/bitstream/10419/162799/1/GLO_DP_0087.pdf). GLO Discussion Paper, No. 87. [Codes](https://github.com/LeandroZipitria/Border)  
   
 1. 2016. Rius, Andrés and **Leandro Zipitría**. [Formación y determinación de precios en el Uruguay](https://repositorio.cepal.org/bitstream/handle/11362/39864/S1501314_es.pdf;jsessionid=8C82D69F3FC49D2272777AF8960C1BFB?sequence=1). Series de CEPAL #22.
   

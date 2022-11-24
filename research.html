@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -156,11 +156,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -189,8 +193,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -198,16 +202,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -419,9 +416,9 @@ href="https://github.com/LeandroZipitria/libro-regulacion">Github</a>.</p>
 <li><ol start="2022" style="list-style-type: decimal">
 <li>Borraz, Fernando and <strong>Leandro Zipitría</strong>. <a
 href="https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543">Varieties
-as a Source of Law of One Price Deviation</a>. WP version <a
-href="files/LOP%20Version%202021_12_11.pdf">here</a>. International
-Economics, (<em>forthcoming</em>)</li>
+as a Source of Law of One Price Deviation</a>. International Economics,
+172: 1-14. WP version <a
+href="files/LOP%20Version%202021_12_11.pdf">here</a>.</li>
 </ol></li>
 <li><ol start="2016" style="list-style-type: decimal">
 <li>Borraz, Fernando, Alberto Cavallo, Roberto Rigobon, and
@@ -480,20 +477,14 @@ Uruguay.</li>
 <li>Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillon, and
 <strong>Leandro Zipitría</strong> <a
 href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16371#">Local
-Retail Prices, Product Varieties and Neighborhood Change</a>. (R&amp;R
-AEJ: Policy)</li>
+Retail Prices, Product Varieties and Neighborhood Change</a>. (AEJ:
+Economic Policy, conditionally accepted)</li>
 </ol></li>
 <li><ol start="2018" style="list-style-type: decimal">
 <li>Czarnievicz, Daniel and <strong>Leandro Zipitría</strong>. <a
 href="files/2018.Concentración%20y%20precios%20en%20cinco%20mercados%20minoristas.pdf">Concentración
 y precios en cinco mercados minoristas</a>. Documento de trabajo 06/18,
 dECON.</li>
-</ol></li>
-<li><ol start="2017" style="list-style-type: decimal">
-<li>Borraz, Fernando and <strong>Leandro Zipitría</strong>. <a
-href="https://www.econstor.eu/bitstream/10419/162799/1/GLO_DP_0087.pdf">Law
-of One Price, Distance, and Borders</a>. GLO Discussion Paper, No. 87.
-<a href="https://github.com/LeandroZipitria/Border">Codes</a></li>
 </ol></li>
 <li><ol start="2016" style="list-style-type: decimal">
 <li>Rius, Andrés and <strong>Leandro Zipitría</strong>. <a
@@ -572,7 +563,7 @@ los problemas económicos”. Editorial Trilce.</li>
 </ol></li>
 </ol>
 <hr />
-<p>Last revision: agosto 16, 2022. Leandro Zipitría.</p>
+<p>Last revision: noviembre 23, 2022. Leandro Zipitría.</p>
 </div>
 
 
