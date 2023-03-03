@@ -76,7 +76,7 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 \
 
 
-1. [Long Run Price or Basket Convergence?](files/Borraz.Zipitria - Long Run Price or Variety Convergence.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence)
+1. [Assessing long run price convergence in retailing](files/Borraz_Zipitria - Assessing long run price convergence in retailing 2023.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence)
 
 
 ---
