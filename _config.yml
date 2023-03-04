@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 analytics:
   provider: "google-universal"
   google:
-    tracking_id: "UA-137858282-1"
+    tracking_id: "G-WDH808DWH6" # id de leandro-ziptria.com
     anonymize_ip: false # default
