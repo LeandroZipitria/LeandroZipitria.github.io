@@ -11,6 +11,8 @@ navbar:
       href: bio.html
     - text: "Personal"
       href: personal.html
+    - text: "Regulation Book"
+      href: http://leandro-zipitria.com/libro-regulacion/  
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
