@@ -35,6 +35,8 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 \
 
+1. 2023. Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillon, and **Leandro Zipitría** [Local Retail Prices, Product Varieties and Neighborhood Change](https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f). AEJ: Economic Policy, forthcoming. Working paper version [here](files/Borraz_AEJP_2021_R1.pdf).  
+
 1. 2022. Borraz, Fernando and **Leandro Zipitría**. [Varieties as a Source of Law of One Price Deviation](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543). International Economics, 172: 1-14. WP version [here](files/LOP Version 2021_12_11.pdf). 
 
 1. 2016. Borraz, Fernando, Alberto Cavallo, Roberto Rigobon, and **Leandro Zipitría**. [Distance and Political Boundaries: Estimating Border Effects under Inequality Constraints](files/2016.Borraz_Cavallo_Rigobon_Zipitria - Distance and political boundaries.pdf). International Journal of Finance and Economics (21): 3-35.
@@ -57,7 +59,6 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 \
 
-1. 2022. Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillon, and **Leandro Zipitría** [Local Retail Prices, Product Varieties and Neighborhood Change](files/Borraz_AEJP_2021_R1.pdf). (AEJ: Economic Policy, conditionally accepted) 
 
 1. 2018. Czarnievicz, Daniel and **Leandro Zipitría**. [Concentración y precios en cinco mercados minoristas](files/2018.Concentración y precios en cinco mercados minoristas.pdf). Documento de trabajo 06/18, dECON.
   
