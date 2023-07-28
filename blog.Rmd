@@ -1,0 +1,19 @@
+---
+title: "Blog - Media"
+output: 
+  html_document:
+    toc: true # Add toc
+    toc_float: true # keep it on the left
+    includes:
+       in_header: ganalitics.html
+
+---
+
+Entre los años 2014 y 2015 fuí columnista en "Economía y Mercado" en el Diario El País.
+
+Ahora estoy escribiendo sobre economía en "La Diaria".
+
+- [Regulación y reguladores: 42](https://ladiaria.com.uy/economia/articulo/2023/7/regulacion-y-reguladores-42/). 
+Muchos problemas económicos son complejos y tienen efectos sobre múltiples actores y variables. Pretender dar una respuesta sencilla a preguntas muy generales llevará a implementar medidas equivocadas, parciales o incluso contraproducentes. (17 de julio de 2023)
+
+---

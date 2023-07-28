@@ -3,16 +3,18 @@ output_dir: "."
 navbar:
   title: "Leandro Zipitria"
   left:
+    - text: "Bio"
+      href: bio.html
     - text: "Research"
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Bio"
-      href: bio.html
-    - text: "Personal"
-      href: personal.html
     - text: "Regulation Book"
       href: http://leandro-zipitria.com/libro-regulacion/  
+    - text: "Blogs - Media"
+      href: blog.html
+    - text: "Personal"
+      href: personal.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
