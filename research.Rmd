@@ -77,7 +77,7 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 \
 
 
-<!--1. [Assessing long run price convergence in retailing](files/Borraz_Zipitria - Assessing long run price convergence in retailing 2023.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence) -->
+1. [Assessing long run price convergence in retailing](files/Long_run_retailing.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence) (submitted).
 
 1. Varieties Bias the Border Estimation, with Fernando Borraz.
 
