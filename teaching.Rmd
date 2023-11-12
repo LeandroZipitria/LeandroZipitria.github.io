@@ -16,42 +16,56 @@ Nowadays, I teach at the Facultad de Ciencias Sociales and Facultad de Ciencias 
 
 Here are some slides from the courses I have taught. All courses are in Spanish.
 
+
+---
+
+# Teoría de Juegos
+
+
+Mis presentaciones de juegos bayesianos para el curso de Teoría de juegos en la Facultad de Ciencias Sociales – UdelaR.
+
+1. [Juegos bayesianos estáticos](files/teaching/juegos/Juegos_bayesianos.pdf)
+
+1. [Juegos bayesianos dinámicos](files/teaching/juegos/Juegos_bayesianos_dinamicos.pdf)
+
+
+
 ---
 
 
 # Organización industrial
 
-Presentaciones del curso de Organización Industrial que doy en la Universidad de Montevideo.
+Presentaciones del curso de Organización Industrial que doy en la Facultad de Ciencias Económicas y Administración - Udelar.
 
-- [Teoría de juegos](files/teaching/oi-um/Adicional-TeoJuegos.pdf)
+- [Teoría de juegos](files/teaching/oi-fcea/0-TeoJuegos.pdf)
 
-1. [Introducción](files/teaching/oi-um/1-Introduccion.pdf)
+1. [Introducción](files/teaching/oi-fcea/1-Introduccion.pdf)
 
-1. [Competencia perfecta](files/teaching/oi-um/2-CP.pdf)
+1. [Competencia perfecta](files/teaching/oi-fcea/2-CP.pdf)
 
-1. [Monopolio](files/teaching/oi-um/3-Monopolio.pdf)
+1. [Monopolio](files/teaching/oi-fcea/3-Monopolio.pdf)
 
-1. [Discriminación de precios](files/teaching/oi-um/4-Discriminacion.pdf)
+1. [Discriminación de precios](files/teaching/oi-fcea/4-Discriminacion.pdf)
 
-1. [Oligopolio: bienes homogéneos](files/teaching/oi-um/5-Oligopolio.pdf)
+1. [Oligopolio: bienes homogéneos](files/teaching/oi-fcea/5-Oligopolio.pdf)
 
-1. [Colusión](files/teaching/oi-um/6-Colusion.pdf)
+1. [Colusión](files/teaching/oi-fcea/6-Colusion.pdf)
 
-1. [Estructura de mercado](files/teaching/oi-um/7-Estructura.pdf)
+1. [Estructura de mercado](files/teaching/oi-fcea/7-Estructura.pdf)
 
-1. [Fusiones horizontales](files/teaching/oi-um/8-Fusiones.pdf)
+1. [Fusiones horizontales](files/teaching/oi-fcea/8-Fusiones.pdf)
 
-1. [Cierre de mercado](files/teaching/oi-um/9-Cierre.pdf)
+1. [Cierre de mercado](files/teaching/oi-fcea/9-Cierre.pdf)
 
-1. [Restricciones verticales](files/teaching/oi-um/10-Restriciones.verticales.pdf)
+1. [Restricciones verticales](files/teaching/oi-fcea/10-Restriciones.verticales.pdf)
 
-1. [Bienes diferenciados](files/teaching/oi-um/11 -BsDiferenciados.pdf) 
+1. [Bienes diferenciados](files/teaching/oi-fcea/11-BsDiferenciados.pdf) 
 
 <!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
 
 <!-- 1. [Comportamientos estratégicos](files/teaching/oi-um/12-Estrategicos.pdf) -->
 
-Hace un tiempo realicé unas notas a modo de resumen de los temas del curso. Está bastante desactualizado, pero puede ser de utilidad. Pueden descargarlas [aquí](files/teaching/oi-um/CursoOI.2012.pdf).
+Hace un tiempo realicé unas notas a modo de resumen de los temas del curso. Está bastante desactualizado, pero puede ser de utilidad. Pueden descargarlas [aquí](files/teaching/oi-fcea/CursoOI.2012.pdf).
 
 ---
 
@@ -155,7 +169,7 @@ Otras presentaciones sobre el tema.
 
 ---
 
-# Juegos y contratos
+# Juegos y contratos (viejo)
 
 
 Mis presentaciones en el curso de Micro III (Teoría de Juegos y Contratos) en la Facultad de Ciencias Económicas y Administración – UdelaR.
