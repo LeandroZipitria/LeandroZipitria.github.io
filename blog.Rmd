@@ -9,6 +9,15 @@ output:
 
 ---
 
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  text-align: center;
+</style>
+
+
+
 Entre los años 2014 y 2015 fuí columnista en "Economía y Mercado" en el Diario El País.
 
 Ahora estoy escribiendo sobre economía en "La Diaria".

@@ -8,7 +8,14 @@ output:
        in_header: ganalitics.html
 ---
 
----
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  text-align: center;
+</style>
+
+
 
 ## Degrees
 
