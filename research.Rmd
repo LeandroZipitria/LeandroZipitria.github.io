@@ -9,15 +9,23 @@ output:
 
 ---
 
+\
+\
+
+My research interests are Industrial Organization and Price Dispersion. 
+
+
 Links to my research pages at [Google Scholar](https://scholar.google.com/citations?user=UVdbgDwAAAAJ), [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1038707), and [REPEC](https://ideas.repec.org/e/pzi74.html).
 
 
 Some codes are in my [Github](http://github.com/LeandroZipitria) page.
   
+
 ---
 
 # Book
 
+\
 
 - Domingo, Rosario, Jorge Ponce y **Leandro Zipitría**. (2016). Regulación económica para economías en desarrollo. Universidad de la República. Disponible [aqui](files/2016.Libro Regulacion FINAL.pdf)
 
