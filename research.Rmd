@@ -95,9 +95,9 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 1. [Assessing long run price convergence in retailing](files/Long_run_retailing.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence) (submitted).
 
-1. Varieties Bias the Border Estimation, with Fernando Borraz.
+1. [Beyond Borders: Unveiling the Impact of Product Variety](files/2024.06 Disentangling_Border.pdf), with Fernando Borraz.
 
-1. Are Poors Exposed to Higher Prices?, with Iael Klaczko.
+1. [Prices are Higher in Poor Markets](files/2024.06 PPM_Uy.pdf), with Iael Klaczko and Matías Brum. (To be revised.)
 
 ---
 
