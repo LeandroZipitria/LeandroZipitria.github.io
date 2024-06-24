@@ -31,13 +31,15 @@ Some codes are in my [Github](http://github.com/LeandroZipitria) page.
 
 ---
 
-# Book
+# Books
 
 \
 
-- Domingo, Rosario, Jorge Ponce y **Leandro Zipitría**. (2016). Regulación económica para economías en desarrollo. Universidad de la República. Disponible [aqui](files/2016.Libro Regulacion FINAL.pdf)
+1. 2024. Díaz, Ileana, **Leandro Zipitría** (eds.). *Empresas estatales cubanas. Situación y propuestas de transformación*. Universidad de la Habana and Udelar.  
 
-El libro también está disponible en la página [web](http://leandro-zipitria.com/libro-regulacion/), y se puede bajar del sitio de [Github](https://github.com/LeandroZipitria/libro-regulacion).
+1. 2016. Domingo, Rosario, Jorge Ponce y **Leandro Zipitría**. *Regulación económica para economías en desarrollo*. Universidad de la República. Available [here](files/2016.Libro Regulacion FINAL.pdf). Also available at the following web [page](http://leandro-zipitria.com/libro-regulacion/), and can be download from [Github](https://github.com/LeandroZipitria/libro-regulacion).
+
+
   
 
 ---
@@ -75,6 +77,7 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 
 \
 
+1. 2024. Borraz, Fernando and **Leandro Zipitría**. [Assessing long run price convergence in retailing](https://www.econstor.eu/bitstream/10419/289780/1/GLO-DP-1424.pdf), GLO Discussion Paper Series 1424. [Codes](https://github.com/LeandroZipitria/Convergence) (submitted).
 
 1. 2018. Czarnievicz, Daniel and **Leandro Zipitría**. [Concentración y precios en cinco mercados minoristas](files/2018.Concentración y precios en cinco mercados minoristas.pdf). Documento de trabajo 06/18, dECON.
   
@@ -93,17 +96,19 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
 \
 
 
-1. [Assessing long run price convergence in retailing](files/Long_run_retailing.pdf), with Fernando Borraz. [Codes](https://github.com/LeandroZipitria/Convergence) (submitted).
+1. 2024. Borraz, Fernando and **Leandro Zipitría**. [Beyond Borders: Unveiling the Impact of Product Variety](files/2024.06 Disentangling_Border.pdf).
 
-1. [Beyond Borders: Unveiling the Impact of Product Variety](files/2024.06 Disentangling_Border.pdf), with Fernando Borraz.
-
-1. [Prices are Higher in Poor Markets](files/2024.06 PPM_Uy.pdf), with Iael Klaczko and Matías Brum. (To be revised.)
+1. 2024. Klaczko, Iael, Matías Brum and **Leandro Zipitría**. [Prices are Higher in Poor Markets](files/2024.06 PPM_Uy.pdf). (To be revised.)
 
 ---
 
 # Non-Technical
 
 \
+
+1. 2023. Zipitría, Leandro. "Los nuevos lineamientos de fusiones de Estados Unidos. Características, contexto y reflexiones para Uruguay", in *Anuario de Derecho de la Competencia*, Fundación de Cultura Universitaria: 263-275.
+
+1. 2023. González Aguila, Ricardo y **Leandro Zipitría**. ["La *Conceptualización* y los incentivos: lo que queda por hacer"](https://cubayeconomia.blogspot.com/2024/01/la-conceptualizacion-y-los-incentivos.html),  Miradas a la economía Cubana. De la *Conceptualización* a la práctica, chapter 3: 35-44. Frederich Ebert Stiftung.
 
 1. 2020. González Aguila, Ricardo y **Leandro Zipitría**. [”¿Pueden las empresas estatales cubanas pagar mayores salarios?”](https://www.jstor.org/stable/10.13169/intejcubastud.12.2.0228), International Journal of Cuban Studies, 12(2): 228-251.
 
@@ -113,7 +118,7 @@ El libro también está disponible en la página [web](http://leandro-zipitria.c
   
 1. 2008. Zipitría, Leandro. [Defensa de la competencia: una breve nota económica](files/2008-capitulo-lz-final-rap.pdf). En "Estudios sobre defensa de la competencia y relaciones de consumo", pp 211-221. Editado por Santiago Pereira y Daniel Rueda. Fondo de Cultura Universitaria.
 
-1. 2003. Bergara, Mario y **Leandro Zipitría**. [Una visión institucional de la legislación de bancarrota](https://books.google.com.uy/books?id=esb5agSJfkkC&pg=PA132&lpg=PA132&dq=&hl=es#v=onepage&q&f=false). Capíulo VII del libro "Las reglas de juego en el Uruguay: el entorno institucional y los problemas económicos". Editorial Trilce.
+1. 2003. Bergara, Mario y **Leandro Zipitría**. [Una visión institucional de la legislación de bancarrota](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/9605/1/Las%20Reglas%20de%20Juego%20en%20Uruguay.pdf). Capíulo VII del libro "Las reglas de juego en el Uruguay: el entorno institucional y los problemas económicos". Editorial Trilce.
 
 
 ***
