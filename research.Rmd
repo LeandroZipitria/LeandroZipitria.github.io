@@ -96,11 +96,7 @@ Some codes are in my [Github](http://github.com/LeandroZipitria) page.
 \
 
 
-<<<<<<< HEAD
-1. 2024. Borraz, Fernando and **Leandro Zipitría**. [Borders, Local Brands, and Price Convergence](files/2024.07 Borders local brands and price convergence.pdf).
-=======
 1. 2024. Borraz, Fernando and **Leandro Zipitría**. [Borders, Local Brands, and Price Convergence](files/2024.07 Borders local brands and price convergence.pdf). (Submitted).
->>>>>>> fcf0ff7 (review research July 2024)
 
 1. 2024. Klaczko, Iael, Matías Brum and **Leandro Zipitría**. [Prices are Higher in Poor Markets](files/2024.06 PPM_Uy.pdf). (To be revised.)
 
