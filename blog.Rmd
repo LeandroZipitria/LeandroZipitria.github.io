@@ -20,14 +20,18 @@ h1.title {
 
 Entre los años 2014 y 2015 fuí columnista en "Economía y Mercado" en el Diario El País.
 
-Ahora estoy escribiendo sobre economía en "La Diaria".
+Ahora escribo ocasionalmente sobre economía en **["La Diaria"](https://ladiaria.com.uy/)**.
 
-- [Anclas del pasado: la telefonía fija de Antel](https://ladiaria.com.uy/economia/articulo/2025/4/anclas-del-pasado-la-telefonia-fija-de-antel/) Una pequeña propuesta para que las empresas públicas del futuro sean más grandes. (28 de abril de 2025)
+
+- [Anclas del pasado: la telefonía fija de Antel](https://ladiaria.com.uy/economia/articulo/2025/4/anclas-del-pasado-la-telefonia-fija-de-antel/). Una pequeña propuesta para que las empresas públicas del futuro sean más grandes. (28 de abril de 2025)
 
 - [Las instituciones importan... las personas también](https://ladiaria.com.uy/economia/articulo/2024/10/las-instituciones-importan-y-las-personas-tambien/).
 ¿Cuáles fueron los aportes de los tres economistas que ganaron el Premio Nobel y por qué son tan importantes en estos tiempos convulsionados? (17 de octubre de 2024)
 
 - [Regulación y reguladores: 42](https://ladiaria.com.uy/economia/articulo/2023/7/regulacion-y-reguladores-42/). 
 Muchos problemas económicos son complejos y tienen efectos sobre múltiples actores y variables. Pretender dar una respuesta sencilla a preguntas muy generales llevará a implementar medidas equivocadas, parciales o incluso contraproducentes. (17 de julio de 2023)
+
+
+*Nota importante*: no escribo sobre temas en los que tenga conflicto de interés directo por haber recibido algún tipo de financiamiento. Pueden ver mi actividad profesional en este [link](https://leandro-zipitria.com/files/lista_consultorias.pdf).
 
 ---
