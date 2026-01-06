@@ -1,0 +1,45 @@
+---
+title: "Reading List"
+output: 
+  html_document:
+    toc: true # Add toc
+    toc_float: true # keep it on the left
+    includes:
+       in_header: ganalitics.html
+
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  text-align: center;
+</style>
+
+
+Les dejo una lista de libros que me han resultado relevantes para mi formación profesional y personal. La lista está dividida en dos partes: libros de economía y libros de otros temas.
+
+
+- Klein, Ezra y Derek Thompson (2025). *Abundance*. Avid Reader Press / Simon & Schuster.
+
+Intenta explicar porqué EE.UU. ha dejado de ser un país de abundancia y ha pasado a ser uno de escasez. Existe abundancia de productos, pero escasez de algunos productos específicos: vivienda, salud, energía eléctrica. 
+
+
+- Muller, Jerry (2018). *The Tyranny of Metrics*. Princeton University Press.
+
+bla
+
+- Mullainathan, Sendhil y Shafir, Eldar (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
+
+
+- Haidt, Jonathan (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. Pantheon Books.
+
+
+- Pearl, Judea y Dana Mackenzie (2018). *The Book of Why: The New Science of Cause and Effect*. Basic Books.
+
+- 
+
+
+
+
+---
