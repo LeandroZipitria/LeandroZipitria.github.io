@@ -29,7 +29,7 @@ h1.title {
 
 I am Economist. My fields of specialization are Industrial Organization, Regulation, and Antitrust. I have a PhD in Economics by the [Universidad de San Andrés](https://www.udesa.edu.ar/departamento-de-economia/economia), Argentina.
 
-I am mainly at [dECON](https://cienciassociales.edu.uy/departamento-de-economia/equipo-docente/leandro-zipitria/) at the Universidad de la República.
+I am Full Professor at [dECON](https://cienciassociales.edu.uy/departamento-de-economia/equipo-docente/leandro-zipitria/), Universidad de la República.
 
 I had a side project with Daniel Czarnievicz with the aim of visualizing data from Uruguay called [unaimagen](https://www.unaimagen.uy/), because "an image worth a thousand words".
 
