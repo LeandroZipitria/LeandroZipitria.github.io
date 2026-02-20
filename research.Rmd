@@ -54,7 +54,7 @@ Some codes are in my [Github](http://github.com/LeandroZipitria) page.
 
 \
 
-1. 2026. Borraz, Fernando and **Leandro Zipitría**. [The Border Effect on Prices: The Role of Local Product Availability](files/Disentangling_Border_2026.pdf). Accepted: Journal of Industry, Competition and Trade.
+1. 2026. Borraz, Fernando and **Leandro Zipitría**. [The Border Effect on Prices: The Role of Local Product Availability](https://link.springer.com/article/10.1007/s10842-026-00466-z). Journal of Industry, Competition and Trade, 26. Working Paper version [here](files/Disentangling_Border_2026.pdf)
 
 1. 2024. Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillon, and **Leandro Zipitría** [Local Retail Prices, Product Varieties and Neighborhood Change](https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f). AEJ: Economic Policy, 16(1): 1-33. Working paper version [here](files/Borraz_AEJP_2021_R1.pdf).  
 
