@@ -80,7 +80,7 @@ Some codes are in my [Github](http://github.com/LeandroZipitria) page.
 
 \
 
-1. 2026. Brum, Matías, Iael Klazcko, and **Leandro Zipitría**. [Income and Retail Prices within a City: Evidence on Product Composition and Market Segmentation](files/Income and Retail Prices within a City.pdf). (submitted)
+1. 2026. Brum, Matías, Iael Klazcko, and **Leandro Zipitría**. [Income and Retail Prices within a City: Evidence on Product Composition and Market Segmentation](files/Income and Retail Prices within a City.pdf). (submitted) [Codes](https://github.com/LeandroZipitria/income_prices)
 
 1. 2026. Borraz, Fernando and **Leandro Zipitría**. [Chain Pricing and Long-Run Retail Price Divergence](files/Chain Pricing and Long-Run Retail Price Divergence.pdf). (submitted) [Codes](https://github.com/LeandroZipitria/Convergence)
 
