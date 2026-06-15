@@ -20,7 +20,8 @@ h1.title {
 \
 \
 
-My research interests are Industrial Organization and Price Dispersion. 
+**Research fields**: Industrial Organization, Applied Microeconomics. \
+**Research interests**: Retail pricing, price dispersion, regulation, competition policy.
 
 
 Links to my research pages at [Google Scholar](https://scholar.google.com/citations?user=UVdbgDwAAAAJ), [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1038707), and [REPEC](https://ideas.repec.org/e/pzi74.html).
