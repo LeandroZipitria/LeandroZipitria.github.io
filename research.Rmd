@@ -91,13 +91,15 @@ Some codes are in my [Github](http://github.com/LeandroZipitria) page.
 
 1. 2026. Borraz, Fernando, Nicolás González-Pampillón and **Leandro Zipitría**. Police Presence and Retail Market Outcomes.
 
+1. 2026. Acerenza, Santiago, Fernando Borraz and **Leandro Zipitría**. Border Effects with Local Products: Competition, Bias, and Partial Identification.
+
 \
 
 ### Unpublish Working Papers   
 
 \
 
-1. 2024. Borraz, Fernando and **Leandro Zipitría**. [Assessing long run price convergence in retailing](https://www.econstor.eu/bitstream/10419/289780/1/GLO-DP-1424.pdf), GLO Discussion Paper Series 1424. [Codes](https://github.com/LeandroZipitria/Convergence). (New version "Chain Pricing and Long-Run Retail Price Divergence" below).
+1. 2024. Borraz, Fernando and **Leandro Zipitría**. [Assessing long run price convergence in retailing](https://www.econstor.eu/bitstream/10419/289780/1/GLO-DP-1424.pdf), GLO Discussion Paper Series 1424. [Codes](https://github.com/LeandroZipitria/Convergence). (New version "Chain Pricing and Long-Run Retail Price Divergence" above).
 
 1. 2018. Czarnievicz, Daniel and **Leandro Zipitría**. [Concentración y precios en cinco mercados minoristas](files/2018.Concentración y precios en cinco mercados minoristas.pdf). Documento de trabajo 06/18, dECON.
   
