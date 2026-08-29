@@ -27,7 +27,7 @@ h1.title {
 
 ***
 
-I am Economist. My fields of specialization are Industrial Organization, Regulation, and Antitrust. I have a PhD in Economics by the [Universidad de San Andrés](https://www.udesa.edu.ar/departamento-de-economia/economia), Argentina.
+I am an Economist. My fields of specialization are Industrial Organization, Regulation, and Antitrust. I have a PhD in Economics from [Universidad de San Andrés](https://www.udesa.edu.ar/departamento-de-economia/economia), Argentina.
 
 I am Full Professor at [dECON](https://cienciassociales.edu.uy/departamento-de-economia/equipo-docente/leandro-zipitria/), Universidad de la República.
 
