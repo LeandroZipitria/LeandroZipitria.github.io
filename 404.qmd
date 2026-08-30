@@ -1,0 +1,6 @@
+---
+title: "Page not found"
+page-layout: full
+toc: false
+---
+<div class="page-hero"><div class="eyebrow">404</div><h1>This page moved or does not exist.</h1><p class="lead">Use the navigation above or return to the homepage.</p><div class="hero-actions"><a class="btn-site btn-primary-site" href="index.html">Home →</a></div></div>

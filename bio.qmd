@@ -1,0 +1,60 @@
+---
+title: "About"
+description: "Academic and professional biography of Leandro Zipitria."
+page-layout: full
+toc: false
+---
+
+<div class="page-hero"><div class="eyebrow">About</div><h1>Economist specializing in industrial organization and applied microeconomics.</h1><p class="lead">My research fields are industrial organization and applied microeconomics, with a focus on retail markets, pricing, competition, and regulation. I am Full Professor at dECON, Universidad de la República, and hold a PhD in Economics from Universidad de San Andrés.</p><div class="hero-actions"><a class="btn-site btn-primary-site" href="files/english_CV.pdf">CV · English →</a><a class="btn-site btn-secondary-site" href="files/spanish_CV.pdf">CV · Español</a></div></div>
+
+<div class="page-content">
+<div class="split wide-left" style="align-items:start">
+<div class="prose">
+
+## Degrees
+
+- **PhD in Economics**, Universidad de San Andrés, 2017.
+- **MA in International Economics**, Universidad de la República, 2008.
+- **Bachelor in Economics**, Universidad de la República, 2001.
+
+## Academic positions
+
+- **Full Professor**, dECON, Facultad de Ciencias Sociales, Universidad de la República, since 2024.
+- **Associate Professor**, dECON, Facultad de Ciencias Sociales, Universidad de la República, 2016–2024.
+- **Director of the Department of Economics**, dECON, Facultad de Ciencias Sociales, Universidad de la República, 2021–2024.
+- **Research Director**, RIDGE Antitrust and Regulation Workshop, 2019–2022.
+
+## Teaching
+
+Graduate teaching has included regulation, institutions, microeconomics, industrial organization, and competition policy. Undergraduate teaching has included game theory, microeconomics, introduction to economics, industrial organization, and competition policy.
+
+</div>
+<div>
+  <div class="portrait-card" style="max-width:360px"><img src="assets/site/portrait.webp" alt="Leandro Zipitria"></div>
+</div>
+</div>
+
+<section class="list-section">
+## Professional activity
+
+More than twenty years of applied experience in competition policy, economic regulation, and market analysis. Consultant for the World Bank, IDB, CAF, ECLAC, PAHO, and UNDP, alongside public-sector and private-sector advisory work.
+
+[Full disclosure of professional work](files/lista_consultorias.pdf) · [Professional profile](professional.html)
+</section>
+
+<section class="list-section">
+## Previous public-sector activity
+
+- Ministry of Economy and Finance — IADB Project Manager, 2010–2013.
+- Ministry of Economy and Finance — regulation, public health-care system, and bankruptcy reform, 2005–2009.
+- Ministry of Economy and Finance — Chief Antitrust Economist, 2003–2009.
+- Ministry of Economy and Finance, Dirección General de Comercio — economic analysis, 2003–2010.
+- Office of Budget and Planning — regulatory impact analysis and pricing of public services, 2001–2003.
+</section>
+
+<section class="list-section">
+## Affiliations
+
+American Economic Association · European Economic Association · Latin American and Caribbean Economic Association
+</section>
+</div>
