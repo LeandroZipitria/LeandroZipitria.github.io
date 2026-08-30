@@ -1,7 +1,8 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-ganalitics.txt
-old
+/.quarto/
+/_site/
 .DS_Store
+
+# R / RStudio local state
+.Rproj.user/
+.RData
+.Rhistory

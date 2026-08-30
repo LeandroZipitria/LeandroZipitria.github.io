@@ -1,0 +1,226 @@
+---
+title: "Teaching"
+output:
+  html_document:
+    toc: true # Add toc
+    toc_float: true # keep it on the left
+    includes:
+       in_header: ganalitics.html
+
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  text-align: center;
+</style>
+
+
+
+***
+
+I teach at the *Facultad de Ciencias Sociales* and *Facultad de Ciencias Económicas y de Administración*, both at UdelaR.
+
+
+Here are some slides from the courses I have taught. All courses are in Spanish.
+
+
+---
+
+# Teoría de Juegos
+
+
+Mis presentaciones de juegos bayesianos para el curso de Teoría de juegos en la Facultad de Ciencias Sociales – UdelaR.
+
+1. [Juegos bayesianos estáticos](files/teaching/juegos/Juegos_bayesianos.pdf)
+
+1. [Juegos bayesianos dinámicos](files/teaching/juegos/Juegos_bayesianos_dinamicos.pdf)
+
+
+
+---
+
+
+# Organización industrial
+
+Presentaciones del curso de Organización Industrial que doy en la Facultad de Ciencias Económicas y Administración - Udelar.
+
+- [Teoría de juegos](files/teaching/oi-fcea/0-TeoJuegos.pdf)
+
+1. [Introducción](files/teaching/oi-fcea/1-Introduccion.pdf)
+
+1. [Competencia perfecta](files/teaching/oi-fcea/2-CP.pdf)
+
+1. [Monopolio](files/teaching/oi-fcea/3-Monopolio.pdf)
+
+1. [Discriminación de precios](files/teaching/oi-fcea/4-Discriminacion.pdf)
+
+1. [Oligopolio: bienes homogéneos](files/teaching/oi-fcea/5-Oligopolio.pdf)
+
+1. [Colusión](files/teaching/oi-fcea/6-Colusion.pdf)
+
+1. [Estructura de mercado](files/teaching/oi-fcea/7-Estructura.pdf)
+
+1. [Fusiones horizontales](files/teaching/oi-fcea/8-Fusiones.pdf)
+
+1. [Cierre de mercado](files/teaching/oi-fcea/9-Cierre.pdf)
+
+1. [Restricciones verticales](files/teaching/oi-fcea/10-Restriciones.verticales.pdf)
+
+1. [Bienes diferenciados](files/teaching/oi-fcea/11-BsDiferenciados.pdf) 
+
+<!-- 1. [Entrada al mercado](files/teaching/oi-um/8-Entrada.pdf) -->
+
+<!-- 1. [Comportamientos estratégicos](files/teaching/oi-um/12-Estrategicos.pdf) -->
+
+Hace un tiempo realicé unas notas a modo de resumen de los temas del curso. Está bastante desactualizado, pero puede ser de utilidad. Pueden descargarlas [aquí](files/teaching/oi-fcea/CursoOI.2012.pdf).
+
+---
+
+# Defensa de la competencia (I)
+
+A continuación encontrarán las transparencias de un curso de Defensa de la Competencia que dicté en la Universidad de Montevideo en el año 2008. El público objetivo del curso eran abogados. Se basan en el libro de Motta (2004) “Competition Policy”, en distintos artículos y en documentos oficiales de los distintos órganos de aplicación. Nota: si las utiliza, favor cite la fuente.
+
+1. [Conceptos económicos](files/teaching/intro-competencia/clase-1-conceptos-econc3b3micos.pdf)
+
+1. [Objetivos de la defensa de la competencia](files/teaching/intro-competencia/clase-2-objetivos-de-la-dc.pdf)
+
+1. [Mercado relevante y poder de mercado](files/teaching/intro-competencia/clase-3-mercado-relevante-y-poder-de-mercado.pdf)
+
+1. [Abuso de posición dominante](files/teaching/intro-competencia/clase-4-abuso-de-posicion-domin.pdf)
+
+1. [Restricciones horizontales](files/teaching/intro-competencia/clase-5-acuerdos-horizontales.pdf)
+
+1. [Restricciones verticales](files/teaching/intro-competencia/clase-6-restricciones-horizontales.pdf)
+
+
+Este segundo curso fue dictado para funcionarios de la Comisión de Promoción y Defensa de la Competencia de Uruguay en 2015.
+
+1. [Conceptos económicos](files/teaching/intro-competencia/1-conceptos.pdf)
+
+1. [Mercado relevante](files/teaching/intro-competencia/2-mercado.pdf)
+
+1. [Posición dominante](files/teaching/intro-competencia/3-posdominante.pdf)
+
+1. [Colusión](files/teaching/intro-competencia/4-colusion.pdf)
+
+1. [Restricciones verticales](files/teaching/intro-competencia/5-verticales.pdf)
+
+---
+
+# Defensa de la competencia (II)
+
+Este material se basa en un curso de Maestría en Defensa de la Competencia.
+
+1. [Mercado relevante y poder de mercado](files/teaching/competencia-avanzado/clase_1_-_mercado_relevante2.pdf)
+
+1. [Abuso de posición dominante](files/teaching/competencia-avanzado/clase_2_-_estrategicos2.pdf)
+
+1. [Colusión](files/teaching/competencia-avanzado/clase_3_-_colusion1.pdf)
+
+1. [Restricciones verticales](files/teaching/competencia-avanzado/clase_4_-_verticales2.pdf)
+
+1. [Fusiones](files/teaching/competencia-avanzado/clase_5_-_fusiones1.pdf)
+
+
+## Lineamientos
+
+
+Aquí recopilo los lineamientos disponibles sobre mercados y conductas.
+
+1. Mercado relevante. [Mercado de referencia, UE, 1997](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:1997:372:0005:0013:ES:PDF), y un documento de la antigua Office of Fair Trading de Inglaterra sobre [Market Definition](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284423/oft403.pdf)
+
+1. Poder de mercado y abuso de posición dominante. Lineamientos de la Unión Europea sobre [Abuso de posición dominante (2009)](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:52009XC0224(01)&from=ES), y dos documentos de la antigua Office of Fair Trading de Inglaterra sobre [Assessment of market power](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284400/oft415.pdf) y [Abuse of dominant position](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284422/oft402.pdf)
+
+1. Colusion. Los lineamientos de la Unión Europea sobre [Acuerdos horizontales, 2011](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2011:011:0001:0072:ES:PDF).
+
+1. Restricciones verticales. Lineamientos de la Unión Europea sobre [Acuerdos verticales, 2010](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:130:0001:0046:ES:PDF) y de la antigua Office of Fair Trading de Inglaterra sobre [Vertical agreements](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284430/oft419.pdf)
+
+1. Fusiones. Lineamientos de EE.UU. o [Merger guidelines, 2010](https://www.ftc.gov/sites/default/files/attachments/merger-review/100819hmg.pdf), los lineamientos de la Unión Europea sobre [Fusiones horizontales, 2004](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2004:031:0005:0018:es:PDF) y [Fusiones no horizontales, 2008](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:265:0006:0025:es:PDF), e Inglaterra, las [Merger Assessment Guidelines, 2010](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/284449/OFT1254.pdf).
+
+
+## Casos
+
+Algunos casos fundamentales en defensa de la competencia.
+
+### EE.UU.
+
+[Standard Oil (1911)](https://supreme.justia.com/cases/federal/us/221/1/), [DuPont (1956)](https://caselaw.findlaw.com/us-supreme-court/351/377.html), [Brown Shoe (1962)](https://caselaw.findlaw.com/us-supreme-court/370/294.html), [Staples/Depot (1997)](https://www.ftc.gov/enforcement/cases-proceedings/9710008/staples-inc-office-depot-inc)
+
+
+### Europa
+
+[United Brands (1978)](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:61976CJ0027&from=EN), [Hoffman LaRoche (1979)](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61976CJ0085:EN:PDF), [Akzo (1986)](https://eur-lex.europa.eu/resource.html?uri=cellar:4905ac67-5a02-44a0-ae93-7724be6073b0.0008.02/DOC_1&format=PDF), [Torras/Sarrio (1992)](http://ec.europa.eu/competition/mergers/cases/decisions/m166_en.pdf), [Nestlé/Perrier (1992)](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992D0553:ES:PDF), [General Electric/Honeywell (2001)](http://ec.europa.eu/competition/mergers/cases/decisions/m2220_en.pdf), [Microsoft (2004)](https://leandrozipitria.files.wordpress.com/2013/09/ue-microsoft.pdf), [Google (2017)](http://ec.europa.eu/competition/antitrust/cases/dec_docs/39740/39740_14996_3.pdf)
+
+---
+
+# Regulación económica
+
+
+Transparencias de parte del curso que dicto junto a Mario Bergara en la Maestría en Economía Internacional del dECON – FCS – UdelaR.
+
+1. [Práctica regulatoria](files/teaching/regulacion/Clase_1_Practica_Regulatoria.pdf)
+
+1. [Empresas públicas](files/teaching/regulacion/Clase_2_EEPP.pdf)
+
+
+Otras presentaciones sobre el tema.
+
+1. [Monopolio natural](files/teaching/regulacion2/clase2.pdf)
+
+1. [Instituciones regulatorias](files/teaching/regulacion2/clase31.pdf)
+
+1. [Instrumentos regulatorios: información completa](files/teaching/regulacion2/clase41.pdf)
+
+1. [Instrumentos regulatorios: información asimétrica](files/teaching/regulacion2/clase51.pdf)
+
+
+---
+
+# Juegos y contratos (viejo)
+
+
+Mis presentaciones en el curso de Micro III (Teoría de Juegos y Contratos) en la Facultad de Ciencias Económicas y Administración – UdelaR.
+
+1. [Repaso: juegos en forma normal](files/teaching/microiii/1.1-Repaso_Juegos_Normal.pdf)
+
+1. [Repaso: juegos en forma extensiva](files/teaching/microiii/1.2-Repaso_Juegos_extensivos.pdf)
+
+1. [Juegos bayesianos](files/teaching/microiii/3-juegos_bayesianos.pdf)
+
+1. [Contratos: introducción](files/teaching/microiii/6.1-Contratos_presentacion.pdf)
+
+1. [Selección adversa](files/teaching/microiii/6.2-Contratos_Seleccion_Adversa.pdf)
+
+1. [Riesgo moral](files/teaching/microiii/6.3-Contratos_Riesgo_Moral.pdf)
+
+---
+
+# Microeconomía
+
+Las transparencias de parte del curso de Microeconomía de la Maestría en Economía de la Facultad de Ciencias Sociales, UdelaR. El curso está basado en el texto de Mas-Colell, Whinston y Greene (1995): Microeconomic Theory.
+
+1. [Producción](files/teaching/Micro/Cap5.Produccion.pdf)
+
+1. [Equilibrio parcial](files/teaching/Micro/Cap10.Mercados_competitivos.pdf)
+
+1. [Equilibrio general](files/teaching/Micro/Cap15.Equilibrio_general.pdf)
+
+---
+
+# Instituciones
+
+Presentaciones del curso de Teoría de las Instituciones que doy junto a Mario Bergara en la Maestría en Economía de la Facultad de Ciencias Sociales, UdelaR.
+
+1. [Límite de las empresas](files/teaching/instituciones/1.Limite_empresas.pdf)
+
+1. [Límite de los gobiernos](files/teaching/instituciones/2.Limite_gobiernos.pdf)
+
+1. [Crecimiento](files/teaching/instituciones/3.Crecimiento.pdf)
+
+1. [Cultura](files/teaching/instituciones/4.Cultura.pdf)
+
+---
+
+Last revision: `r format(Sys.Date(), "%B %d, %Y")`. Leandro Zipitría.

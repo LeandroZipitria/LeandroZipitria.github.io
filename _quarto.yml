@@ -1,0 +1,81 @@
+project:
+  type: website
+  output-dir: _site
+
+  render:
+    - index.qmd
+    - bio.qmd
+    - research.qmd
+    - teaching.qmd
+    - professional.qmd
+    - texflow.qmd
+    - blog.qmd
+    - personal.qmd
+    - reading.qmd
+    - contact.qmd
+    - 404.qmd
+
+  resources:
+    - files/**
+    - libro-regulacion/**
+
+website:
+  title: "Leandro Zipitría"
+  site-url: "https://leandro-zipitria.com"
+  favicon: assets/site/lz-mark.svg
+  navbar:
+    pinned: true
+    logo: assets/site/lz-mark.svg
+    left:
+      - text: About
+        href: bio.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Professional
+        href: professional.qmd
+      - text: TeXFlow
+        href: texflow.qmd
+      - text: More
+        menu:
+          - text: Writing & Media
+            href: blog.qmd
+          - text: Personal
+            href: personal.qmd
+          - text: Reading
+            href: reading.qmd
+          - text: Contact
+            href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/LeandroZipitria
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/leandrozipitria/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: contact.qmd
+        aria-label: Contact
+  page-footer:
+    left: "© Leandro Zipitría"
+    center: "Industrial Organization · Applied Microeconomics"
+    right:
+      - text: GitHub
+        href: https://github.com/LeandroZipitria
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-in-header: analytics.html
+    link-external-newwindow: true
+    smooth-scroll: true
+    anchor-sections: true
+    toc: false
+    page-layout: full
+
+execute:
+  freeze: auto

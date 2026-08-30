@@ -1,0 +1,40 @@
+---
+title: "Writing & Media"
+description: "Public-facing writing and media by Leandro Zipitria."
+page-layout: full
+toc: false
+---
+
+<div class="page-hero">
+<div class="eyebrow">Writing & Media</div>
+<h1>Economics beyond academic journals.</h1>
+<p class="lead">Essays, columns, and public-facing economic analysis, mainly in Spanish.</p>
+</div>
+
+<div class="page-content">
+<div class="media-feature">
+<div>
+<div class="card-label">Newsletter · Substack</div>
+<h2>Mercados Chicos</h2>
+<p>Longer-form notes on economics, competition, regulation, institutions, and public policy.</p>
+<div class="button-row"><a class="btn-site btn-primary-site" href="https://leandrozipitria.substack.com/">Read Mercados Chicos →</a></div>
+</div>
+<div class="media-side"><p><strong>Writing principle</strong></p><p>I do not write about topics in which I have a direct conflict of interest from professional financing.</p><p><a href="files/lista_consultorias.pdf">Professional disclosure →</a></p></div>
+</div>
+
+<section class="list-section">
+## La Diaria
+
+<div class="media-cards">
+<article class="media-card"><div class="date">28 April 2025</div><h3><a href="https://ladiaria.com.uy/economia/articulo/2025/4/anclas-del-pasado-la-telefonia-fija-de-antel/">Anclas del pasado: la telefonía fija de Antel</a></h3><p>Una pequeña propuesta para que las empresas públicas del futuro sean más grandes.</p><div class="card-links"><a href="https://ladiaria.com.uy/economia/articulo/2025/4/anclas-del-pasado-la-telefonia-fija-de-antel/">Read →</a></div></article>
+<article class="media-card"><div class="date">17 October 2024</div><h3><a href="https://ladiaria.com.uy/economia/articulo/2024/10/las-instituciones-importan-y-las-personas-tambien/">Las instituciones importan... las personas también</a></h3><p>Sobre los aportes de los tres economistas que recibieron el Premio Nobel y por qué importan.</p><div class="card-links"><a href="https://ladiaria.com.uy/economia/articulo/2024/10/las-instituciones-importan-y-las-personas-tambien/">Read →</a></div></article>
+<article class="media-card"><div class="date">17 July 2023</div><h3><a href="https://ladiaria.com.uy/economia/articulo/2023/7/regulacion-y-reguladores-42/">Regulación y reguladores: 42</a></h3><p>Sobre problemas económicos complejos y los riesgos de respuestas excesivamente simples.</p><div class="card-links"><a href="https://ladiaria.com.uy/economia/articulo/2023/7/regulacion-y-reguladores-42/">Read →</a></div></article>
+</div>
+</section>
+
+<section class="list-section">
+## Earlier media work
+
+<p>Between 2014 and 2015 I was a columnist for <em>Economía y Mercado</em>, Diario El País.</p>
+</section>
+</div>

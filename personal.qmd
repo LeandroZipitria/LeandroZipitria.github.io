@@ -1,0 +1,61 @@
+---
+title: "Personal"
+description: "Music and personal interests."
+page-layout: full
+toc: false
+---
+
+<div class="page-hero"><div class="eyebrow">Personal</div><h1>Music and other things.</h1><p class="lead">“If you're not having fun, you're doing something wrong.” — Groucho Marx</p></div>
+
+<div class="page-content">
+<div class="split" style="align-items:start">
+<div class="prose">
+## Music
+
+Music is an important part of my life. Some artists I return to are [Living Colour](http://www.livingcolour.com/), [Buckethead](https://buckethead.bandcamp.com/) (also [here](https://www.bucketheadpikes.com/)), [Devin Townsend](http://www.hevydevy.com/news/), [Napalm Death](http://napalmdeath.org/scum/), and [Meshuggah](https://www.meshuggah.net/).
+
+I also support artists through Bandcamp. There are many talented musicians who release their work through non-standard music platforms. My personal Bandcamp collection is [here](https://bandcamp.com/leandrozipitria).
+
+This page will keep growing with other music and personal material.
+</div>
+<div><img src="assets/site/cuba-portrait.webp" alt="Portrait made by a Cuban street artist" style="width:100%;max-width:330px;border-radius:22px;box-shadow:var(--shadow-soft)"><p class="paper-meta">A portrait made by a Cuban street artist.</p></div>
+</div>
+
+<section class="list-section">
+## My own music
+
+### Maldición
+
+This was an experimental industrial band. In 1996 we recorded a single called <em>Tedio</em>.
+
+<div class="album-callout"><div><div class="card-label">Maldición · 1996</div><h3>Tedio</h3><p>The original four-track release is also available on Bandcamp.</p></div><a class="btn-site btn-primary-site" href="https://maldicionuy.bandcamp.com/album/tedio-1996">Listen on Bandcamp →</a></div>
+
+<div class="track-list">
+<div><span>01</span><a href="files/music/01 - Maldicion - Tedio - Endurece como metal.mp3">Endurece como metal</a></div>
+<div><span>02</span><a href="files/music/02 - Maldicion - Tedio - Palmeta.mp3">Palmeta</a></div>
+<div><span>03</span><a href="files/music/03 - Maldicion - Tedio - Dislocacion.mp3">Dislocación</a></div>
+<div><span>04</span><a href="files/music/04 - Maldicion - Tedio - Lo que va a pasar.mp3">Lo que va a pasar</a></div>
+</div>
+
+In 1997 we recorded [Less](files/music/Maldicion - Less.mp3), using computers for the rhythm section.
+</section>
+
+<section class="list-section">
+<div class="split" style="align-items:start">
+<div>
+### Monotremata
+
+After Maldición, I formed Monotremata with Hernán González. We recorded <em>Reiteración + Retraso</em> in 2003. The guitars were recorded on my PC — noisy, but it still sounds pretty good.
+
+<div class="track-list">
+<div><span>01</span><a href="files/music/01_monontremata_reiteracionretraso_poco-y-malo.mp3">Poco y malo</a></div>
+<div><span>02</span><a href="files/music/02_monontremata_reiteracionretraso_solamente-una-vez.mp3">Solamente una vez</a></div>
+<div><span>03</span><a href="files/music/03_monontremata_reiteracionretraso_meditabajo.mp3">Meditabajo</a></div>
+<div><span>04</span><a href="files/music/04_monontremata_reiteracionretraso_simple.mp3">Simple</a></div>
+<div><span>05</span><a href="files/music/05_monontremata_reiteracionretraso_papel-carbonico.mp3">Papel carbónico</a></div>
+</div>
+</div>
+<div><img src="assets/site/monotremata.webp" alt="Monotremata" style="width:100%;max-width:300px;border-radius:18px;box-shadow:var(--shadow-soft)"></div>
+</div>
+</section>
+</div>

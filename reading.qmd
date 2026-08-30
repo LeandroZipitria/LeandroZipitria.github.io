@@ -1,0 +1,32 @@
+---
+title: "Reading"
+description: "Books that have been relevant to my professional and personal formation."
+page-layout: full
+toc: false
+---
+
+<div class="page-hero"><div class="eyebrow">Reading</div><h1>Books worth returning to.</h1><p class="lead">A personal list of books that have been relevant to my professional and personal formation.</p></div>
+
+<div class="page-content prose">
+<div class="details-block" open><div class="details-content" style="padding-top:22px">
+### Ezra Klein & Derek Thompson — *Abundance* (2025)
+
+A book about why the United States has moved from abundance toward scarcity in specific areas such as housing, health care, and electricity.
+</div></div>
+
+<div class="details-block"><div class="details-content" style="padding-top:22px">
+### Jerry Z. Muller — *The Tyranny of Metrics* (2018)
+</div></div>
+
+<div class="details-block"><div class="details-content" style="padding-top:22px">
+### Sendhil Mullainathan & Eldar Shafir — *Scarcity: Why Having Too Little Means So Much* (2013)
+</div></div>
+
+<div class="details-block"><div class="details-content" style="padding-top:22px">
+### Jonathan Haidt — *The Righteous Mind: Why Good People Are Divided by Politics and Religion* (2012)
+</div></div>
+
+<div class="details-block"><div class="details-content" style="padding-top:22px">
+### Judea Pearl & Dana Mackenzie — *The Book of Why: The New Science of Cause and Effect* (2018)
+</div></div>
+</div>

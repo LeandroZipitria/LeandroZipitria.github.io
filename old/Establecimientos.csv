@@ -1,0 +1,616 @@
+id.establecimientos;razon.social;nombre.sucursal;direccion;ccz;barrio;cajas;chain;long;lat;ciudad;depto;localidad;farmacia
+1;CAFITUR S.A.;Expres 2;AVDA. MILLAN 2683;16;Reducto;2;Sin Cadena;-34,8765665;-56,1897221;Montevideo;Montevideo;1020;0
+2;Distren S.A.;Expres 6;Conciliación 3910;14;La Teja;3;Sin Cadena;-34,86483197;-56,22046689;Montevideo;Montevideo;1020;0
+3;Distren S.A.;Expres 7;Carlos Maria Ramirez 186;14;Belvedere;3;Sin Cadena;-34,8608486;-56,2270262;Montevideo;Montevideo;1020;0
+4;Distren S.A.;Expres 1;Dr. Martín Berinduague 870;14;La Teja;5;Sin Cadena;-34,86902142;-56,23155956;Montevideo;Montevideo;1020;0
+5;Daltiro S.A.;El Clon - Comercio;Avda. 8 de Octubre 3631;6;Unión;3;El Clon;-34,876518;-56,1456047;Montevideo;Montevideo;1020;0
+6;Gadonur S.A.;El Clon - Gaboto;Avda. 18 de Julio 1751;2;Cordón;3;El Clon;-34,9027945;-56,1806478;Montevideo;Montevideo;1020;0
+7;DALTIRO S.A.;El Clon - Viana;8 DE OCTUBRE 3722;6;Unión;3;El Clon;-34,875543;-56,143307;Montevideo;Montevideo;1020;0
+8;NAFITAL S.A.;El Clon - Vazquez;VAZQUEZ 1388;2;Cordón;3;El Clon;-34,9051578;-56,1853576;Montevideo;Montevideo;1020;0
+9;Satilán S.A.;El Clon - Paso Molino;Avda. Agraciada 4132;14;Paso Molino;3;El Clon;-34,8576189;-56,2204897;Montevideo;Montevideo;1020;0
+10;DALTIRO S.A.;El Clon - Palacio ;GRAL. FLORES 2075;3;Aguada;3;El Clon;-34,8896264;-56,189078;Montevideo;Montevideo;1020;0
+11;SATILAN S.A.;El Clon - Las Piedras ;AV.ARTIGAS 699;;Interior;4;El Clon;-34,7261696;-56,2157332;Las Piedras;Canelones;3221;0
+12;DALTIRO S.A.;El Clon - Cerro ;CARLOS MA. RAMIREZ 1659;17;Cerro ;5;El Clon;-34,8741386;-56,2528854;Montevideo;Montevideo;1020;0
+13;DALTIRO S.A.;El Clon - Requena ;18 DE JULIO 2075;2;Cordón;6;El Clon;-34,8996132;-56,1726323;Montevideo;Montevideo;1020;0
+14;Landera S.A.;El Clon - Maldonado ;Roman Guerra s/n y 25 de Mayo;;Interior;8;El Clon;-34,92489;-54,9631206;Maldonado;Maldonado;10320;0
+15;Devoto Hermanos S.A.;Devoto - SAN MARTIN;Avda. Gral. San Martín 3709;15;Cerrito;4;Devoto;-34,8568464;-56,1776328;Montevideo;Montevideo;1020;0
+16;Supermercados Disco del Uruguay S.A.;Disco - OBLIGADO;Obligado 968;5;Pocitos;4;Disco;-34,91329641;-56,16001434;Montevideo;Montevideo;1020;0
+17;Devoto Hermanos S.A.;Devoto - SUAREZ;Avda. Joaquín Suárez 3458;15;Prado ;5;Devoto;-34,86447251;-56,1958846;Montevideo;Montevideo;1020;0
+18;Devoto Hermanos S.A.;Devoto - BRISAS;Avda. Gral. Rivera 4502;7;Malvín;5;Devoto;-34,89323573;-56,11592848;Montevideo;Montevideo;1020;0
+19;Supermercados Disco del Uruguay S.A.;Disco - FERNANDEZ CRESPO;Avda. Daniel Fernández Crespo 1727;2;Cordón;5;Disco;-34,89896665;-56,17763679;Montevideo;Montevideo;1020;0
+20;Devoto Hermanos S.A.;Devoto - SHANGRILA;Avda. Calcagno s/n;;Interior;6;Devoto;-34,84985469;-55,9997063;Ciudad de la Costa;Canelones;3831;0
+21;Devoto Hermanos S.A.;Devoto - LAS PIEDRAS;Juan A. Lavalleja 671;;Interior;6;Devoto;-34,7287524;-56,21701027;Las Piedras;Canelones;3221;0
+22;Devoto Hermanos S.A.;Devoto - GRAL.PAZ;Avda. Gral. José María Paz 1404;7;Punta Gorda;6;Devoto;-34,8937242;-56,0821618;Montevideo;Montevideo;1020;0
+23;Supermercados Disco del Uruguay S.A.;Disco - CANELONES;Florencio Sánchez 729;;Interior;7;Disco;-34,5215452;-56,2814063;Canelones;Canelones;3320;0
+24;Devoto Hermanos S.A.;Devoto - COLON;Avda. Garzón 1945;12;Colón ;7;Devoto;-34,8050739;-56,224982;Montevideo;Montevideo;1020;0
+25;Supermercados Disco del Uruguay S.A.;Disco - MARCELINO SOSA;Cnel. Marcelino Sosa 2706;3;Reducto;7;Disco;-34,87772607;-56,18114769;Montevideo;Montevideo;1020;0
+26;Devoto Hermanos S.A.;Devoto - CARRASCO;Avda. Bolivia 1413;8;Carrasco;7;Devoto;-34,89318783;-56,06646145;Montevideo;Montevideo;1020;0
+27;Supermercados Disco del Uruguay S.A.;Disco - AYACUCHO;Ayacucho 3370;4;Parque Batlle;7;Disco;-34,89437326;-56,14469715;Montevideo;Montevideo;1020;0
+28;Devoto Hermanos S.A.;Devoto - LAS PIEDRAS II;Enrique Pouey Nº 624;;Interior;8;Devoto;-34,72813293;-56,22377773;Las Piedras;Canelones;3221;0
+29;Supermercados Disco del Uruguay S.A.;Disco - CAMINO MALDONADO;Avda. Brig. Gral. Lavalleja 7722;9;Punta de Rieles ;8;Disco;-34,80409052;-56,08900423;Montevideo;Montevideo;1020;0
+30;Supermercados Disco del Uruguay S.A.;Disco - BARRIOS AMORIN;Dr. Javier Barrios Amorín 859;2;Palermo;8;Disco;-34,91423613;-56,18385608;Montevideo;Montevideo;1020;0
+31;Devoto Hermanos S.A.;Devoto - 8 DE OCTUBRE;Avda. 8 de Octubre 3621;6;Unión;9;Devoto;-34,87670222;-56,14369868;Montevideo;Montevideo;1020;0
+32;Supermercados Disco del Uruguay S.A.;Disco - SOLANO LOPEZ;Avda. Mcal. Francisco Solano López 1680;7;Buceo;9;Disco;-34,89184451;-56,12514287;Montevideo;Montevideo;1020;0
+33;Devoto Hermanos S.A.;Devoto - RAMBLA;Rbla. de los Argentinos esq, Santiago Vásquez;;Interior;9;Devoto;-34,8564118;-55,29201897;Piriápolis;Maldonado;10321;0
+34;Supermercados Disco del Uruguay S.A.;Disco - MEDANOS;Avda. Ing. Luis Giannattasio Km. 27.500;;Interior;10;Disco;-34,80727807;-55,93165618;Ciudad de la Costa;Canelones;3831;0
+35;Supermercados Disco del Uruguay S.A.;Disco - CURVA DE MAROÑAS;Avda. 8 de Octubre 4786;9;Maroñas;10;Disco;-34,85719975;-56,13298373;Montevideo;Montevideo;1020;0
+36;Devoto Hermanos S.A.;Devoto - ARENAL GRANDE;Arenal Grande 2006;2;Cordón;10;Devoto;-34,88451715;-56,17881701;Montevideo;Montevideo;1020;0
+37;Supermercados Disco del Uruguay S.A.;Disco - CHUCARRO;Alejandro Chucarro 1320;5;Pocitos;10;Disco;-34,90922435;-56,14446174;Montevideo;Montevideo;1020;0
+38;Supermercados Disco del Uruguay S.A.;Disco - CALLE MALDONADO;Maldonado 1024;1;Barrio Sur;10;Disco;-34,91005035;-56,1937878;Montevideo;Montevideo;1020;0
+39;Devoto Hermanos S.A.;Devoto - CORONEL MORA;Coronel Mora 596;5;Punta Carretas;10;Devoto;-34,91945755;-56,15767192;Montevideo;Montevideo;1020;0
+40;Devoto Hermanos S.A.;Devoto - SAN QUINTIN;San Quintín 4376;14;Belvedere;11;Devoto;-34,85267694;-56,2231486;Montevideo;Montevideo;1020;0
+41;Devoto Hermanos S.A.;Devoto - STA.MONICA;Avda. Italia 6958;8;Carrasco;11;Devoto;-34,87743837;-56,05741208;Montevideo;Montevideo;1020;0
+42;Supermercados Disco del Uruguay S.A.;Disco - LEGRAND;Avda. Enrique Legrand 5085;7;Malvín;11;Disco;-34,89012831;-56,09804228;Montevideo;Montevideo;1020;0
+43;Devoto Hermanos S.A.;Devoto - MALVIN;Hipólito Yrigoyen 1444;7;Malvín;11;Devoto;-34,89487376;-56,10767852;Montevideo;Montevideo;1020;0
+44;Supermercados Disco del Uruguay S.A.;Disco - 20 DE SETIEMBRE;20 de Setiembre 1479;4;Parque Batlle ;11;Disco;-34,90041756;-56,16286006;Montevideo;Montevideo;1020;0
+45;Supermercados Disco del Uruguay S.A.;Disco - ARENAL GRANDE;Arenal Grande 1376;2;Cordón;11;Disco;-34,90282638;-56,1730281;Montevideo;Montevideo;1020;0
+46;Supermercados Disco del Uruguay S.A.;Disco - SOCA;Avda. Dr. Francisco Soca 1318;5;Pocitos;11;Disco;-34,90559329;-56,15479361;Montevideo;Montevideo;1020;0
+47;Supermercados Disco del Uruguay S.A.;Disco - SOLYMAR;Avda. Ing. Luis Giannattasio Km. 23.500;;Interior;12;Disco;-34,82540479;-55,96452273;Ciudad de la Costa;Canelones;3831;0
+48;Supermercados Disco del Uruguay S.A.;Disco - EJIDO;Ejido 1530;2;Centro;12;Disco;-34,90222682;-56,18702525;Montevideo;Montevideo;1020;0
+49;Supermercados Disco del Uruguay S.A.;Disco - ROOSEVELT;Avda. Roosevelt y Zelmar Michelini;;Interior;12;Disco;-34,91408137;-54,96142589;Punta del Este;Maldonado;10322;0
+50;Supermercados Disco del Uruguay S.A.;Disco - PARADA 5;Pedragosa Sierra y Av. Italia (parada 5);;Interior;12;Disco;-34,94305492;-54,93227366;Punta del Este;Maldonado;10322;0
+51;Supermercados Disco del Uruguay S.A.;Disco - ATLANTIDA;Avda. Gral. Artigas entre 22 y 24;;Interior;13;Disco;-34,77203396;-55,76235147;Atlántida;Canelones;3621;0
+52;Devoto Hermanos S.A.;Devoto - 26 DE MARZO;26 de Marzo 1386;5;Pocitos;13;Devoto;-34,90791912;-56,14607934;Montevideo;Montevideo;1020;0
+53;Supermercados Disco del Uruguay S.A.;Disco - SCOSERIA;Scoseria 2628;5;Pocitos;13;Disco;-34,9153555;-56,15548036;Montevideo;Montevideo;1020;0
+54;Supermercados Disco del Uruguay S.A.;Disco - DE LA PUNTA;Calle 17 y 24;;Interior;13;Disco;-34,96622428;-54,94629701;Punta del Este;Maldonado;10322;0
+55;Devoto Hermanos S.A.;Devoto - PANDO;Juan A. Lavalleja Km 30 Ruta 8;;Interior;14;Devoto;-34,72990601;-55,9715858;Pando;Canelones;3322;0
+56;Supermercados Disco del Uruguay S.A.;Disco - AGRACIADA;Avda. Agraciada 2986;16;Bella Vista;15;Disco;-34,87585413;-56,19864349;Montevideo;Montevideo;1020;0
+57;Devoto Hermanos S.A.;Devoto - AGRACIADA;Avda. Agraciada 3655;16;Prado;16;Devoto;-34,86497537;-56,20974186;Montevideo;Montevideo;1020;0
+58;Supermercados Disco del Uruguay S.A.;Disco - 8 DE OCTUBRE Y GARIBALDI;Avda. 8 de Octubre 2681;4;La Blanqueada;17;Disco;-34,8894923;-56,16024425;Montevideo;Montevideo;1020;0
+59;Devoto Hermanos S.A.;Devoto - SAN MARTIN II;Avda. Gral. San Martín 3083;11;Atahualpa;20;Devoto;-34,86977972;-56,18203013;Montevideo;Montevideo;1020;0
+60;Devoto Hermanos S.A.;Devoto - PORTONES;Avda. Italia 5779;8;Carrasco;20;Devoto;-34,88218541;-56,08218073;Montevideo;Montevideo;1020;0
+61;Supermercados Disco del Uruguay S.A.;Disco - PUNTA CARRETAS;José Ellauri 350 Local 002;5;Punta Carretas;22;Disco;-34,92405523;-56,15998071;Montevideo;Montevideo;1020;0
+62;Devoto Hermanos S.A.;Devoto - PUNTA DEL ESTE;Roosevelt y Parada 10;;Interior;26;Devoto;-34,93606671;-54,93775946;Punta del Este;Maldonado;10322;0
+63;Supermercados Disco del Uruguay S.A.;Disco - AV. ITALIA;Magariños Cervantes Nº 2052;6;Buceo;27;Disco;-34,887486;-56,1437407;Montevideo;Montevideo;1020;0
+64;Devoto Hermanos S.A.;Devoto - HIPER PIRIAPOLIS;Piria y Buenos Aires;;Interior;27;Devoto;-34,86549145;-55,27038576;Piriápolis;Maldonado;10321;0
+65;Devoto Hermanos S.A.;Devoto - SAYAGO;Camino Ariel 4626;13;Sayago;29;Devoto;-34,83638996;-56,21149212;Montevideo;Montevideo;1020;0
+66;Ta Ta S.A.;Ta - Ta - Florida;Independencia 666;;Interior;3;Ta - Ta;-34,09827705;-56,21565646;Florida;Florida;8220;0
+67;Ta Ta S.A.;Ta - Ta - Goes;Avda. Gral. Flores 2569/71;3;Goes;3;Ta - Ta;-34,88037673;-56,18172176;Montevideo;Montevideo;1020;0
+68;Ta Ta S.A.;Ta - Ta - Cerro;Grecia 3396;17;Cerro;3;Ta - Ta;-34,89035879;-56,24788098;Montevideo;Montevideo;1020;0
+69;Ta Ta S.A.;Ta - Ta - San José;Asamblea  620;;Interior;3;Ta - Ta;-34,33996066;-56,71293279;San José de Mayo;San José;16220;0
+70;Ta Ta S.A.;Ta - Ta - Melo;Aparicio Saravia 665;;Interior;4;Ta - Ta;-32,369228;-54,16912088;Melo;Cerro Largo;4220;0
+71;Ta Ta S.A.;Ta - Ta - Malvín Norte;Piran 2101;8;Malvín Norte;4;Ta - Ta;-34,8745169;-56,1223416;Montevideo;Montevideo;1020;0
+72;Ta Ta S.A.;Ta - Ta - Pando;Avda. Gral. Artigas 851;;Interior;4;Ta - Ta;-34,717023;-55,96221554;Pando;Canelones;3322;0
+73;Ta Ta S.A.;Ta - Ta - Artigas;Bernabé Rivera  269;;Interior;5;Ta - Ta;-30,39981984;-56,46589301;Artigas;Artigas;2220;0
+74;Ta Ta S.A.;Ta - Ta - Durazno;18 de Julio 580;;Interior;5;Ta - Ta;-33,37924226;-56,52223948;Durazno;Durazno;6220;0
+75;Ta Ta S.A.;Ta - Ta - Colón;Avda. Garzón 1952;12;Colón Centro y Noroeste;5;Ta - Ta;-34,80447919;-56,22252959;Montevideo;Montevideo;1020;0
+76;Ta Ta S.A.;Ta - Ta - Portones;Avda. Italia 5757;8;Carrasco;5;Ta - Ta;-34,88220508;-56,08223564;Montevideo;Montevideo;1020;0
+77;Superstar Ltda.;Superstar - Plaza;Leandro Gómez esq. Zelmar Michelini (Z. Michelini 911);;Interior;5;Ta - Ta;-32,31643682;-58,09558874;Paysandú;Paysandú;11120;0
+78;Ta Ta S.A.;Ta - Ta - Young;18 de Julio 1923;;Interior;5;Ta - Ta;-32,6996292;-57,6287617;Young;Río Negro;12421;0
+79;Ta Ta S.A.;Ta - Ta - Fray Bentos;18 de Julio 1625;;Interior;6;Ta - Ta;-33,12115054;-58,30647655;Fray Bentos;Río Negro;12320;0
+80;Ta Ta S.A.;Ta - Ta - Unión;Avda. 8 de Octubre 3723;6;Unión;6;Ta - Ta;-34,87531947;-56,14131826;Montevideo;Montevideo;1020;0
+81;Superstar Ltda.;Superstar - Norte;Zorrilla de San Martín 1705;;Interior;6;Ta - Ta;-32,30229708;-58,07829654;Paysandú;Paysandú;11120;0
+82;Ta Ta S.A.;Ta - Ta - Rosario;Artigas 200;;Interior;6;Ta - Ta;-34,316172;-57,356172;Rosario;Colonia;5422;0
+83;Ta Ta S.A.;Ta - Ta - Colonia;Avda. Roosevelt y Luis Casanello;;Interior;7;Ta - Ta;-34,46590035;-57,83459086;Colonia del Sacramento;Colonia;5320;0
+84;Ta Ta S.A.;Ta - Ta - Juan Lacaze;Jose Salvo 100;;Interior;7;Ta - Ta;-34,4368371;-57,4376265;Juan Lacaze;Colonia;5323;0
+85;Ta Ta S.A.;Ta - Ta - Hiper Las Piedras;Avda. Gral. Artigas 810;;Interior;7;Ta - Ta;-34,72718148;-56,22376272;Las Piedras;Canelones;3221;0
+86;Ta Ta S.A.;Ta - Ta - Hiper Melo;Villanueva Saravia 777;;Interior;7;Ta - Ta;-32,35674232;-54,1650241;Melo;Cerro Largo;4220;0
+87;Ta Ta S.A.;Ta - Ta - Hiper Mercedes;Artigas y Rodó;;Interior;7;Ta - Ta;-33,25008096;-58,02999503;Mercedes;Soriano;17220;0
+88;Ta Ta S.A.;Ta - Ta - Minas;18 de Julio  620;;Interior;7;Ta - Ta;-34,37704023;-55,23705664;Minas;Lavalleja;9220;0
+89;Ta Ta S.A.;Ta - Ta - 18 de Julio;Avda. 18 de Julio 1280;1;Centro;7;Ta - Ta;-34,90588074;-56,1884683;Montevideo;Montevideo;1020;0
+90;Ta Ta S.A.;Ta - Ta - Centro;Avda. 18 de Julio 880;1;Centro;7;Ta - Ta;-34,9065197;-56,19747883;Montevideo;Montevideo;1020;0
+91;Ta Ta S.A.;Ta - Ta - Paysandú;18 deJulio1128;;Interior;7;Ta - Ta;-32,31720503;-58,08288566;Paysandú;Paysandú;11120;0
+92;Ta Ta S.A.;Ta - Ta - Canelones;José Batlle y Ordoñes 960;;Interior;8;Ta - Ta;-34,51714088;-56,28118885;Canelones;Canelones;3320;0
+93;Ta Ta S.A.;Ta - Ta - Carmelo;Zorrilla de San Martin 278;;Interior;8;Ta - Ta;-33,9993896;-58,2883458;Carmelo;Colonia;5321;0
+94;Ta Ta S.A.;Ta - Ta - Paso Molino;Avda. Agraciada 4214;14;Paso Molino;8;Ta - Ta;-34,85626027;-56,21987448;Montevideo;Montevideo;1020;0
+95;Superstar Ltda.;Superstar - Shopping;Luis A. de Herrera 925;;Interior;8;Ta - Ta;-32,31817282;-58,08311064;Paysandú;Paysandú;11120;0
+96;Ta Ta S.A.;Ta - Ta - Hiper Paysandú;Rep. Argentina 1680;;Interior;8;Ta - Ta;-32,3186309;-58,07066348;Paysandú;Paysandú;11120;0
+97;Ta Ta S.A.;Ta - Ta - Rocha;Gral Artigas 221;;Interior;8;Ta - Ta;-34,4837741;-54,3337119;Rocha;Rocha;14320;0
+98;Ta Ta S.A.;Ta - Ta - Hiper Tacuarembó 2;Joaquín Suarez 259;;Interior;8;Ta - Ta;-31,71252253;-55,97836308;Tacuarembó;Tacuarembó;18220;0
+99;Ta Ta S.A.;Ta - Ta - Trinidad;Pte. Berro y J. Batlle y Ordoñez (Pte. Berro 474);;Interior;8;Ta - Ta;-33,51881855;-56,89555368;Trinidad;Flores;7320;0
+100;Ta Ta S.A.;Ta - Ta - Hiper Artigas;Luis Alberto de Herrera 539;;Interior;9;Ta - Ta;-30,40545839;-56,46335985;Artigas;Artigas;2220;0
+101;Ta Ta S.A.;Ta - Ta - Salto I;19 de Abril y  Soca;;Interior;9;Ta - Ta;-31,38540957;-57,96345507;Salto;Salto;15120;0
+102;Ta Ta S.A.;Ta - Ta - Hiper San Carlos;Carlos Alberto Cal 738;;Interior;9;Ta - Ta;-34,7929884;-54,9207713;San Carlos;Maldonado;10323;0
+103;Ta Ta S.A.;Ta - Ta - Treinta y Tres;Juan Antonio Lavalleja 1774;;Interior;9;Ta - Ta;-33,225326;-54,3901664;Treinta y Tres;Treinta y Tres;19220;0
+104;Ta Ta S.A.;Ta - Ta - Cordón;Avda. 18 de Julio1593;2;Cordón;10;Ta - Ta;-34,90407047;-56,18199884;Montevideo;Montevideo;1020;0
+105;Superstar Ltda.;Superstar - Hipercentro;Bvar. Artigas Esq. Washington (Washington 1673);;Interior;10;Ta - Ta;-32,31509968;-58,07008748;Paysandú;Paysandú;11120;0
+106;Ta Ta S.A.;Ta - Ta - Rivera;Sarandí 950;;Interior;10;Ta - Ta;-30,9063819;-55,53965908;Rivera;Rivera;13220;0
+107;Polakof  y Cía.  S.A.;El Dorado - Biarritz;Urbanización Biarritz;;Interior;1;El Dorado;-34,8901087;-54,94368781;Maldonado;Maldonado;10320;0
+108;Polakof  y Cía.  S.A.;El Dorado - Aiguá;Gral. de la Llana y M. Muniz;;Interior;2;El Dorado;-34,20195102;-54,76679261;Aiguá;Maldonado;10324;0
+109;Polakof  y Cía.  S.A.;El Dorado - Chuy;Arachanes 559;;Interior;2;El Dorado;-33,69322015;-53,45540749;Chuy;Rocha;14521;0
+110;Polakof  y Cía.  S.A.;El Dorado - La Pedrera;Ruta 10 Y calle Principal;;Interior;2;El Dorado;-34,59084857;-54,12378425;La Pedrera;Rocha;14942;0
+111;Polakof  y Cía.  S.A.;El Dorado - Solanas;Ruta10 Km. 127.500;;Interior;2;El Dorado;-34,88034983;-55,05032954;Maldonado;Maldonado;10320;0
+112;Polakof  y Cía.  S.A.;El Dorado - Cerro Pelado;Cuchilla de la India Muerta y Tpanbaé;;Interior;2;El Dorado;-34,8828614;-54,97470354;Maldonado;Maldonado;10320;0
+113;Polakof  y Cía.  S.A.;El Dorado - Lausana;Acuario y Manolo Lima;;Interior;2;El Dorado;-34,88449198;-54,977229;Maldonado;Maldonado;10320;0
+114;Polakof  y Cía.  S.A.;El Dorado - Camino de los Gauchos;Av. De Los Gauchos y Celedonio Rojas ;;Interior;2;El Dorado;-34,90089817;-54,94392757;Maldonado;Maldonado;10320;0
+115;Polakof  y Cía.  S.A.;El Dorado - Tobias Polakof;Tobias Polakof 1031 y Joaquin de Viana;;Interior;2;El Dorado;-34,90924328;-54,96376791;Maldonado;Maldonado;10320;0
+116;Polakof  y Cía.  S.A.;El Dorado - Punta Colorada;Avda. Calle Central entre calles  6 y 7;;Interior;2;El Dorado;-34,90153809;-55,25670274;Piriápolis;Maldonado;10321;0
+117;Polakof  y Cía.  S.A.;El Dorado - Treinta y Tres Obelisco;Enrique Rodó 1559;;Interior;2;El Dorado;-33,22808828;-54,37859324;Treinta y Tres;Treinta y Tres;19220;0
+118;Polakof  y Cía.  S.A.;El Dorado - Solís;Avda. Barreiro Pda. 28;;Interior;3;El Dorado;-34,78951211;-55,37694236;Balneario Solís;Maldonado;10325;0
+119;Polakof  y Cía.  S.A.;El Dorado - Cuchilla Alta;Avda. Agustín Pons S/N entre Rambla 33 y Canelones;;Interior;3;El Dorado;-34,79662349;-55,49485429;Cuchilla Alta;Canelones;3832;0
+120;Polakof  y Cía.  S.A.;El Dorado - Las Piedras;Gral. Flores 609;;Interior;3;El Dorado;-34,72788381;-56,21585865;Las Piedras;Canelones;3221;0
+121;Polakof  y Cía.  S.A.;El Dorado - Lascano;25 de Agosto y Rincón;;Interior;3;El Dorado;-33,67438544;-54,20609267;Lascano;Rocha;14422;0
+122;Polakof  y Cía.  S.A.;El Dorado - Boulevar;Tacuarembó y Bvar. Artigas;;Interior;3;El Dorado;-34,91511706;-54,94480493;Maldonado;Maldonado;10320;0
+123;Polakof  y Cía.  S.A.;El Dorado - Minas 3;18 de Julio y Claudio Williman;;Interior;3;El Dorado;-34,37489226;-55,24036001;Minas;Lavalleja;9220;0
+124;Polakof  y Cía.  S.A.;El Dorado - Simón del Pino;Simón del Pino y Misiones;;Interior;3;El Dorado;-34,85924269;-55,277325;Piriápolis;Maldonado;10321;0
+125;Polakof  y Cía.  S.A.;El Dorado - Treinta y Tres El Arco;Manuel Meléndez 852 esq. Juan Rosas;;Interior;3;El Dorado;-33,22944446;-54,38261002;Treinta y Tres;Treinta y Tres;19220;0
+126;Polakof  y Cía.  S.A.;El Dorado - Mercado Velazquez;Avda. Batlle y Ordoñez y Mitre;;Interior;4;El Dorado;-34,89853795;-54,95389921;Maldonado;Maldonado;10320;0
+127;Polakof  y Cía.  S.A.;El Dorado - Minas Avenida;Luis A. de Herrera  515;;Interior;4;El Dorado;-34,37279248;-55,24357249;Minas;Lavalleja;9220;0
+128;Polakof  y Cía.  S.A.;El Dorado - Gorlero;Calle 29 y Gorlero;;Interior;4;El Dorado;-34,95999947;-54,94127259;Punta del Este;Maldonado;10322;0
+129;Polakof  y Cía.  S.A.;El Dorado - Parada 2;Av. Francia entre Vaz Ferreira y Lenzina;;Interior;4;El Dorado;-34,9532227;-54,9389274;Punta del Este;Maldonado;10322;0
+130;Polakof  y Cía.  S.A.;El Dorado - La Barra;Ruta 10 Km. 160.10;;Interior;5;El Dorado;-34,9086191;-54,86736565;Barra de Maldonado;Maldonado;10325;0
+131;Polakof  y Cía.  S.A.;El Dorado - La Paloma;Solari esq. Sirio;;Interior;5;El Dorado;-34,66434558;-54,15560948;La Paloma;Rocha;14722;0
+132;Polakof  y Cía.  S.A.;El Dorado - Mercado Aigua;Avda. Aiguá y Monterroso;;Interior;5;El Dorado;-34,90796516;-54,94891351;Maldonado;Maldonado;10320;0
+133;Polakof  y Cía.  S.A.;El Dorado - Minas Centro;Morales Arrillaga 757;;Interior;5;El Dorado;-34,37417286;-55,23424515;Minas;Lavalleja;9220;0
+134;Polakof  y Cía.  S.A.;El Dorado - Mercado Pan de Azúcar;Félix de Lizarza 775;;Interior;5;El Dorado;-34,77995427;-55,22845428;Pan de Azúcar;Maldonado;10326;0
+135;Polakof  y Cía.  S.A.;El Dorado - San Carlos Avenida;Ceberio y Rincón;;Interior;5;El Dorado;-34,79540196;-54,92222562;San Carlos;Maldonado;10323;0
+136;Polakof  y Cía.  S.A.;El Dorado - La Balconada;Av. Sagitario Esquina Alfa;;Interior;6;El Dorado;-34,6593147;-54,1697994;La Paloma;Rocha;14722;0
+137;Polakof  y Cía.  S.A.;El Dorado - Super Eco Lussich;Camino Lussich y Medina;;Interior;6;El Dorado;-34,8991043;-54,96720539;Maldonado;Maldonado;10320;0
+138;Polakof  y Cía.  S.A.;El Dorado - Piria;Av. Piria y Tucumán;;Interior;6;El Dorado;-34,86899766;-55,27315934;Piriápolis;Maldonado;10321;0
+139;Polakof  y Cía.  S.A.;El Dorado - Río Branco;José H. Uriarte y Virrey Arredondo;;Interior;6;El Dorado;-32,58116917;-53,37591628;Río Branco;Cerro Largo;4522;0
+140;Polakof  y Cía.  S.A.;El Dorado - San Carlos Centro;25 de Agosto y  Sarandí;;Interior;6;El Dorado;-34,79101284;-54,91311283;San Carlos;Maldonado;10323;0
+141;Polakof  y Cía.  S.A.;El Dorado - Treinta y Tres Centro;Basilio Araujo 1067;;Interior;6;El Dorado;-33,23295056;-54,38768007;Treinta y Tres;Treinta y Tres;19220;0
+142;Polakof  y Cía.  S.A.;El Dorado - Mercado 18;Dodera 882;;Interior;10;El Dorado;-34,9071442;-54,96037308;Maldonado;Maldonado;10320;0
+143;Polakof  y Cía.  S.A.;El Dorado - Santa Lucía;Av. Rivera y Dr. Mateo Legnani;;Interior;10;El Dorado;-34,4498343;-56,3982732;Santa Lucía;Canelones;3975;0
+144;Ta Ta S.A.;Ta - Ta - Tres Cruces;Bvar. Gral. Artigas 1867;2;Tres Cruces;11;Ta - Ta;-34,89641173;-56,16508872;Montevideo;Montevideo;1020;0
+145;Polakof  y Cía.  S.A.;El Dorado - Melo;Luis A. De Herrera y Justino Muniz;;Interior;8;El Dorado;-32,3694805;-54,1697456;Melo;Cerro Largo;4220;0
+146;Macromercado Mayorista S.A.;Macromercado Mayorista - Camino Maldonado / Punta Rieles;Camino Maldonado 6783;9;Punta de Rieles ;10;Macromercado Mayorista;-34,82459384;-56,10209434;Montevideo;Montevideo;1020;0
+147;Macromercado Mayorista S.A.;Macromercado Mayorista - Paso de la Arena;Avda. Luis Batlle Berres 6149;18;Paso de la Arena;12;Macromercado Mayorista;-34,84614233;-56,25001131;Montevideo;Montevideo;1020;0
+148;Macromercado Mayorista S.A.;Macromercado Mayorista - La Teja;Avda. Dr. Carlos Ma. Ramírez 574;14;La Teja;13;Macromercado Mayorista;-34,86204963;-56,23138236;Montevideo;Montevideo;1020;0
+149;Macromercado Mayorista S.A.;Macromercado Mayorista - Carrasco;Avda. al Parque Roosvelt 2495;;Interior;22;Macromercado Mayorista;-34,87133956;-56,02260557;Ciudad de la Costa;Canelones;3831;0
+150;Macromercado Mayorista  S.A.;Macromercado Mayorista - Maldonado;Bvar. Artigas y 3 de febrero;;Interior;22;Macromercado Mayorista;-34,91511706;-54,94480493;Maldonado;Maldonado;10320;0
+151;Macromercado Mayorista S.A.;Macromercado Mayorista - Casa Central / San Mart?n;Pugnalini 1847;3;Brazo Oriental;22;Macromercado Mayorista;-34,8667541;-56,18040616;Montevideo;Montevideo;1020;0
+152;Henderson y Cia.  S.A.;Tienda Inglesa - Pocitos;Juan Benito Blanco 966;5;Pocitos;5;Tienda Inglesa;-34,91390176;-56,14886398;Montevideo;Montevideo;1020;0
+153;Henderson y Cia.  S.A.;Tienda Inglesa - Arocena;Dr. Alejandro Schroeder 6436;8;Carrasco;9;Tienda Inglesa;-34,887673;-56,05852061;Montevideo;Montevideo;1020;0
+154;Henderson y Cia.  S.A.;Tienda Inglesa - Unión;Avda. 8 de Octubre 4086;6;Unión;10;Tienda Inglesa;-34,87076392;-56,1348831;Montevideo;Montevideo;1020;0
+155;Ta Ta S.A.;Ta - Ta - Maldonado;25 de Mayo 600;;Interior;11;Ta - Ta;-34,90905068;-54,95580323;Maldonado;Maldonado;10320;0
+156;Henderson y Cia.  S.A.;Tienda Inglesa - Lagomar;Avda. Ing. Luis Giannattasio Km.21800;;Interior;13;Tienda Inglesa;-34,83446951;-55,980841;Ciudad de la Costa;Canelones;3831;0
+157;Henderson y Cia.  S.A.;Tienda Inglesa - Posadas;Avda. Dr. Luis A. de Herrera  4462;15;Prado ;14;Tienda Inglesa;-34,85783077;-56,19462606;Montevideo;Montevideo;1020;0
+158;Henderson y Cia.  S.A.;Tienda Inglesa - Atlántida;Ruta Interbalnearia  Km 45;;Interior;18;Tienda Inglesa;-34,76800372;-55,76856156;Atlántida;Canelones;3621;0
+159;Henderson y Cia.  S.A.;Tienda Inglesa - Central;Avda. Italia 5820;8;Carrasco;22;Tienda Inglesa;-34,88259202;-56,08110165;Montevideo;Montevideo;1020;0
+160;Ta Ta S.A.;Ta - Ta - Rivera Shopping;Sepè 51;;Interior;7;Ta - Ta;-30,9000121;-55,5263139;Rivera;Rivera;13220;0
+161;Ta Ta S.A.;Ta - Ta - Costa Urbana Shopping;Av Giannattasio km 20,500;;Interior;13;Ta - Ta;-34,8412378;-55,9948837;Ciudad de la Costa;Canelones;3831;0
+162;Ta Ta S.A.;Multiahorro Express N° 15;Martín Fierro 2415;4;La Blanqueada;2;Ta - Ta;-34,88275034;-56,16558447;Montevideo;Montevideo;1020;0
+163;Sistemar S.A.;Multiahorro Express N° 9;Avda. Ramón Anador 3842;4;Buceo;2;Multi Ahorro;-34,89335284;-56,13056929;Montevideo;Montevideo;1020;0
+164;Ta Ta S.A.;Ta! N° 11;Avda. Gral. Rivera 4250;7;Buceo;2;Ta - Ta;-34,89616288;-56,12176942;Montevideo;Montevideo;1020;0
+165;Ta Ta S.A.;Multiahorro Express N° 13;Dr. Tristán Narvaja 1541;2;Cordón;2;Ta - Ta;-34,90185104;-56,17782331;Montevideo;Montevideo;1020;0
+166;Ta Ta S.A.;Ta! N° 2;Avda. Gral. Rivera 2056;3;Cordón;2;Ta - Ta;-34,90243241;-56,17148092;Montevideo;Montevideo;1020;0
+167;Ta Ta S.A.;Multiahorro Express N° 5;Libertad 2545;5;Pocitos;2;Ta - Ta;-34,91061083;-56,15822847;Montevideo;Montevideo;1020;0
+168;Ta Ta S.A.;Multiahorro Express N° 17;Avda. Gral. Flores 4649;11;Cerrito;3;Ta - Ta;-34,84612874;-56,1555897;Montevideo;Montevideo;1020;0
+169;Ta Ta S.A.;Multiahorro Express N° 18;Avda. Agraciada 2560;16;Aguada;3;Ta - Ta;-34,88460381;-56,19320693;Montevideo;Montevideo;1020;0
+170;Sistemar S.A.;Multiahorro Express N° 8;Ramón Anador 3272;5;Parque Batlle;3;Multi Ahorro;-34,89631912;-56,14572;Montevideo;Montevideo;1020;0
+171;Ta Ta S.A.;Multiahorro Express N° 6;Río Branco 1382;1;Centro;3;Ta - Ta;-34,90568957;-56,19573175;Montevideo;Montevideo;1020;0
+172;Ta Ta S.A.;Multiahorro Express N° 10;Constituyente 1570;2;Centro;3;Ta - Ta;-34,90612584;-56,18204036;Montevideo;Montevideo;1020;0
+173;Ta Ta S.A.;Multiahorro Express N° 1;Canelones 888;1;Centro;3;Ta - Ta;-34,90936691;-56,19705609;Montevideo;Montevideo;1020;0
+174;Ta Ta S.A.;Ta!  N°2;José H. Figueira 2301;5;Parque Rodó;3;Ta - Ta;-34,91568181;-56,16416731;Montevideo;Montevideo;1020;0
+175;Ta Ta S.A.;Multiahorro Express N° 3;Avda. Gral. San Martín 2700;3;Reducto;4;Ta - Ta;-34,87614907;-56,1857678;Montevideo;Montevideo;1020;0
+176;Ta Ta S.A.;Multiahorro Express N° 12;Avda. Italia 3796;6;Buceo;4;Ta - Ta;-34,88709064;-56,13024546;Montevideo;Montevideo;1020;0
+177;Ta Ta S.A.;Multiahorro N° 27;Juan D. Jackson 1222;2;Cordón;4;Ta - Ta;-34,90691562;-56,1730635;Montevideo;Montevideo;1020;0
+178;Ta Ta S.A.;Multiahorro N°30;San José 882;1;Centro;4;Ta - Ta;-34,90750923;-56,19737321;Montevideo;Montevideo;1020;0
+179;Ta Ta S.A.;Ta!  N°8;Paraguay 1017;1;Barrio Sur;4;Ta - Ta;-34,9126652;-56,191997;Montevideo;Montevideo;1020;0
+180;Ta Ta S.A.;Multi ahorro 32;18 de Julio 430;;Interior;4;Ta - Ta;-31,7185385;-55,9881785;Tacuarembó;Tacuarembó;18220;0
+181;Ta Ta S.A.;Multi ahorro 33;Nelson Ferreira 132;;Interior;4;Ta - Ta;-31,7220173;-55,9789866;Tacuarembó;Tacuarembó;18220;0
+182;Ta Ta S.A.;Ta - Ta - N°22;Avda. Lezica 6345;12;Colón;5;Ta - Ta;-34,79672;-56,24808361;Montevideo;Montevideo;1020;0
+183;Ta Ta S.A.;Multiahorro No. 5;Bvar. José Batlle y Ordoñez 6609;13;Sayago;5;Ta - Ta;-34,82542909;-56,22402631;Montevideo;Montevideo;1020;0
+184;Ta Ta S.A.;Ta - Ta - N°4;Avda. Felipe Carapé 4478;15;Aires Puros;5;Ta - Ta;-34,85338039;-56,19417495;Montevideo;Montevideo;1020;0
+185;Ta Ta S.A.;Multiahorro N°23;Cooper 2390;8;Carrasco;5;Ta - Ta;-34,87083853;-56,06918428;Montevideo;Montevideo;1020;0
+186;Ta Ta S.A.;Multiahorro 6;Cufré 2687;2;La Comercial;5;Ta - Ta;-34,87794723;-56,17095454;Montevideo;Montevideo;1020;0
+187;Ta Ta S.A.;Ta - Ta - N°29;Miguelete 2226;2;Tres Cruces;5;Ta - Ta;-34,89229941;-56,17095017;Montevideo;Montevideo;1020;0
+188;Ta Ta S.A.;Multiahorro 19;Bvar. José Batlle y Ordóñez 1703;7;Buceo;5;Ta - Ta;-34,89382598;-56,12898604;Montevideo;Montevideo;1020;0
+189;Ta Ta S.A.;Ta - Ta - N°30;Luis B. Cavia 2610;5;Pocitos;5;Ta - Ta;-34,90804026;-56,15770659;Montevideo;Montevideo;1020;0
+190;Ta Ta S.A.;Ta - Ta - N°15;Fructuoso Rivera 3320 (y Dr. González);;Interior;6;Ta - Ta;-34,09636833;-56,2147445;Florida;Florida;8220;0
+191;Ta Ta S.A.;Multiahorro N°24;Conrado Moller 260;;Interior;6;Ta - Ta;-34,76274799;-56,22468585;La Paz;Canelones;3321;0
+192;Ta Ta S.A.;Ta - Ta - N° 26;Juan Sebastián Elcano 3301;11;Pérez Castellanos;6;Ta - Ta;-34,85952506;-56,15075662;Montevideo;Montevideo;1020;0
+193;Ta Ta S.A.;Multiahorro N°21;Avda. Dr. Carlos Ma. Ramírez 932;14;La Teja;6;Ta - Ta;-34,86658314;-56,23693197;Montevideo;Montevideo;1020;0
+194;Ta Ta S.A.;Ta - Ta - N°7;José Enrique Rodó 1802;2;Cordón;6;Ta - Ta;-34,90479859;-56,17716075;Montevideo;Montevideo;1020;0
+195;Ta Ta S.A.;Ta - Ta - N°35;Francisco Fondar 785;;Interior;6;Ta - Ta;-33,5202526;-56,8997266;Trinidad;Flores;7320;0
+196;Ta Ta S.A.;Ta - Ta - N°1;Iguá 4498;8;Malvín Norte;7;Ta - Ta;-34,88114371;-56,11184138;Montevideo;Montevideo;1020;0
+197;Ta Ta S.A.;Ta - Ta - N°12;Comercio 2445;6;Unión;8;Ta - Ta;-34,87763426;-56,14148306;Montevideo;Montevideo;1020;0
+198;Ta Ta S.A.;Ta - Ta - N°11;Avda. José Belloni 4393;11;Piedras Blancas;9;Ta - Ta;-34,82319956;-56,14089719;Montevideo;Montevideo;1020;0
+199;Ta Ta S.A.;Ta - Ta - N°25;Avda. Gral. Flores 5493;10;Piedras Blancas;9;Ta - Ta;-34,82885107;-56,14141459;Montevideo;Montevideo;1020;0
+200;Ta Ta S.A.;Ta - Ta - N°18;Avda. 8 de Octubre 3340;6;Unión;9;Ta - Ta;-34,88006984;-56,14878114;Montevideo;Montevideo;1020;0
+201;Ta Ta S.A.;Ta - Ta - N°17;Don Bosco 734;;Interior;10;Ta - Ta;-33,25689804;-58,02964394;Mercedes;Soriano;17220;0
+202;Ta Ta S.A.;Ta - Ta - N°13;Camino Maldonado 5757;9;Punta de Rieles ;10;Ta - Ta;-34,84185921;-56,12456152;Montevideo;Montevideo;1020;0
+203;Ta Ta S.A.;Ta - Ta - N°9;Avda. Gral. Flores 4104;11;Buceo;10;Ta - Ta;-34,85473971;-56,16188944;Montevideo;Montevideo;1020;0
+204;Ta Ta S.A.;Ta - Ta - N°10;Camino Carrasco 4656;6;Malvín Norte;11;Ta - Ta;-34,87180352;-56,11803439;Montevideo;Montevideo;1020;0
+205;Ta Ta S.A.;Ta - Ta - N°16;Diego Lamas 2274;;Interior;11;Ta - Ta;-31,38371262;-57,94355019;Salto;Salto;15120;0
+206;Ta Ta S.A.;Ta - Ta - N° 28;Avda. Ing. Luis Giannattasio Km. 23.200;;Interior;12;Ta - Ta;-34,87036158;-56,02247714;Ciudad de la Costa;Canelones;3831;0
+207;Ta Ta S.A.;Multi ahorro 31;Gral. Flores 315;;Interior;12;Ta - Ta;-31,7159807;-55,9842182;Tacuarembó;Tacuarembó;18220;0
+208;Ta Ta S.A.;Ta - Ta - N°14;Avda. Dr. Carlos Ma. Ramírez 1490;17;Cerro;16;Ta - Ta;-34,87322619;-56,24556142;Montevideo;Montevideo;1020;0
+209;Ta Ta S.A.;Ta - Ta - N°34;Wilson Ferrira Aldunate 419;;Interior;10;Ta - Ta;-33,3827939;-56,527935;Durazno;Durazno;6220;0
+210;De Buño SRL.;MicroMacro 3 Calvo;Francisco Canaro 2265;2;Cordón;2;Micro Macro;-34,89878911;-56,16538919;Montevideo;Montevideo;1020;0
+211;Yaelcong S.A.;MicroMacro 12 Camino Carrasco;Camino Carrasco 120;;Interior;2;Micro Macro;-34,86282837;-56,05523688;Ciudad de la Costa;Canelones;3831;0
+212;Fonsil S.A.;Micro Macro  Tigre 1;José Pedro Varela 401;;Interior;3;Micro Macro;-34,46663043;-57,83854674;Colonia del Sacramento;Colonia;5320;0
+213;Fonsil S.A.;Micro Macro  Tigre 2;Rivera 185;;Interior;3;Micro Macro;-34,47045213;-57,84405887;Colonia del Sacramento;Colonia;5320;0
+214;Fonsil S.A.;Micro Macro 11 Libertad;Ruta 1 km.52 /Lavalleja;;Interior;3;Micro Macro;-34,63893981;-56,61913703;Libertad;San José;16421;0
+215;Brentol S.A.;Micro Macro 7 Millán;Avda. Millán 5956 y Cno.Lecocq;13;Sayago;3;Micro Macro;-34,8257997;-56,24283976;Montevideo;Montevideo;1020;0
+216;Yaelcong S.A.;Micro Macro 14 Pereira;Gabriel A. Pereira 3173;5;Pocitos;3;Micro Macro;-34,90930795;-56,14769084;Montevideo;Montevideo;1020;0
+217;Fonsil S.A.;Micro Macro Tigre 3;Lorenzo Latorre s/n;;Interior;4;Micro Macro;-34,44831472;-57,84384155;Colonia del Sacramento;Colonia;5320;0
+218;Colen S.A.;Micro Macro 4 San José;San José 1042;1;Centro;4;Micro Macro;-34,90722668;-56,19382116;Montevideo;Montevideo;1020;0
+219;Cladisol S.A.;Micro Macro 6 21 de Setiembre;21 de Setiembre 2973;5;Pocitos;4;Micro Macro;-34,91950719;-56,15276567;Montevideo;Montevideo;1020;0
+220;Blami Ltda.;Frigo - BLAMI;Avda. De las Instrucciones 3086;10;Casavalle;3;Frigo;-34,8087643;-56,16401239;Montevideo;Montevideo;1020;0
+221;Mabiluz S.A.;Frigo - MABILUZ;Bvar. Aparicio Saravia 4642;13;Peñarol;3;Frigo;-34,82651394;-56,20127574;Montevideo;Montevideo;1020;0
+222;Fedimán S.A.;Frigo - FEDIMAN;Cardal 3209;4;La Blanqueada;4;Frigo;-34,88430852;-56,14601649;Montevideo;Montevideo;1020;0
+223;Noar Ltda.;Frigo - NOAR;Avda. De las Instrucciones 1388;13;Lavalleja;5;Frigo;-34,83773753;-56,19362027;Montevideo;Montevideo;1020;0
+224;Dacaril S.A.;Frigo - Palermo ;Avda. Gonzalo Ramírez 1811;2;Palermo;5;Frigo;-34,91187323;-56,17535157;Montevideo;Montevideo;1020;0
+225;Dacaril S.A.;Frigo - Centro ;Avda. Uruguay  1104;1;Centro;6;Frigo;-34,9033249;-56,19251427;Montevideo;Montevideo;1020;0
+226;Iberpark S.A.;Iberpark;Avda. 18 de Julio 2033;1;Centro;1;Iberpark;-34,90011383;-56,17171869;Montevideo;Montevideo;1020;0
+227;Iberpark S.A.;Iberpark;Avda. 18 de Julio 1852;1;Centro;1;Iberpark;-34,9021983;-56,176237;Montevideo;Montevideo;1020;0
+228;Iberpark S.A.;Iberpark;Constituyente 1486;1;Centro;1;Iberpark;-34,90591512;-56,18382559;Montevideo;Montevideo;1020;0
+229;Iberpark S.A.;Iberpark;Soriano 1249;1;Centro;1;Iberpark;-34,90751232;-56,18916948;Montevideo;Montevideo;1020;0
+230;Iberpark S.A.;Iberpark;Blv. Artigas 1825 Local 17;;Tres Cruces;1;Iberpark;-34,893946;-56,1681817;Montevideo;Montevideo;1020;0
+231;Iberpark S.A.;Iberpark;Av. Giannattasio Km 21 Local 131A;;Interior;1;Iberpark;-34,8254104;-56,2405836;Canelones;Canelones;3320;0
+232;Lindol S.A.;Expres 8;Camino Cnel. Raíz 1672;3;Peñarol;3;Sin Cadena;-34,82482065;-56,2002846;Montevideo;Montevideo;1020;0
+233;Soligal S.A.;Suarin;Bvar. José Batlle y Ordoñez 2239;4;Buceo;3;Sin Cadena;-34,8874545;-56,13708909;Montevideo;Montevideo;1020;0
+234;Soditur S.A.;Expres 3;VERACIERTO 2790;;Malvín Norte;4;Sin Cadena;-34,866074;-56,1227215;Montevideo;Montevideo;1020;0
+235;Polakof  y Cía.  S.A.;Winmart;Ruta 39 Km. 7;;Interior;3;Sin Cadena;-34,87621851;-54,94956914;Maldonado;Maldonado;10320;0
+236;Henderson y Cia.  S.A.;Tienda Inglesa - Propios;Bvar. José  Batlle y Ordoñez  3770;11;Pérez Castellanos;27;Tienda Inglesa;-34,86646767;-56,16431444;Montevideo;Montevideo;1020;0
+237;Henderson y Cia.  S.A.;Tienda Inglesa - Punta del Este;Roosevelt y Los Alpes Parada7;;Interior;27;Tienda Inglesa;-34,93928558;-54,93433762;Punta del Este;Maldonado;10322;0
+238;Henderson y Cia.  S.A.;Tienda Inglesa - Shopping;Avda. Dr. Luis A. de Herrera 1290;5;Pocitos;33;Tienda Inglesa;-34,90388623;-56,13722709;Montevideo;Montevideo;1020;0
+239;Tamecor S.A.;Los Jardines 1;18 de Julio 61 Eeq. Piedras;;Interior;3;Sin Cadena;-34,47815454;-54,33708203;Rocha;Rocha;14320;0
+240;Oasis SRL.;Los Jardines Centro;Gral. Artigas  169;;Interior;4;Sin Cadena;-34,48211061;-54,33290109;Rocha;Rocha;14320;0
+241;Limersol  S.A.;Los Jardines Centro La Paloma;Avda. Solari y Paloma;;Interior;6;Sin Cadena;-34,66005676;-54,15588025;La Paloma;Rocha;14722;0
+242;Vernafel S.A.;La Colonial;Gral. Oscar Gestido 2455;5;Pocitos;1;La Colonial;-34,90634542;-56,16049616;Montevideo;Montevideo;1020;0
+243;Vernafel S.A.;La Colonial;26 de Marzo 1349;5;Pocitos;1;La Colonial;-34,90793254;-56,14674749;Montevideo;Montevideo;1020;0
+244;Vernafel S.A.;La Colonial;Miguel Barreiro 3340;5;Pocitos;1;La Colonial;-34,91055233;-56,14561323;Montevideo;Montevideo;1020;0
+245;Vernafel S.A.;La Colonial;21 de Setiembre 2861;5;Pocitos;1;La Colonial;-34,91890232;-56,15547109;Montevideo;Montevideo;1020;0
+246;Vernafel S.A.;La Colonial;Avda. Gral. Rivera 3302;5;Pocitos;2;La Colonial;-34,90263609;-56,1432663;Montevideo;Montevideo;1020;0
+247;Vernafel S.A.;La Colonial;Francisco  A. Vidal 755;5;Pocitos;2;La Colonial;-34,91794706;-56,14976438;Montevideo;Montevideo;1020;0
+248;Dafimán S.A.;Super Salto;Uruguay 862;;Interior;5;Sin Cadena;-31,38758502;-57,9639052;Salto;Salto;15120;0
+249;Wiping  S.A.;HIPER VITAL;Camino Carrasco 149;;Interior;5;Sin Cadena;-34,8547418;-56,04243644;Ciudad de la Costa;Canelones;3831;0
+250;La Intención S.A.;Liro 3;Chaná 2286;2;Cordón;3;Sin Cadena;-34,90398295;-56,16683827;Montevideo;Montevideo;1020;0
+251;Acolsur S.A.;Supermercado Ibiza;Capitán Tula 4711;10;Piedras Blancas;4;Sin Cadena;-34,82194111;-56,15631131;Montevideo;Montevideo;1020;0
+252;Acolsur S.A.;Supermercado Ibiza;Avda. José Belloni 4575;10;Piedras Blancas;5;Sin Cadena;-34,81972634;-56,14012419;Montevideo;Montevideo;1020;0
+253;Jardines  SRL.;Red Market 6-Super Jardines;Badajoz 1894;12;Peñarol;3;Red Market;-34,81611641;-56,21462242;Montevideo;Montevideo;1020;0
+254;Distribuidora Sabbatini S.A.;Distribuidora Sabattini;Camino Tómkinson 3556;18;Paso de la Arena;4;Sin Cadena;-34,85688299;-56,29878603;Montevideo;Montevideo;1020;0
+255;Ladefar S.A.;La Bohemia 3;Avda. Dr. Luis A. de Herrera 3836;11;Brazo Oriental;3;Sin Cadena;-34,86297332;-56,17847178;Montevideo;Montevideo;1020;0
+256;Hiperahorro SRL.;Supermercado Hiperahorro;Ruta 1 y Rodó;;Interior;3;Sin Cadena;-34,63600899;-56,62349351;Libertad;San José;16421;0
+257;Nadiral S.A.;Super Bachino;Calle 33 y Mackinnon;;Interior;5;Sin Cadena;-34,7591258;-55,6786566;La Floresta;Canelones;3724;0
+258;Luis Gatti e Hijos S.A.;Supermercado Gatti;Avda. Gral. Artigas 780;;Interior;7;Sin Cadena;-34,72714779;-56,22272133;Las Piedras;Canelones;3221;0
+259;San  Cono Ltda.;San  Cono;Sierra Leona 3682;18;Casabó;4;Sin Cadena;-34,88808943;-56,27272798;Montevideo;Montevideo;1020;0
+260;Julio Molina Garrido y otros;Supermercado Los Molles;Aries y Delfín;;Interior;6;Sin Cadena;-34,66033821;-54,16135789;La Paloma;Rocha;14722;0
+261;Zunini Hnos. SC.;Autoservice  Ñandú;Agraciada 1850;;Interior;3;Sin Cadena;-31,38553103;-57,95203013;Salto;Salto;15120;0
+262;Tonicor S.A.;Supermercado La Chacra;Avda. José Belloni 6389;11;Toledo Chico;5;Sin Cadena;-34,7816619;-56,13642402;Montevideo;Montevideo;1020;0
+263;Jorge Ledesma;Autoservice  Nataleo;Avenida España 1435;;Interior;3;Sin Cadena;-32,3179217;-58,0797658;Paysandú;Paysandú;11120;0
+264;Royalwest S.A.;Marymar;Avda. José Belloni 4208;11;Piedras Blancas;6;Sin Cadena;-34,82680867;-56,14053438;Montevideo;Montevideo;1020;0
+265;Gendil S.A.;Carnetel;Las Piedras 1624;;Interior;4;Sin Cadena;-32,70285792;-57,6315452;Young;Río Negro;12421;0
+266;Sumelar S.A.;Pingûino;Avda. Dr. Luis A. de Herrera 2940;5;Larrañaga;3;Sin Cadena;-34,87511823;-56,15812697;Montevideo;Montevideo;1020;0
+267;Parada  2 SRL.;Red Market 2-Parada 2;Yegros 2062;12;Colón Centro y Noroeste;4;Red Market;-34,80044171;-56,22851247;Montevideo;Montevideo;1020;0
+268;El Revoltijo S.A.;El Revoltijo;Avda. Batlle 2525;;Interior;4;Sin Cadena;-31,38517117;-57,94150907;Salto;Salto;15120;0
+269;El Revoltijo S.A.;El Revoltijo;Uruguay esq. Soca;;Interior;8;Sin Cadena;-31,38758502;-57,9639052;Salto;Salto;15120;0
+270;Amadi Ltda.;Supermercado Betina;Avda. José Belloni  3354;9;Ituzaingó;5;Sin Cadena;-34,84576733;-56,13503313;Montevideo;Montevideo;1020;0
+271;Cooperativa Salteña de Consumos;Cosalco;19 de Abril 1001;;Interior;4;Sin Cadena;-31,38556887;-57,9620665;Salto;Salto;15120;0
+272;Miabán S.A.;Supermercado El Morro;Camino Cibils 4484;14;Casabó;5;Sin Cadena;-34,87233033;-56,26684078;Montevideo;Montevideo;1020;0
+273;Loslo Ltda.;Multieco;Avda. Luis Batlle Berres 6645;18;Paso de la Arena;3;Sin Cadena;-34,83586198;-56,27376633;Montevideo;Montevideo;1020;0
+274;La Cabaña SRL.;La Cabaña 4;Avda. Naciones Unidas s/n P13½  Centro Comercial;;Interior;9;Sin Cadena;-34,80908436;-55,90608619;Ciudad de la Costa;Canelones;3831;0
+275;Targuit S.A.;Supermercado Ruta 9;Ruta 9 km 207;;Interior;4;Sin Cadena;-34,48834693;-54,32031757;Rocha;Rocha;14320;0
+276;Ecotec S.A.;RedMarket 11-Los Bulevares;Ideario Artiguista 2016;18;Paso de la Arena;3;Red Market;-34,82305723;-56,28819277;Montevideo;Montevideo;1020;0
+277;Supermercado  Italia  SRL.;Supermercado  Italia;Asamblea 693;;Interior;5;Sin Cadena;-34,3394813;-56,71043047;San José de Mayo;San José;16220;0
+278;Sanig SRL.;La Cabaña Nº3;Avda. Gral. Rivera 3090;5;Pocitos;4;Sin Cadena;-34,90318933;-56,1490335;Montevideo;Montevideo;1020;0
+279;Keneltur S.A.;Eco Market II;Avda. 8 de Octubre 3653;6;Unión;4;Sin Cadena;-34,87619719;-56,14280708;Montevideo;Montevideo;1020;0
+280;Cooperativa Policial;Cooperativa Policial;Nueva York 1335;1;Aguada;8;Sin Cadena;-34,89695821;-56,18929288;Montevideo;Montevideo;1020;0
+281;Minimarket San Cono 2 SRL.;Supermercado San Cono;Antonio Ma. Fernández 822;;Interior;5;Sin Cadena;-34,09559853;-56,217064;Florida;Florida;8220;0
+282;Minimarket San Cono 2 SRL.;Supermercado San Cono;Luis A. de Herrera esq. Batlle y Ordoñez;;Interior;5;Sin Cadena;-34,10046095;-56,21658694;Florida;Florida;8220;0
+283;Edanur S.A.;Supermercado Abril;Ruta 1 Vieja km. 27 Manz. 38 Solar 3;;Interior;3;Sin Cadena;-34,76984865;-56,38747838;Delta del Tigre;San José;16521;0
+284;Asociacion Cooperativa Electoral;A.C.E.;8 de octubre 2897;4;La Blanqueada;3;Sin Cadena;-34,8854777;-56,1593038;Montevideo;Montevideo;1020;0
+285;Barlisol S.A.;El Manjar Rivera;33 Orientales 1060;;Interior;5;Sin Cadena;-30,89708993;-55,53281414;Rivera;Rivera;13220;0
+286;Enrique Félix Temesio Arena;Supermercado Temesio;Avda. Artigas esq. Palmas;;Interior;4;Sin Cadena;-34,66284899;-56,22149627;Progreso;Canelones;3421;0
+287;J. y V. Riveiro Hnos. S.A.;Supermercado los Paraisos;Avda. Pedro de Mendoza 5388/5398;10;Manga ;4;Sin Cadena;-34,78320632;-56,16813194;Montevideo;Montevideo;1020;0
+289;Tilmursol S.A.;Super XXI;P.Butler M 94  S 19;;Interior;3;Super XXI;-34,79747853;-55,93650448;Ciudad de la Costa;Canelones;3831;0
+290;Tilmursol S.A.;Super XXI;Río de Janeiro M124 S12;;Interior;3;Super XXI;-34,83672608;-55,98506951;Ciudad de la Costa;Canelones;3831;0
+291;Tilmursol S.A.;Super XXI;Av. A esq.14 M427 S10;;Interior;3;Super XXI;-34,85655468;-56,05484742;Ciudad de la Costa;Canelones;3831;0
+292;Tilmursol S.A.;Super XXI;Maciel 103;;Interior;3;Super XXI;-34,85847789;-56,0523836;Ciudad de la Costa;Canelones;3831;0
+293;Enrique Fierro;Autoservice Patricia;Gral Flores 681;;Interior;3;Sin Cadena;-34,10367633;-56,21734263;Florida;Florida;8220;0
+294;Caldiran S.A.;Super Viter;Maria Orticochea 5621;12;Nuevo París;4;Sin Cadena;-34,8326401;-56,2325068;Montevideo;Montevideo;1020;0
+296;Hugo Mesa;Red Market 4;Ruta 8 km 22.500 s 29;;Interior;3;Red Market;;;Barros Blancos;Canelones;3521;0
+297;Villa Manuela SRL;Nativo;RUTA 8 KM 26.200;;Interior;4;Los Jardines;-34,7509314;-56,0023455;Barros Blancos;Canelones;3521;0
+298;Cobo y Mur SRL.;Supermercado El Grillito;Avda. del Parque manz. 16 solar 1;;Interior;3;Sin Cadena;-34,85597431;-56,00098045;Ciudad de la Costa;Canelones;3831;0
+299;Odaler S.A.;Hipermercado Géant;Avda. Ing. Luis Giannattasio y A la Playa;;Interior;62;Sin Cadena;-34,86647398;-56,02329851;Ciudad de la Costa;Canelones;3831;0
+300;Jorge Santos;Supermercado Nuevo Rumbo;Rivera y D. Agustini;;Interior;4;Sin Cadena;-34,75613113;-55,67894339;La Floresta;Canelones;3724;0
+301;Natoli S.A.;Supermercado La Paz;José E. Rodó 359;;Interior;5;Sin Cadena;-34,76183866;-56,22774907;La Paz;Canelones;3321;0
+302;Suafil S.A.;El Mastilazo;Avda. Gral. Artigas esq. R. Argentina;;Interior;3;Sin Cadena;-34,72672793;-56,21071977;Las Piedras;Canelones;3221;0
+303;Cademix S.A.;Red Market 12-Percat;Dr. Pouey s/n y R.Ortiz;;Interior;4;Red Market;-34,73739366;-56,2237321;Las Piedras;Canelones;3221;0
+304;EL Persa S.A.;Supermercado Persa;Avda. Gral. Artigas  483;;Interior;4;Sin Cadena;-34,7242488;-56,21013239;Las Piedras;Canelones;3221;0
+305;Super Covadonga S.A.;Super Covadonga;Avda. Artigas y Wilson Ferreira;;Interior;8;Sin Cadena;-34,66871646;-56,21721949;Progreso;Canelones;3421;0
+306;Lafer Ltda.;Supermercado El Paseo;Vicente Grucci 33;;Interior;5;Sin Cadena;-34,45531048;-56,38826741;Santa Lucía;Canelones;3975;0
+307;Gladecor S.A.;Super Center;Avda. Artigas 1427;;Interior;3;Sin Cadena;-34,64918036;-56,06237504;Sauce;Canelones;3527;0
+308;Tigul S.A.;Nativo Suarez;ruta 74 km 27.200 y anzani;;Interior;5;Nativo;-34,7359316;-56,0325664;Joaquín Suarez;Canelones;3528;0
+309;Alroga SRL.;El Special;Avda. Artigas 355;;Interior;4;Sin Cadena;-34,46765885;-57,8430787;Colonia del Sacramento;Colonia;5320;0
+310;Metalic  S.A.;La Pañalera;Aparicio Saravia 767;;Interior;4;Sin Cadena;-34,45908993;-57,83877175;Colonia del Sacramento;Colonia;5320;0
+311;Mercado Helvético SRL.;Mercado Helvético;Luis Dreyer 1294;;Interior;4;Sin Cadena;-34,28559402;-57,23120513;Nueva Helvecia;Colonia;5421;0
+312;Andrés Berton;Quito´s;Artigas 1737;;Interior;3;Sin Cadena;-34,26458292;-57,61024471;Tarariras;Colonia;5522;0
+313;Mendiverry Latorre Lilian Arlet;Super Pola;Av. Kennedy 2216;;Interior;3;Sin Cadena;-34,2626537;-57,6160941;Tarariras;Colonia;5522;0
+314;Timana S.A.;Supermercado Giordano;25 de Agosto 871;;Interior;6;Sin Cadena;-33,38060224;-56,51938638;Durazno;Durazno;6220;0
+315;Clistor S.A.;Supermercado 18;Dr. Herrera 868;;Interior;10;Sin Cadena;-33,3777972;-56,52526834;Durazno;Durazno;6220;0
+316;Suc.de Jorge Estefan S.A.;Estefan Supermercados;Alfredo J. Puig 611;;Interior;10;Sin Cadena;-33,51700637;-56,89646542;Trinidad;Flores;7320;0
+317;Suc.de Jorge Estefan S.A.;Estefan Supermercados;Fco. Fondar 785;;Interior;6;Sin Cadena;-33,52062884;-56,89777386;Trinidad;Flores;7320;0
+318;Silvia Sosa Vinagui;Hiperprecios;Tucumán  y Sanabria;;Interior;3;Sin Cadena;-34,86693335;-55,27445575;Piriápolis;Maldonado;10321;0
+319;Maraluz S.A.;SUPER UNO;Chiverta y Francia (Parada 3);;Interior;11;Sin Cadena;;;Punta del Este;Maldonado;10322;0
+320;Enfa SRL.;Super Vero;Avda. Gral. Flores 2800;3;Goes;3;Sin Cadena;-34,87668164;-56,17954445;Montevideo;Montevideo;1020;0
+321;Mercadito 5 Hermanos Ltda.;Supermercado 5 Hermanos;Venezuela 1409;1;Aguada;3;Sin Cadena;-34,89344685;-56,1871875;Montevideo;Montevideo;1020;0
+322;Cooperativa Bancaria;Cooperativa Bancaria;Zabala 1367;1;Ciudad Vieja;8;Sin Cadena;-34,90811971;-56,2071816;Montevideo;Montevideo;1020;0
+323;Pradelix S.A.;Super Ariel;Avda. Millán 4499;13;Sayago;4;Sin Cadena;-34,84246888;-56,20863935;Montevideo;Montevideo;1020;0
+324;Carroussel SRL.;Super Ariel;Avda. Italia 2883;4;Parque Batlle;4;Sin Cadena;-34,89031153;-56,15256484;Montevideo;Montevideo;1020;0
+325;Suaras S.A.;Mayorista Marymar;San Quintín 4276;14;Belvedere;5;Sin Cadena;-34,8550659;-56,22114295;Montevideo;Montevideo;1020;0
+326;Enfa SRL.;Super Vero;Avda. Dr. Luis A. de Herrera 2635;6;Unión;3;Sin Cadena;-34,88061779;-56,15417464;Montevideo;Montevideo;1020;0
+327;Goñi Hnos. SRL.;Supermercado Don Pepe;Avda. José Belloni 5493;11;Manga ;6;Sin Cadena;-34,80526257;-56,13657737;Montevideo;Montevideo;1020;0
+328;Costa y Costa S.A.;Mercadito Rivera;Avda. Gral. Rivera 2798;5;Pocitos;4;Sin Cadena;-34,90330143;-56,15476387;Montevideo;Montevideo;1020;0
+329;SSS Ltda.;Liro 1;Pablo de María 1487;2;Cordón;2;Sin Cadena;-34,9013193;-56,1745803;Montevideo;Montevideo;1020;0
+330;Klein París SRL.;Supermercado París;Antonio Mario Marquez 5472;13;Sayago;5;Sin Cadena;-34,81874071;-56,22626985;Montevideo;Montevideo;1020;0
+331;Lantieri S.A.;Las Barreras;Camino Ariel 4835;13;Sayago;3;Sin Cadena;-34,83379428;-56,21661452;Montevideo;Montevideo;1020;0
+332;Montevideo Refrescos SRL;Coca-Cola;Camino Carrasco 6173;8;Carrasco Norte;2;Sin Cadena;;;Montevideo;Montevideo;1020;0
+333;Martín Pescador  SRL.;Red Market 8-Martín Pescador;Acevedo Díaz 1076;2;Cordón;3;Red Market;-34,90907539;-56,16578687;Montevideo;Montevideo;1020;0
+334;Fóreman  S.A.;Adonis;Avda. Gral. Flores 4172;11;Mercado Modelo;4;Los Jardines;-34,85309361;-56,16056851;Montevideo;Montevideo;1020;0
+335;Valefyr S.A.;Ecomarket 3;Santa Ana 4108;11;Cerrito;5;Sin Cadena;-34,85046647;-56,17966021;Montevideo;Montevideo;1020;0
+336;Verylond S.A.;Supermercado Unicentro;Veraguas 1907;12;Lezica ;8;Sin Cadena;-34,79516932;-56,24969501;Montevideo;Montevideo;1020;0
+337;Pronto Todo S.R.L.;Red Market 5;Ruta 8 km 21 Nº 11152;9;Villa García;3;Red Market;-34,7762695;-56,0499384;Montevideo;Montevideo;1020;0
+338;Cafanor S.A.;Super Planeta I;Avda. Gral. Rivera 2348;2;Cordón;4;Sin Cadena;-34,90215732;-56,16505861;Montevideo;Montevideo;1020;0
+339;Alencur S.A.;Supermercado Zum Felde;A. Zum Felde 2063;8;Malvín Norte;4;Sin Cadena;-34,88076115;-56,09914384;Montevideo;Montevideo;1020;0
+340;Maresca  SRL.;Maresca;Dr. Francisco Simón  2148;6;La Blanqueada;4;Sin Cadena;-34,8867848;-56,14525182;Montevideo;Montevideo;1020;0
+341;Teribán S.A.;Comva;Corrales 3546;11;Ituzaingó;4;Sin Cadena;-34,85099548;-56,14829219;Montevideo;Montevideo;1020;0
+342;Bekemar  S.A.;Supermercado Planeta;Andes 1427;1;Centro;6;Sin Cadena;-34,90501002;-56,19845419;Montevideo;Montevideo;1020;0
+343;Cooperativa Municipal;Supermercado MC;Santiago de Chile 1242;2;Barrio Sur;4;Sin Cadena;-34,90750807;-56,18478832;Montevideo;Montevideo;1020;0
+344;Bidenux  S.A.;Super Continente;Avda. José Belloni 4752;10;Sayago;4;Sin Cadena;-34,81716494;-56,13891612;Montevideo;Montevideo;1020;0
+345;Fadoríl S.A.;Nativo;Avda. Gral. Eugenio Garzón 223;14;Belvedere;3;Sin Cadena;-34,84990542;-56,22386044;Montevideo;Montevideo;1020;0
+346;MADEBIL  S.A.;Red Market 13;Av.  Italia  3896;;Malvín;3;Red Market;-34,8872563;-56,1265762;Montevideo;Montevideo;1020;0
+347;Lamader S.A.;Super Del Fuerte;Del Fuerte 5302;9;Maroñas;4;Sin Cadena;-34,85199194;-56,11787889;Montevideo;Montevideo;1020;0
+348;Orefal S.A.;Supermercado El Tío;Avda. Gral. Garibaldi 2511;4;La Blanqueada;4;Sin Cadena;-34,88561022;-56,16446584;Montevideo;Montevideo;1020;0
+349;Garcia Santoro;Red Market 10-Grias;Avda. Lezica 6309;12;Colón;3;Red Market;-34,79738532;-56,2472794;Montevideo;Montevideo;1020;0
+350;Graciela y Jose Meijón Ltda.;Supermercado Meijón;Avda. Dr. Luis A. de Herrera 3117;4;La Blanqueada;3;Sin Cadena;-34,87278179;-56,16175448;Montevideo;Montevideo;1020;0
+351;La Barra Ltda.;Red Market 9-La Barra;Avda. Luis Batlle Berres 230;18;Paso de la Arena;3;Red Market;-34,7886806;-56,35326733;Montevideo;Montevideo;1020;0
+352;Antonio Ameijenda;Red Market 1-Super Totis;Camino Durán 5986;12;Colón ;3;Red Market;-34,7988313;-56,22721328;Montevideo;Montevideo;1020;0
+353;Palticor S.A.;Supermercado Los 33;Camino Carrasco 4675;9;Malvín Norte;4;Sin Cadena;-34,87136479;-56,11660032;Montevideo;Montevideo;1020;0
+354;Piaggio Mazzali SRL.;La Bohemia 1;Juan Lavalle  551;15;Prado ;2;Sin Cadena;-34,85149227;-56,20638667;Montevideo;Montevideo;1020;0
+355;Radelcor S.A.;Supersol;Orinoco 4888;7;Malvín;5;Sin Cadena;-34,89599562;-56,10139832;Montevideo;Montevideo;1020;0
+356;Super Ocasión SRL.;Super Ocasión;Francisco Sainz Rosas 4750;9;Jardines del Hipódromo;3;Sin Cadena;-34,85258251;-56,1425173;Montevideo;Montevideo;1020;0
+357;Super Nuevo Paris SRL.;Red Market 7-Super Nuevo Paris;Yugoslavia 899;14;Nuevo París;3;Red Market;-34,838363;-56,2416141;Montevideo;Montevideo;1020;0
+358;Tedocán S.A.;Super Copact;Juan Paullier 984;2;Parque Rodó;2;Sin Cadena;-34,9109697;-56,1690976;Montevideo;Montevideo;1020;0
+359;Tedocán S.A.;Super Copact;Avda. Agraciada 3199;16;Bella Vista;2;Sin Cadena;;;Montevideo;Montevideo;1020;0
+360;Cooperativa Fuerzas Armadas;COFAS;Eduardo Víctor Haedo 2258;2;Tres Cruces;6;Sin Cadena;-34,89723137;-56,16712218;Montevideo;Montevideo;1020;0
+361;Carnicería Marymar  Ltda.;Carnicería Marymar;Avda. Agraciada 4271 A;14;Belvedere;3;Sin Cadena;-34,85562468;-56,22146277;Montevideo;Montevideo;1020;0
+362;KRINORD S.A.;Liro 2;Mercedes 1782;2;Cordón;2;Sin Cadena;-34,9010163;-56,1809895;Montevideo;Montevideo;1020;0
+363;Banedil S.A.;Adonis;Juan Antonio Artigas 4120;14;Paso Molino;4;Los Jardines;-34,8576249;-56,21797252;Montevideo;Montevideo;1020;0
+364;Fabegold S.A.;Supermercado Maratón;Avda. 8 de Octubre 3090;4;La Blanqueada;3;Sin Cadena;-34,88209464;-56,1525954;Montevideo;Montevideo;1020;0
+365;Baltimar S.A.;Frigorey;A. Zum Felde 2047;8;Malvín Norte;4;Sin Cadena;-34,88101102;-56,09893848;Montevideo;Montevideo;1020;0
+366;Rodalir S.A.;Super Ariel;Avda. Dr. Luis A. de Herrera 2854;4;Larrañaga;3;Sin Cadena;-34,87661006;-56,15702426;Montevideo;Montevideo;1020;0
+367;CYR Ltda.;Supermercado Gonzalito;Pérez Castellanos 1478;1;Ciudad Vieja;3;Sin Cadena;-34,9070175;-56,21058958;Montevideo;Montevideo;1020;0
+368;Solvencia S.A.;Supermercado Don Paulino;Avda. Daniel Fernández Crespo 1685;2;Cordón;4;Sin Cadena;-34,89954592;-56,17691309;Montevideo;Montevideo;1020;0
+370;Prisma Alimentos & Cia. S.A.;Prisma Alimentos;Avda. Gral. Flores 3327;3;Brazo Oriental;4;Sin Cadena;-34,86711927;-56,17190544;Montevideo;Montevideo;1020;0
+371;Cooperativa Magisterial de Consumo;COMAG;Colonia 1730;2;Cordón;5;Sin Cadena;-34,90294547;-56,17909436;Montevideo;Montevideo;1020;0
+372;Gamabel S.A.;La Bohemia 2;Avda. Millán 4351;11;Prado ;2;Sin Cadena;-34,8453945;-56,20374016;Montevideo;Montevideo;1020;0
+373;Rochatel S.A.;Supermercado Ruta 9;Sagitario s/n;;Interior;4;Sin Cadena;-34,6563191;-54,1675108;La Paloma;Rocha;14722;0
+374;Plaza Uno SRL.;Plaza Uno;Viera 86;;Interior;3;Sin Cadena;-31,38674601;-57,96089568;Salto;Salto;15120;0
+375;Carlos E. Zunini y Cia.;Zunimercado;19 de Abril 1897;;Interior;5;Sin Cadena;-31,38694749;-57,95020691;Salto;Salto;15120;0
+376;ADUMEL S.A.;SUPERMERCADO PLANETA;SARANDI 443;;Interior;3;Sin Cadena;-34,34088444;-56,71267687;San José de Mayo;San José;16220;0
+377;Opciones Quality S.A.;Supermercado Avenida Norte;Artigas s/n esq. Manuel de Rodríguez;;Interior;5;Sin Cadena;-34,33330689;-56,7175866;San José de Mayo;San José;16220;0
+378;Menarr SRL.;Autoservicio Peatonal;Asamblea 560;;Interior;3;Sin Cadena;-34,34019798;-56,71414966;San José de Mayo;San José;16220;0
+379;José María González SRL.;Supermercado Avenida Sur;Herrera 480 (Treinta y Tres esq. Herrera);;Interior;4;Sin Cadena;-34,34424147;-56,71361134;San José de Mayo;San José;16220;0
+381;Barlisol S.A.;El Manjar Express;18 de Julio 430;;Interior;3;Sin Cadena;-31,71839927;-55,98616806;Tacuarembó;Tacuarembó;18220;0
+383;LOLIFER S.A.;Frigo - Sayago ;Cno. Ariel 4835;;Sayago;6;Frigo;-34,8337195;-56,2187858;Montevideo;Montevideo;1020;0
+385;ARDAL S.A.;SUPERMERCADO FENIX;Rondeau 2132 ;;Centro;3;Sin Cadena;-34,8908196;-56,1950466;Montevideo;Montevideo;1020;0
+386;PILECOR S.A.;Del Fuerte;Del Fuerte 5302;9;Maroñas;4;Sin Cadena;-34,8519552;-56,1176727;Montevideo;Montevideo;1020;0
+398;POLAKOF Y CIA SA;El Dorado - Rocha Ruta;Ruta 9 Km. 207;;Interior;3;El Dorado;-34,4793447;-54,3496328;Rocha;Rocha;14320;0
+399;POLAKOF Y CIA SA;El Dorado - Florencio Sánchez ;Florencio Sanchez 150 ;;Interior;3;El Dorado;-34,479346;-54,3332175;Rocha;Rocha;14320;0
+415;Ta-Ta SA;Ta - Ta - Salto II;Grito de Ascencio 1499;;Interior;10;Ta - Ta;-31,3728624;-57,9672763;Salto;Salto;15120;0
+416;Obacor S.A.;Supercoco;Cesar Mayo Gutierrez S/N;;Interior;5;Sin Cadena;-34,7567721;-56,2361593;La Paz;Canelones;3321;0
+419;Ta-Ta SA;Ta - Ta Mercado Agrícola;Jose L Terra 2220;;Goes;7;Ta - Ta;34,8867458;-56,1850919;Montevideo;Montevideo;1020;0
+420;DALTIRO S.A.;El Clon - Rivera;33 Orientales 1060;;Interior;4;El Clon;-30,9006761;-55,5449124;Rivera;Rivera;13220;0
+421;DALTIRO S.A.;El Clon - Tranqueras;18 de Julio s/nº;;Interior;2;El Clon;-31,1656156;-55,7661092;Tranqueras;Rivera;13221;0
+422;EDANUR SA;Supermercado Abril;Av. Río de la Plata 131;;Interior;7;Sin Cadena;-34,7631664;-56,3982541;Ciudad del Plata;San José;16221;0
+423;DALTIRO S.A.;El Clon - Nuevocentro;Luis Alberto de Herrera 3365 ;;Mercado Modelo;2;El Clon;-34,8698944;-56,1674027;Montevideo;Montevideo;1020;0
+428;DALTIRO S.A.;EL Clon - Costa Urbana;Av. Giannattassio 21 local 285;;Interior;1;El Clon;-34,8437977;-55,9985533;Ciudad de la Costa;Canelones;3831;0
+429;Odaler S.A.;Hipermercado Géant ;Gualeguay 3350 006;;Brazo Oriental;34;Géant;-34,8679708;-56,1723261;Montevideo;Montevideo;1020;0
+430;Macromercado Mayorista S.A.;Macromercado Mayorista - Rivera;Julio M. Sosa 1726;;Interior;26;Macromercado Mayorista;-30,9211011;-55,5419035;Rivera;Rivera;13220;0
+432;Ageran SA;Supermercado El Tio II;Garibaldi 2876;;Parque Batlle ;4;Sin Cadena;-34,8904831;-56,1574807;Montevideo;Montevideo;1020;0
+433;POLAKOF Y CIA SA;El Dorado - General Artigas;Gral. Artigas  1069;;Interior;8;El Dorado;-34,4815129;-54,3349959;Rocha;Rocha;14320;0
+480;POLAKOF Y CIA SA;El Dorado - Antares;Av. Nicolas Solari esq. Antares;;Interior;7;El Dorado;-34,6605601;-54,1565232;La Paloma;Rocha;14722;0
+481;POLAKOF Y CIA SA;El Dorado - Playa Pascual;Río de la Plata esq. Acuña de Figueroa;;Interior;6;El Dorado;-34,7414009;-56,4519864;Ciudad del Plata;San José;16221;0
+482;Supermercados Disco del Uruguay S.A.;Disco - LIBERTAD;Wilson Ferreira Aldunate esq. José E. Rodó ;;Interior;7;Disco;-34,6374654;-56,6206929;Libertad;San José;16421;0
+483;Mercados Devoto S.A.;Devoto Express - 21 de Setiembre;21 de Setiembre 2715;;Punta Carretas;2;Devoto Express;-34,91703959;-56,15789414;Montevideo;Montevideo;1020;0
+484;Mercados Devoto S.A.;Devoto Express - Rivera;Av. Gral. Rivera 3482 ;;Pocitos;2;Devoto Express;-34,9013653;-56,1390187;Montevideo;Montevideo;1020;0
+485;Mercados Devoto S.A.;Devoto Express - 18 de Julio;18 de Julio 2010 ;;Cordón;3;Devoto Express;-34,9005732;-56,1723603;Montevideo;Montevideo;1020;0
+486;Mercados Devoto S.A.;Devoto Express - Benito Blanco;Benito Blanco 921 ;;Pocitos;2;Devoto Express;-34,9136383;-56,1488337;Montevideo;Montevideo;1020;0
+487;Mercados Devoto S.A.;Devoto Express - Yi;Yi 1471 ;;Centro;3;Devoto Express;-34,9034457;-56,1893865;Montevideo;Montevideo;1020;0
+488;Mercados Devoto S.A.;Devoto Express - Bulevar y Canelones;Br. Artigas 1205 ;;Cordón;3;Devoto Express;-34,9083846;-56,1633164;Montevideo;Montevideo;1020;0
+489;Mercados Devoto S.A.;Devoto Express - Cassinoni;M. Cassinoni 1673 ;;Tres Cruces;3;Devoto Express;-34,8962538;-56,1661032;Montevideo;Montevideo;1020;0
+490;Mercados Devoto S.A.;Devoto Express - Gorlero;Gorlero esq. Calle 25;;Interior;3;Devoto Express;-34,9619529;-54,9434181;Punta del Este;Maldonado;10322;0
+491;Mercados Devoto S.A.;Devoto Express - Mercedes;Mercedes 949 ;;Centro;3;Devoto Express;-34,9043274;-56,1960812;Montevideo;Montevideo;1020;0
+492;Mercados Devoto S.A.;Devoto Express - 18 y Vazquez;18 de Julio 1492 ;;Centro;3;Devoto Express;-34,9049206;-56,1836491;Montevideo;Montevideo;1020;0
+493;Mercados Devoto S.A.;Devoto Express - Bulevar y Nicaragua;Br. Artigas 1986 ;;Tres Cruces;3;Devoto Express;-34,8924996;-56,1651425;Montevideo;Montevideo;1020;0
+494;Mercados Devoto S.A.;Devoto Express - Atlántida;Calle 20 esq. Calle 1;;Interior;4;Devoto Express;-34,7695189;-55,7555706;Atlántida;Canelones;3621;0
+499;USSEL S.A.;FROG 2;Libano 1428 ;;Punta Gorda;2;Frog;-34,8939952;-56,0715016;Montevideo;Montevideo;1020;0
+500;USSEL S.A.;FROG 1;Av. Brasil 2968 ;;Pocitos;3;Frog;-34,9115295;-56,1514363;Montevideo;Montevideo;1020;0
+501;USSEL S.A.;FROG 3;Av. Rivera 3090;;Pocitos;4;Frog;-34,9031063;-56,1511507;Montevideo;Montevideo;1020;0
+502;USSEL S.A.;FROG 4;Gariel Pereira 3234;;Pocitos;3;Frog;-34,9102968;-56,1492743;Montevideo;Montevideo;1020;0
+503;USSEL S.A.;FROG 6;Pérez Castellano 1478;;Ciudad Vieja;4;Frog;-34,9071259;-56,2128861;Montevideo;Montevideo;1020;0
+504;USSEL S.A.;FROG 7;Cavia 3058;;Pocitos;3;Frog;-34,9135478;-56,1534973;Montevideo;Montevideo;1020;0
+505;USSEL S.A.;FROG 8;Pérez Castellano 1473;;Ciudad Vieja;1;Frog;-34,9071757;-56,2130347;Montevideo;Montevideo;1020;0
+506;USSEL S.A.;FROG 9;Gonzalo Ramírez 1345;;Barrio Sur;3;Frog;-34,9121608;-56,1884416;Montevideo;Montevideo;1020;0
+507;USSEL S.A.;FROG 10;Gabriela Mistral 2201;;Interior;4;Frog;-34,8647635;-56,0531751;Ciudad de la Costa;Canelones;3831;0
+508;USSEL S.A.;FROG 11;Gabrel Pereira 2984;;Pocitos;3;Frog;-34,9064626;-56,1530187;Montevideo;Montevideo;1020;0
+509;USSEL S.A.;FROG 12;Bvar Artigas 3750;;Atahualpa;3;Frog;-34,8707988;-56,1868494;Montevideo;Montevideo;1020;0
+510;Vasiliki S.A,;EL REMATE ;Torres Garcia y Wilson Ferreira Aldunate;;Interior ;3;Sin Cadena;-34,7245466;-56,213898;Las Piedras;Canelones;3221;0
+512;Mercados Devoto S.A.;Devoto Express - Piedras;Piedras 266 ;;Ciudad Vieja;3;Devoto Express;-34,9061898;-56,2117613;Montevideo;Montevideo;1020;0
+513;Clistor S.A.;Supermercado 18;Pablo Galarza 653 ;;Interior;6;Sin Cadena;-33,38617018;-56,52461142;Durazno;Durazno;6220;0
+514;Coboe S.A.;Farmashop 1;Camino Ariel 4626;;Sayago;4;Farmashop;-34834941;-56212849;Montevideo;Montevideo;1020;1
+515;Coboe S.A.;Farmashop 2;Ruta 8 Km. 30.5;;Interior;2;Farmashop;-34,714595;-55,958447;Pando;Canelones;3322;1
+516;Coboe S.A.;Farmashop 3;Av. Rivera 2755 ;;Parque Batlle;4;Farmashop;-34,902774;-56,155118;Montevideo;Montevideo;1020;1
+517;Coboe S.A.;Farmashop 4;Av. Fco. Piria esq. Reconquista;;Interior;3;Farmashop;-34,864525;-55,269655;Piriápolis;Maldonado;10321;1
+518;Coboe S.A.;Farmashop 5;Agraciada 3655 ;;Prado ;3;Farmashop;-34,865018;-56,209881;Montevideo;Montevideo;1020;1
+519;Coboe S.A.;Farmashop 6;Av. Italia 6958 ;;Carrasco;3;Farmashop;-34,876989;-56,057317;Montevideo;Montevideo;1020;1
+520;Coboe S.A.;Farmashop 7;Av. Roosevelt esq. Parada 10;;Interior;4;Farmashop;-34,930697;-54,947619;Punta del Este;Maldonado;10322;1
+521;Coboe S.A.;Farmashop 8;26 de Marzo 1393 ;;Pocitos;3;Farmashop;-34,90698;-56,145643;Montevideo;Montevideo;1020;1
+522;Coboe S.A.;Farmashop 9;Av. Suárez 3458 ;;Prado ;2;Farmashop;-34,863257;-56,196026;Montevideo;Montevideo;1020;1
+523;Coboe S.A.;Farmashop 10;San Martín 3083 ;;Goes;2;Farmashop;-34,867764;-56,181091;Montevideo;Montevideo;1020;1
+524;Coboe S.A.;Farmashop 11;Luís A. de Herrera 2368 ;;La Blanqueada;6;Farmashop;-34,884171;-56,150707;Montevideo;Montevideo;1020;1
+525;Coboe S.A.;Farmashop 12;Juan Benito Blanco 1098 ;;Pocitos;2;Farmashop;-34,910992;-56,147274;Montevideo;Montevideo;1020;1
+526;Coboe S.A.;Farmashop 13;Scosería 2635 ;;Pocitos;2;Farmashop;-34,914828;-56,155679;Montevideo;Montevideo;1020;1
+527;Coboe S.A.;Farmashop 14;Enrique Legrand 5085 ;;Malvín;2;Farmashop;-34,889486;-56,097571;Montevideo;Montevideo;1020;1
+528;Coboe S.A.;Farmashop 15;21 de Setiembre 2867 ;;Pocitos;2;Farmashop;-34,918866;-56,155491;Montevideo;Montevideo;1020;1
+529;Coboe S.A.;Farmashop 16;Arocena 1657 ;;Carrasco;3;Farmashop;-34,887269;-56,057655;Montevideo;Montevideo;1020;1
+530;Coboe S.A.;Farmashop 17;ANCAP Maldonado. Roosevelt. esq. frente al Mautone;;Interior;6;Farmashop;-34,914095;-54,960909;Punta del Este;Maldonado;10322;1
+531;Coboe S.A.;Farmashop 18;José Ellauri 1084 ;;Pocitos;2;Farmashop;-34,910913;-56,152269;Montevideo;Montevideo;1020;1
+532;Coboe S.A.;Farmashop 19;Almería 4701 ;;Malvín;4;Farmashop;-34,89445;-56,107683;Montevideo;Montevideo;1020;1
+533;Coboe S.A.;Farmashop 20;Av. Italia 2490 ;;Tres Cruces;5;Farmashop;-34,894568;-56,163743;Montevideo;Montevideo;1020;1
+534;Coboe S.A.;Farmashop 21;Colonia 903 ;;Centro;4;Farmashop;-34,905268;-56,197003;Montevideo;Montevideo;1020;1
+535;Coboe S.A.;Farmashop 22;Luis Franzini 806 ;;Pocitos;3;Farmashop;-34,91635;-56,158356;Montevideo;Montevideo;1020;1
+536;Coboe S.A.;Farmashop 23;Agraciada 4269 ;;Prado ;2;Farmashop;-34,854275;-56,221963;Montevideo;Montevideo;1020;1
+537;Coboe S.A.;Farmashop 24;21 de Setiembre 2459 ;;Parque Rodó;2;Farmashop;-34,91338;-56,16203;Montevideo;Montevideo;1020;1
+538;Coboe S.A.;Farmashop 25;Av. Rivera 4240 ;;Buceo;2;Farmashop;-34,895831;-56,12117;Montevideo;Montevideo;1020;1
+539;Coboe S.A.;Farmashop 26;Bvar. España 2856 ;;Pocitos;3;Farmashop;-34,914524;-56,152047;Montevideo;Montevideo;1020;1
+540;Coboe S.A.;Farmashop 27;Garzón 1925 ;;Colón ;5;Farmashop;-34,806703;-56,222106;Montevideo;Montevideo;1020;1
+541;Coboe S.A.;Farmashop 28;8 de Octubre 3268 ;;La Blanqueada;6;Farmashop;-34,880677;-56,149998;Montevideo;Montevideo;1020;1
+542;Coboe S.A.;Farmashop 29;8 de Octubre 3749 ;;Unión;5;Farmashop;-34,875112;-56,140752;Montevideo;Montevideo;1020;1
+543;Coboe S.A.;Farmashop 30;Gral. Flores 607 ;;Interior;2;Farmashop;-34,728008;-56,216571;Las Piedras;Canelones;3221;1
+544;Coboe S.A.;Farmashop 31;Av. Artigas 539 ;;Interior;2;Farmashop;-34,726782;-56,214349;Las Piedras;Canelones;3221;1
+545;Coboe S.A.;Farmashop 32;Cno. Carrasco 4473 ;;Malvín Norte;2;Farmashop;-34,872658;-56,122168;Montevideo;Montevideo;1020;1
+546;Coboe S.A.;Farmashop 33;8 de Octubre 3788 ;;Unión;3;Farmashop;-34,874511;-56,139805;Montevideo;Montevideo;1020;1
+547;Coboe S.A.;Farmashop 34;8 de Octubre 4002 ;;Unión;2;Farmashop;-34,872121;-56,135622;Montevideo;Montevideo;1020;1
+548;Coboe S.A.;Farmashop 35;Luis A. de Herrera 3179 ;;Larrañaga;2;Farmashop;-34,87187;-56,162845;Montevideo;Montevideo;1020;1
+549;Coboe S.A.;Farmashop 36;San Martín 3402 ;;Brazo Oriental;2;Farmashop;-34,863143;-56,178955;Montevideo;Montevideo;1020;1
+550;Coboe S.A.;Farmashop 37;8 de Octubre 3439 ;;Unión;2;Farmashop;-34,879238;-56,147589;Montevideo;Montevideo;1020;1
+551;Coboe S.A.;Farmashop 38;Av. Sarmiento 2477 ;;Parque Rodó;1;Farmashop;-34,914247;-56,158635;Montevideo;Montevideo;1020;1
+552;Coboe S.A.;Farmashop 39;Av. Brasil 2711 ;;Pocitos;2;Farmashop;-34,908581;-56,154932;Montevideo;Montevideo;1020;1
+553;Coboe S.A.;Farmashop 40;Gabriel Pereira 3209 ;;Pocitos;2;Farmashop;-34,910011;-56,147149;Montevideo;Montevideo;1020;1
+554;Coboe S.A.;Farmashop 41;Velsen 4549 ;;Malvín;2;Farmashop;-34,894027;-56,111568;Montevideo;Montevideo;1020;1
+555;Coboe S.A.;Farmashop 42;Av. Luis P. Ponce 1507 ;;Parque Batlle y Villa Dolores;2;Farmashop;-34,900266;-56,159597;Montevideo;Montevideo;1020;1
+556;Coboe S.A.;Farmashop 43;Estanislao López 4544 ;;Malvín;2;Farmashop;-34,887981;-56,111289;Montevideo;Montevideo;1020;1
+557;Coboe S.A.;Farmashop 44;Gral. Flores 3315 ;;Brazo Oriental;2;Farmashop;-34,866338;-56,171962;Montevideo;Montevideo;1020;1
+558;Coboe S.A.;Farmashop 45;Barra de Carrasco Av. del Parque 77 esq. Giannattasio;;Interior;3;Farmashop;-34,868838;-56,021134;Ciudad de la Costa;Canelones;3831;1
+559;Coboe S.A.;Farmashop 46;Arocena 1554 ;;Carrasco;3;Farmashop;-34,890195;-56,056453;Montevideo;Montevideo;1020;1
+560;Coboe S.A.;Farmashop 47;Av. Italia 3428 ;;La Blanqueada;2;Farmashop;-34,887594;-56,143421;Montevideo;Montevideo;1020;1
+561;Coboe S.A.;Farmashop 48;Legrand 4856 ;;Malvín;2;Farmashop;-34,88807;-56,10321;Montevideo;Montevideo;1020;1
+562;Coboe S.A.;Farmashop 49;Br. España 2988 ;;Pocitos;2;Farmashop;-34,915329;-56,149279;Montevideo;Montevideo;1020;1
+563;Coboe S.A.;Farmashop 50;Br. España 2188 ;;Parque Rodó;2;Farmashop;-34,908775;-56,168763;Montevideo;Montevideo;1020;1
+564;Coboe S.A.;Farmashop 51;Orinoco 4893 ;;Malvín;2;Farmashop;-34,895928;-56,101332;Montevideo;Montevideo;1020;1
+565;Coboe S.A.;Farmashop 52;20 de setiembre 1525 ;;Pocitos;2;Farmashop;-34,901067;-56,163162;Montevideo;Montevideo;1020;1
+566;Coboe S.A.;Farmashop 53;Ramon Anador 3401 ;;Buceo;2;Farmashop;-34,895396;-56,143083;Montevideo;Montevideo;1020;1
+567;Coboe S.A.;Farmashop 54;Av. Giannattasio Km. 22.8;;Interior;2;Farmashop;-34,829419;-55,971309;Ciudad de la Costa;Canelones;3831;1
+568;Coboe S.A.;Farmashop 55;18 de Julio 1951 ;;Centro;4;Farmashop;-34,901177;-56,174448;Montevideo;Montevideo;1020;1
+569;Coboe S.A.;Farmashop 56;Francisco J. Muñoz 2951 ;;Pocitos;2;Farmashop;-34,906782;-56,149745;Montevideo;Montevideo;1020;1
+570;Coboe S.A.;Farmashop 57;Rivera 3500 ;;Pocitos;5;Farmashop;-34,901348;-56,138603;Montevideo;Montevideo;1020;1
+571;Coboe S.A.;Farmashop 58;Av. Italia 3815 ;;Unión ;2;Farmashop;-34,886353;-56,130289;Montevideo;Montevideo;1020;1
+572;Coboe S.A.;Farmashop 60;Av. Brasil 2487 ;;Pocitos;2;Farmashop;-34,906848;-56,16018;Montevideo;Montevideo;1020;1
+573;Coboe S.A.;Farmashop 61;Av. Agraciada 4104 ;;Prado ;2;Farmashop;-34,858292;-56,217289;Montevideo;Montevideo;1020;1
+574;Coboe S.A.;Farmashop 62;Bvar. Artigas 1475 ;;Parque Batlle ;2;Farmashop;-34,902422;-56,164418;Montevideo;Montevideo;1020;1
+575;Coboe S.A.;Farmashop 63;Gestido esq. Eucaliptus;;Interior;2;Farmashop;-34,840999;-55,972672;Ciudad de la Costa;Canelones;3831;1
+576;Coboe S.A.;Farmashop 64;Peatonal Sarandí 508 ;;Ciudad Vieja;3;Farmashop;-34,907477;-56,205186;Montevideo;Montevideo;1020;1
+577;Coboe S.A.;Farmashop 65;Av. Ceberio 586 ;;Interior;2;Farmashop;-34,796502;-54,921988;San Carlos;Maldonado;10323;1
+578;Coboe S.A.;Farmashop 66;18 de Julio 735 ;;Interior;2;Farmashop;-34,792916;-54,914852;San Carlos;Maldonado;10323;1
+579;Coboe S.A.;Farmashop 67;18 de Julio 1011 ;;Interior;2;Farmashop;-34,792695;-54,920549;San Carlos;Maldonado;10323;1
+580;Coboe S.A.;Farmashop 68;Av. Italia 2839 ;;Parque Batlle;2;Farmashop;-34,890547;-56,153425;Montevideo;Montevideo;1020;1
+581;Coboe S.A.;Farmashop 69;Av. Luis Batlle Berres 6149 ;;Paso de la Arena;3;Farmashop;-34,839009;-56,262265;Montevideo;Montevideo;1020;1
+582;Coboe S.A.;Farmashop 70;Uruguayana 3501 ;;Capurro ;2;Farmashop;-34,86985;-56,209565;Montevideo;Montevideo;1020;1
+583;Coboe S.A.;Farmashop 71;Av. Soca 1261 ;;Pocitos;2;Farmashop;-34,906804;-56,154815;Montevideo;Montevideo;1020;1
+584;Coboe S.A.;Farmashop 72;Cno. Ariel 4926 ;;Sayago;2;Farmashop;-34,83266;-56,217901;Montevideo;Montevideo;1020;1
+585;Coboe S.A.;Farmashop 73;Gral. Paz 1447 ;;Punta Gorda;2;Farmashop;-34,892531;-56,079651;Montevideo;Montevideo;1020;1
+586;Coboe S.A.;Farmashop 74;Lagomar Av. Giannattasio Km. 21.8;;Interior;3;Farmashop;-34,834281;-55,980075;Ciudad de la Costa;Canelones;3831;1
+587;Coboe S.A.;Farmashop 75;Av. Gorlero esq. 31;;Interior;2;Farmashop;-34,959255;-54,94039;Punta del Este;Maldonado;10322;1
+588;Coboe S.A.;Farmashop 76;Av. Gorlero 780 002;;Interior;2;Farmashop;-34,962409;-54,943305;Punta del Este;Maldonado;10322;1
+589;Coboe S.A.;Farmashop 77;Arocena 1980 ;;Carrasco;3;Farmashop;-34,881112;-56,061216;Montevideo;Montevideo;1020;1
+590;Coboe S.A.;Farmashop 78;Alberdi 6502 ;;Carrasco;2;Farmashop;-34,880325;-56,066603;Montevideo;Montevideo;1020;1
+591;Coboe S.A.;Farmashop 79;Aparicio Saravia 649 ;;Interior;2;Farmashop;-32,37061;-54,168661;Melo;Cerro Largo;4220;1
+592;Coboe S.A.;Farmashop 80;Oribe 898 ;;Interior;2;Farmashop;-32,376301;-54,165164;Melo;Cerro Largo;4220;1
+593;Coboe S.A.;Farmashop 81;Florencio Sanchez 898 ;;Interior;2;Farmashop;-32,369174;-54,16454;Melo;Cerro Largo;4220;1
+594;Coboe S.A.;Farmashop 82;18 de Julio 1395 ;;Interior;2;Farmashop;-32,317675;-58,076983;Paysandú;Paysandú;11120;1
+595;Coboe S.A.;Farmashop 83;18 de Julio 1099 ;;Interior;2;Farmashop;-32,316913;-58,084021;Paysandú;Paysandú;11120;1
+596;Coboe S.A.;Farmashop 84;18 de Julio 1135 ;;Interior;2;Farmashop;-32,31695;-58,083377;Paysandú;Paysandú;11120;1
+597;Coboe S.A.;Farmashop 86;18 de Julio 1676 ;;Interior;2;Farmashop;-32,70324;-57,632374;Young;Río Negro;12421;1
+598;Coboe S.A.;Farmashop 87;18 de Julio 953 ;;Interior;2;Farmashop;-32,698789;-57,62485;Young;Río Negro;12421;1
+599;Coboe S.A.;Farmashop 88;Fco. Solano López 1665 ;;Buceo;2;Farmashop;-34,892382;-56,124678;Montevideo;Montevideo;1020;1
+600;Coboe S.A.;Farmashop 89;Carlos M Ramirez 802 ;;La Teja;2;Farmashop;-34,864657;-56,233994;Montevideo;Montevideo;1020;1
+601;Coboe S.A.;Farmashop 90;Luis A. de Herrera 3365 101;;Brazo Oriental;5;Farmashop;-34,869384;-56,169181;Montevideo;Montevideo;1020;1
+602;Coboe S.A.;Farmashop 91;Rodo 550 ;;Interior;2;Farmashop;-33,250837;-58,033156;Mercedes;Soriano;17220;1
+603;Coboe S.A.;Farmashop 92;Artigas 281 ;;Interior;2;Farmashop;-33,248962;-58,029335;Mercedes;Soriano;17220;1
+604;Coboe S.A.;Farmashop 94;Calle 11 s/n esq. esq. Ciudad de Montevideo;;Interior;3;Farmashop;-34,773913;-55,761469;Atlántida;Canelones;3621;1
+605;Coboe S.A.;Farmashop 95;Bvar. España 2667 ;;Pocitos;2;Farmashop;-34,913147;-56,155723;Montevideo;Montevideo;1020;1
+606;Coboe S.A.;Puntoshop 2;21 de Setiembre 2855 ;;Punta Carretas;3;Farmashop;-34,918984;-56,155542;Montevideo;Montevideo;1020;1
+607;Coboe S.A.;Puntoshop 4;Sarandi 822 ;;Interior;3;Farmashop;-34,90616;-54,957705;Maldonado;Maldonado;10320;1
+608;Coboe S.A.;Puntoshop 5;Av. Gral. Artigas 1068 ;;Interior;3;Farmashop;-34,724385;-55,958768;Pando;Canelones;3322;1
+609;Coboe S.A.;Puntoshop 6;8 de Octubre 3691 ;;Unión;2;Farmashop;-34,875616;-56,142005;Montevideo;Montevideo;1020;1
+663;San Roque S.A.;San Roque Cordón;18 de Julio 1551 ;;Cordón;2;San Roque;-34,904306;-56,182333;Montevideo;Montevideo;1020;1
+664;San Roque S.A.;San Roque Centro;18 de Julio 1078 ;;Centro;3;San Roque;-34,906083;-56,192722;Montevideo;Montevideo;1020;1
+665;San Roque S.A.;San Roque Costa Urbana;Av. Giannattassio Km. 21.0;;Interior;2;San Roque;-34,865944;-56,024083;Ciudad de la Costa;Canelones;3831;1
+666;San Roque S.A.;San Roque Yí;18 de Julio 1252 ;;Centro;2;San Roque;-34,905722;-56,189028;Montevideo;Montevideo;1020;1
+667;San Roque S.A.;San Roque MAM;José L. Terra 2220 ;;Aguada;1;San Roque;-34,886806;-56,18375;Montevideo;Montevideo;1020;1
+668;San Roque S.A.;San Roque Montevideo Shopping;Avenida Luis Alberto de Herrera 1290 119;;Buceo;3;San Roque;-34,903083;-56,136139;Montevideo;Montevideo;1020;1
+669;San Roque S.A.;San Roque Portones Shopping;Av Italia 5775 203;;Carrasco;3;San Roque;-34,881417;-56,081056;Montevideo;Montevideo;1020;1
+670;San Roque S.A.;San Roque Tres Cruces Shopping;Bulevar Gral. Artigas 1825 ;;Tres Cruces;4;San Roque;-34,893806;-56,166111;Montevideo;Montevideo;1020;1
+671;San Roque S.A.;San Roque Punta Carretas Shopping;José Ellauri 350 109;;Punta Carretas;3;San Roque;-34,924028;-56,158333;Montevideo;Montevideo;1020;1
+672;San Roque S.A.;San Roque Punta del Este Shopping;P.7 - Playa Mansa esq. Ave Roosevelt;;Interior;3;San Roque;-34,940361;-54,934222;Punta del Este;Maldonado;10322;1
+673;San Roque S.A.;San Roque Cerro;Carlos Ma Ramirez 1490 ;;Cerro;2;San Roque;-34,872889;-56,246806;Montevideo;Montevideo;1020;1
+674;San Roque S.A.;San Roque Parque Roosevelt;Av a la Playa Ciudad de la Costa 1 ;;Interior;1;San Roque;-34,866;-56,024222;Ciudad de la Costa;Canelones;3831;1
+675;San Roque S.A.;San Roque Salto Shopping;Av. Jose Batlle y Ordoñez 2265 117;;Interior;1;San Roque;-31,38425;-57,944;Salto;Salto;15120;1
+676;San Roque S.A.;San Roque Universidad;18 de Julio 1835 ;;Cordón;2;San Roque;-34,902028;-56,176528;Montevideo;Montevideo;1020;1
+677;San Roque S.A.;San Roque Ellauri;Ellauri 452 ;;Punta Carretas;1;San Roque;-34,92375;-56,158194;Montevideo;Montevideo;1020;1
+678;San Roque S.A.;San Roque Mercedes Shopping;Don Bosco 734 ;;Interior;1;San Roque;-33,257139;-58,027694;Mercedes;Soriano;17220;1
+679;San Roque S.A.;San Roque Aeropuerto;101 Km. 19.95;;Interior;1;San Roque;-34,814944;-58,534694;Ciudad de la Costa;Canelones;3831;1
+680;San Roque S.A.;San Roque Punta del Este Shopping;Playa Mansa esq. Ave Roosevelt;;Interior;1;San Roque;-34,940361;-54,934222;Punta del Este;Maldonado;10322;1
+681;San Roque S.A.;San Roque Benito Blanco;Gabriel Pereyra 3298 ;;Pocitos;1;San Roque;-34,911222;-56,146139;Montevideo;Montevideo;1020;1
+682;San Roque S.A.;San Roque Colonia Shopping;Av Roosevelt esq. Luís Casanello;;Interior;1;San Roque;-34,465806;-57,8345;Colonia del Sacramento;Colonia;5320;1
+683;San Roque S.A.;San Roque Ciudad Vieja;Sarandí 667 ;;Ciudad Vieja;1;San Roque;-34,906611;-56,201194;Montevideo;Montevideo;1020;1
+684;San Roque S.A.;San Roque Unión;8 de Octubre 3640 ;;Unión;1;San Roque;-34,876944;-56,143528;Montevideo;Montevideo;1020;1
+685;San Roque S.A.;San Roque Mercedes ;Colon 278 ;;Interior;1;San Roque;-33,257278;-58,028667;Mercedes;Soriano;17220;1
+686;San Roque S.A.;San Roque Salto Centro;Uruguay 839 ;;Interior;1;San Roque;-31,387528;-57,964694;Salto;Salto;15120;1
+687;San Roque S.A.;San Roque Fray Bentos;18 de Julio 1707 ;;Interior;1;San Roque;-33,122806;-58,304028;Fray Bentos;Río Negro;12320;1
+688;San Roque S.A.;San Roque Paysandú;19 de Abril 914 ;;Interior;1;San Roque;-32,317861;-58,084028;Paysandú;Paysandú;11120;1
+689;San Roque S.A.;San Roque Trinidad;Francisco Fondar 649 ;;Interior;1;San Roque;-33,51775;-56,897389;Trinidad;Flores;7320;1
+690;San Roque S.A.;San Roque Colonia Centro;Av. Artigas 389 ;;Interior;1;San Roque;-33,51775;-56,897389;Colonia del Sacramento;Colonia;5320;1
+691;San Roque S.A.;San Roque Durazno Centro;18 de Julio 549 ;;Interior;1;San Roque;-33,378472;-56,523111;Durazno;Durazno;6220;1
+692;San Roque S.A.;San Roque Durazno Ruta;Morquio 800 ;;Interior;1;San Roque;-33,384111;-56,520278;Durazno;Durazno;6220;1
+693;San Roque S.A.;San Roque Rivera;Sarandí 665 ;;Interior;1;San Roque;-30,901778;-55,540861;Rivera;Rivera;13220;1
+694;San Roque S.A.;San Roque Arocena;Arocena 1681 ;;Carrasco;2;San Roque;-34,886778;-56,058667;Montevideo;Montevideo;1020;1
+695;Mercados Devoto S.A.;Devoto Express - Ciudadela;Sarandi 700 ;;Ciudad Vieja;3;Devoto Express;-34,9065514;-56,2009051;Montevideo;Montevideo;1020;0
+696;Mercados Devoto S.A.;Devoto Express - Centenario;Av. Centenario 2971 ;;La Blanqueada;3;Devoto Express;-34,8860963;-56,1531658;Montevideo;Montevideo;1020;0
+697;Mercados Devoto S.A.;Devoto Express - Maldonado;Maldonado 902 ;;Barrio Sur;3;Devoto Express;-34,9100729;-56,1965548;Montevideo;Montevideo;1020;0
+698;Mercados Devoto S.A.;Devoto Express - 18 de julio IV;18 de Julio 2160;;Tres Cruces;3;Devoto Express;-34,8990938;-56,1685676;Montevideo;Montevideo;1020;0
+699;Farmazul S.A;Pigalle Lyon;18 de julio 2102 ;;Cordón;1;Pigalle;-34,8995753;-56,1697701;Montevideo;Montevideo;1020;1
+700;Farsolis S.A;Pigalle Marazul;18 de julio 2151 ;;Cordón;1;Pigalle;-34,8991372;-56,1687484;Montevideo;Montevideo;1020;1
+701;Farsolis S.A;Pigalle Cordón;18 de julio 2051 ;;Cordón;1;Pigalle;-34,8998189;-56,1731098;Montevideo;Montevideo;1020;1
+702;Calafate S.A;Pigalle Mayo;Andes 1397 ;;Centro;1;Pigalle;-34,9067268;-56,1980688;Montevideo;Montevideo;1020;1
+703;Tresiglos S.A.;Pigalle Tres Cruces;E. Victor Haedo 2356 ;;Tres Cruces;1;Pigalle;-34,8954741;-56,1659119;Montevideo;Montevideo;1020;1
+704;Calousd S.A.;Pigalle 1 Pocitos;Buxareo 1158 ;;Pocitos;1;Pigalle;-34,9080083;-56,1435764;Montevideo;Montevideo;1020;1
+705;Karine S.A.;Pigalle 2 Pocitos;Av.Brasil 2570 ;;Pocitos;1;Pigalle;-34,9077221;-56,1579642;Montevideo;Montevideo;1020;1
+706;Natizei S.A;Pigalle 3 Pocitos;Benito Blanco 994 ;;Pocitos;1;Pigalle;-34,9136346;-56,1488298;Montevideo;Montevideo;1020;1
+707;Alenstar S.A.;Pigalle 4 Punta Carretas;21 de setiembre 2948 ;;Punta Carretas;1;Pigalle;-34,9152211;-56,1597292;Montevideo;Montevideo;1020;1
+708;Alenstar S.A.;Pigalle Massone;Gabriel Pereira 3148 ;;Pocitos;1;Pigalle;-34,9088869;-56,1483066;Montevideo;Montevideo;1020;1
+709;Alenstar S.A.;Pigalle Domar;Manuel Pagola 3295 ;;Pocitos;1;Pigalle;-34,9090111;-56,1453314;Montevideo;Montevideo;1020;1
+710;Rampini e hijos Ltda.;Pigalle Hermes;Br. España 2508 ;;Pocitos;1;Pigalle;-34,9112534;-56,1624701;Montevideo;Montevideo;1020;1
+711;Fredy Ubaldo Alonzo Brito;Super Quico ;11 esq. 22 y 24 ;;Interior;2;Sin Cadena;-34,7732896;-55,76257;Atlántida;Canelones;3621;0
+712;Mercados Devoto S.A.;Devoto Express - Rivera II;Av. Gral. Rivera 2454 ;;Pocitos;3;Devoto Express;-34,9026848;-56,1624983;Montevideo;Montevideo;1020;0
+714;Mercados Devoto S.A.;Devoto Express - 18 de Julio III;Av. 18 de Julio 1764 ;;Cordón;3;Devoto Express;-34,9027942;-56,1781647;Montevideo;Montevideo;1020;0
+715;Mercados Devoto S.A.;Devoto Express - L.A. de Herrera;luis alberto herrera 2940 ;;Larrañaga;3;Devoto Express;-34,8772147;-56,1567986;Montevideo;Montevideo;1020;0
+716;Mercados Devoto S.A.;Devoto Express - Canelones;Canelones 1251 ;;Barrio Sur;3;Devoto Express;-34,9085305;-56,1887753;Montevideo;Montevideo;1020;0
+717;Polakof y CIA SA;El Dorado - Las Toscas;Mario Ferreira esq. ente calle E y D;;Interior;5;El Dorado;-34,7704497;-55,7322023;Las Toscas;Canelones;3622;0
+718;Polakof y CIA SA;El Dorado - Pinares ;Leandro Gomez esq. Lima;;Interior;6;El Dorado;-34,8994876;-54,9952163;Pinares;Canelones;3833;0
+719;Polakof y CIA SA;El Dorado - Paso de los Toros;carlos berrutti esq. florencio sanchez;;Interior;6;El Dorado;-32,8107573;-56,512083;Paso de los toros;Tacuarembó;1111;0
+720;Mercados Devoto S.A.;Devoto Express - 21 Setiembre II;21 de setiembre 2998 ;;Punta Carretas;3;Devoto Express;-34,9152324;-56,1597424;Montevideo;Montevideo;1020;0
+721;Mercados Devoto S.A.;Devoto Express - Carrasco ;Cno Carrasco 6955 ;;Carrasco Norte;3;Devoto Express;-34,8700963;-56,0751842;Montevideo;Montevideo;1020;0
+722;Mercados Devoto S.A.;Devoto Express - Solymar ;Rambla Costanera esq. Saturno;;Interior;3;Devoto Express;-34,8381924;-55,9643136;Ciudad de la Costa;Canelones;3831;0
+723;Mercados Devoto S.A.;Devoto Express - Libertador ;Av. Libertador 1895 ;;Aguada;2;Devoto Express;-34,8962272;-56,1898754;Montevideo;Montevideo;1020;0
+724;Mercados Devoto S.A.;Devoto Express - Portal Américas ;Av. de las Americas 6000 ;;Interior;5;Devoto Express;-34,867331;-56,0311719;Ciudad de la Costa;Canelones;3831;0
+725;Mercados Devoto S.A.;Devoto Express - WTC ;Luis A. de Herrera 1248 Torre 01. Local 002;;Pocitos;2;Devoto Express;-34,9044736;-56,1361532;Montevideo;Montevideo;1020;0
+726;Mercados Devoto S.A.;Devoto Express - Yaguaron ;Venezuela 1409 ;;Aguada;4;Devoto Express;-34,8936075;-56,1869573;Montevideo;Montevideo;1020;0
+728;Polakof  y Cía.  S.A.;El Dorado- La Tuna ;Charruas Esq Bulevar Artigas ;;Interior;6;El Dorado;-34,7801127;-55,5629575;La Tuna ;Canelones ;15400;0
+727;ERIZE S.A.;PLANETA BELLONI;Belloni 4575 ;;Piedras Blancas;6;Planeta ;-34,8280015;-56,1406854;Montevideo;Montevideo;1020;0
+729;Mercados Devoto S.A.;Devoto Express - Oviedo;Oviedo 4723;;Malvin ;3;Devoto Express;-34,8870085;-56,1091871;Montevideo;Montevideo;1020;0
+730;Mercados Devoto S.A.;Devoto Express-Misiones;Misiones 1373;;Ciudad Vieja;2;Devoto Express;-34,9074645;-56,2411353;Montevideo;Montevideo;1020;0
+731;Mercados Devoto S.A.;Devoto Express- L.A.Herrera II;L.A.Herrera 1056;;Buceo;3;Devoto Express;-34,9087159;-56,1361425;Montevideo;Montevideo;1020;0
+732;Mercados Devoto S.A.;Devoto Express-Sarandí;Sarandi 891;;Interior;3;Devoto Express;-34,9064134;-56,2033817;Maldonado ;Maldonado;10320;0
+733;Mercados Devoto S.A.;Devoto Express-San Jose;San Jose 1085;;Centro ;2;Devoto Express;-34,9069038;-56,1949424;Montevideo;Montevideo;1020;0
+734;Mercados Devoto S.A.;Devoto Express-Boulevard3;Av. Agraciada 3199;;Prado ;1;Devoto Express;-34,8722845;-56,2043715;Montevideo;Montevideo;1020;0
+735;Henderson y Cia.  S.A.;Tienda Inglesa - Solanas;Ruta Interbalnearia Km118 y Ruta 12;;Interior;7;Tienda Inglesa;-34,87950612;-55,05286744;Punta del Este;Maldonado;10322;0
+736;Henderson y Cia.  S.A.;Tienda Inglesa - Cordón;Arenal Grande 1605;;Cordón;4;Tienda Inglesa;-34,8995534;-56,17523074;Montevideo;Montevideo;1020;0
+737;Henderson y Cia.  S.A.;Tienda Inglesa - La Barra;Ruta 10 km 110;;Interior;9;Tienda Inglesa;-34,91548744;-54,8556429;Punta del Este;Maldonado;10322;0
+738;Alenstar S.A.;Pigalle Cielmar;Rincon 700 esq. Juncal;;Ciudad Vieja;1;Pigalle;-34,9054842;-56,2013238;Montevideo;Montevideo;1020;1
+739;Alenstar S.A.;Pigalle Canadá;Av. Bolivia 1429;;Portones;1;Pigalle;-34,8930556;-56,0666667;Montevideo;Montevideo;1020;1
+740;Alenstar S.A.;Pigalle Alvarez;Av. Garibaldi 2567 esq. Monte Caseros;;;1;Pigalle;-34,8838279;-56,1669688;Montevideo;Montevideo;1020;1
+741;Alenstar S.A.;Pigalle Ponce;Rivera 2475 esq. Ponce;;Goes;1;Pigalle;-34,9026893;-56,1618548;Montevideo;Montevideo;1020;1
+742;Alenstar S.A.;Pigalle Palermo;Carlos M. Morales 946 esq. Gonzalo Ramirez;;Tres Cruces;1;Pigalle;-34,8995753;-56,1697701;Montevideo;Montevideo;1020;1
+743;Mercados Devoto S.A.;Devoto Express Berro;Pedro Berro  1216;;Pocitos;4;Devoto Express;-34,9102768;-56,1479359;Montevideo;Montevideo;1020;0
+744;Mercados Devoto S.A.;Devoto Express Rondeau;Av. Gral Rondeau 2132;;Aguada;3;Devoto Express;-34,893882;-56,1616155;Montevideo;Montevideo;1020;0
+745;Mercados Devoto S.A.;Devoto Express Av. Italia;Av. Italia 2484;;Tres Cruces;3;Devoto Express;-34,8937769;-56,1617219;Montevideo;Montevideo;1020;0
+746;Coboe S.A.;Farmashop 85 85;Gral. Flores 405 1;;Interior;3;Farmashop;-34,4706418;-57,8454824;Colonia del Sacramento;Colonia;5320;1
+747;Coboe S.A.;Farmashop 85;Gral. Flores 450 7;;Interior;3;Farmashop;-34,470609;-57,8450993;Colonia del Sacramento;Colonia;5320;1
+748;Coboe S.A.;Farmashop 59;Avenida Italia 3949 1;;Malvin ;3;Farmashop;-34,8866011;-56,1262941;Montevideo;Montevideo;1020;1
+749;Coboe S.A.;Farmashop 93;Dr. Pouey 607 1;;Interior;3;Farmashop;-34,727518;-56,2236033;Las Piedras;Canelones;3221;1
+750;Coboe S.A.;Farmashop 96;Uruguay 697 1;;Interior;3;Farmashop;-31,3874193;-57,9673349;Salto;Salto;15120;1
+751;Coboe S.A.;Farmashop 97;Sarandí 509 1;;Interior;3;Farmashop;-30,8993852;-55,5393625;Rivera;Rivera;13220;1
+752;Coboe S.A.;Farmashop 98;Jose Batlle y Ordoñez 181 1;;Interior;3;Farmashop;-34,5311421;-56,28309;Las Piedras;Canelones;3221;1
+753;Coboe S.A.;BELA 1;Av. 8 de Octubre 3656;;Unión;2;Farmashop;-34,8764572;-56,14269;Montevideo;Montevideo;1020;1
+754;Coboe S.A.;BELA 2;Av. José Belloni  4281;;Piedras Blancas;2;Farmashop;-34,825498;-56,141113;Montevideo;Montevideo;1020;1
+755;Coboe S.A.;BELA 3;18 de Julio  987;;Centro;2;Farmashop;-34,906107;-56,194901;Montevideo;Montevideo;1020;1
+756;Polakof  y Cía.  S.A.;El Dorado - Dolores;Carlos P. Puig esquina Adalberto Schuster 1410;;Interior;7;El Dorado;-33,5310745;-58,2157148;Dolores;Soriano;;0
+757;Polakof  y Cía.  S.A.;El Dorado - Sarandí Grande;Libertad 1034;;Interior;4;El Dorado;-34,094817;-56,220295;Sarandí Grande;Florida;;0
+758;Polakof  y Cía.  S.A.;El Dorado - Las Flores;Ruta 10 y Las Violetas 560;;Interior;4;El Dorado;-34,813007;-55,330896;Las Flores;Maldonado;;0
+759;Polakof  y Cía.  S.A.;El Dorado - San Carlos 3;Wilson Ferreira Aldunate esquina Islas Canarias 352;;Interior;3;El Dorado;-34,780476;-54,92078;San Carlos;Maldonado;10323;0
