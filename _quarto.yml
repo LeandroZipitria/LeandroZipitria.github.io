@@ -18,6 +18,7 @@ project:
   resources:
     - files/**
     - libro-regulacion/**
+    - CNAME
 
 website:
   title: "Leandro Zipitría"
