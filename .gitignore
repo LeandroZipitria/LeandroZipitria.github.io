@@ -6,3 +6,5 @@
 .Rproj.user/
 .RData
 .Rhistory
+_site/
+.quarto/
