@@ -5,14 +5,35 @@ page-layout: full
 toc: false
 ---
 
-<div class="page-hero"><div class="eyebrow">Contact</div><h1>Get in touch.</h1><p class="lead">For academic, teaching, or professional inquiries.</p></div>
+::: {.page-hero}
+::: {.eyebrow}
+Contact
+:::
 
-<div class="page-content">
-<div class="contact-card">
-<h2 style="font-size:1.8rem">Leandro Zipitria</h2>
-<p><strong>Address</strong><br>Constituyente 1502, 6th floor<br>CP 11700, Montevideo<br>Uruguay</p>
-<p><strong>Phone</strong><br>+598 24106449, ext. 662</p>
-<p><strong>Email</strong><br><a href="mailto:leandro.zipitria@gmail.com">leandro.zipitria@gmail.com</a></p>
-<div class="button-row"><a class="btn-site btn-primary-site" href="mailto:leandro.zipitria@gmail.com">Send email →</a></div>
-</div>
-</div>
+# Get in touch.
+
+::: {.lead}
+For academic, teaching, or professional inquiries.
+:::
+:::
+
+::: {.page-content}
+::: {.contact-card}
+## Leandro Zipitria {.contact-name}
+
+**Address**  
+Constituyente 1502, 6th floor  
+CP 11700, Montevideo  
+Uruguay
+
+**Phone**  
++598 24106449, ext. 662
+
+**Email**  
+[leandro.zipitria@gmail.com](mailto:leandro.zipitria@gmail.com)
+
+::: {.button-row}
+[Send email →](mailto:leandro.zipitria@gmail.com){.btn-site .btn-primary-site}
+:::
+:::
+:::

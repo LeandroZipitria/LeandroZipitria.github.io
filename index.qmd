@@ -5,81 +5,227 @@ page-layout: full
 toc: false
 ---
 
-<div class="site-hero">
-<div>
-<div class="eyebrow identity-eyebrow">Economist</div>
-<h1 class="identity-title"><span>Industrial Organization</span><span>&amp; Applied Microeconomics</span></h1>
-<p class="lead">Full Professor of Economics at Universidad de la República. Research on retail pricing, price dispersion, competition, and economic regulation.</p>
-<p class="hero-secondary">Applied work in competition policy, economic regulation, and market analysis.</p>
-<div class="hero-actions">
-<a class="btn-site btn-primary-site" href="research.html">Explore research →</a>
-<a class="btn-site btn-secondary-site" href="files/english_CV.pdf">Download CV</a>
-</div>
-</div>
-<div class="portrait-card portrait-landscape">
+::: {.site-hero}
+::: {.hero-copy}
+::: {.eyebrow .identity-eyebrow}
+Economist
+:::
+
+<h1 class="identity-title">
+  <span>Industrial Organization</span>
+  <span>&amp; Applied Microeconomics</span>
+</h1>
+
+::: {.lead}
+Full Professor of Economics at Universidad de la República. Research on retail pricing, price dispersion, competition, and economic regulation.
+:::
+
+::: {.hero-secondary}
+Applied work in competition policy, economic regulation, and market analysis.
+:::
+
+::: {.hero-actions}
+[Explore research →](research.html){.btn-site .btn-primary-site}
+[Download CV](files/english_CV.pdf){.btn-site .btn-secondary-site}
+:::
+:::
+
+::: {.portrait-card .portrait-landscape}
 <img src="assets/site/portrait.webp" alt="Leandro Zipitria">
-</div>
-</div>
+:::
+:::
 
-<div class="stat-strip">
-<div class="stat-grid">
-<div class="stat-item"><strong>Research</strong><span>Industrial organization and applied microeconomics</span></div>
-<div class="stat-item"><strong>Policy &amp; Advisory</strong><span>Competition, regulation &amp; market analysis</span></div>
-<div class="stat-item"><strong>Teaching</strong><span>Graduate and undergraduate economics</span></div>
-<div class="stat-item"><strong>Building</strong><span>TeXFlow — Visual LaTeX for VS Code</span></div>
-</div>
-</div>
+::: {.stat-strip}
+::: {.stat-grid}
+::: {.stat-item}
+**Research**
 
-<section class="section">
-<div class="section-shell">
-<div class="section-head">
-<div><div class="section-kicker">Research</div><h2>Selected work</h2></div>
-<p>Three selected publications in industrial organization and retail markets.</p>
-</div>
-<div class="card-grid research-feature-grid">
-<article class="paper-card"><div class="card-label">Journal of Industry, Competition and Trade · 2026</div><h3 class="paper-title">The Border Effect on Prices: The Role of Local Product Availability</h3><p>Fernando Borraz and Leandro Zipitría.</p><div class="card-links"><a href="https://link.springer.com/article/10.1007/s10842-026-00466-z">Published article →</a><a href="files/Disentangling_Border_2026.pdf">Working paper</a></div></article>
-<article class="paper-card featured-clean"><div class="card-label">AEJ: Economic Policy · 2024</div><h3 class="paper-title">Local Retail Prices, Product Varieties and Neighborhood Change</h3><p>Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillón, and Leandro Zipitría.</p><div class="card-links"><a href="https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f">Published article →</a><a href="files/Borraz_AEJP_2021_R1.pdf">Working paper</a></div></article>
-<article class="paper-card"><div class="card-label">International Economics · 2022</div><h3 class="paper-title">Varieties as a Source of Law of One Price Deviation</h3><p>Fernando Borraz and Leandro Zipitría.</p><div class="card-links"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543">Published article →</a><a href="files/LOP Version 2021_12_11.pdf">Working paper</a></div></article>
-</div>
-<div class="button-row"><a class="btn-site btn-secondary-site" href="research.html">All papers and projects →</a></div>
-</div>
-</section>
+Industrial organization and applied microeconomics
+:::
 
-<section class="section alt">
-<div class="section-shell">
-<div class="section-head"><div><div class="section-kicker">Work</div><h2>Research, policy, teaching — and tools.</h2></div></div>
-<div class="card-grid">
-<article class="info-card"><span class="card-index">01</span><h3>Research</h3><p>Industrial organization and applied microeconomics, with a focus on retail pricing, price dispersion, and market structure.</p><div class="card-links"><a href="research.html">Research →</a></div></article>
-<article class="info-card"><span class="card-index">02</span><h3>Policy &amp; Advisory</h3><p>Competition policy, economic regulation, market analysis, pricing, and regulatory impact.</p><div class="card-links"><a href="professional.html">Professional work →</a></div></article>
-<article class="info-card"><span class="card-index">03</span><h3>Teaching</h3><p>Current graduate courses in Development Economics, Microeconomics II, and Economic Regulation & Competition Policy, plus a teaching archive.</p><div class="card-links"><a href="teaching.html">Teaching →</a></div></article>
-</div>
-</div>
-</section>
+::: {.stat-item}
+**Policy & Advisory**
 
-<section class="section dark">
-<div class="section-shell">
-<div class="split wide-left">
-<div>
+Competition, regulation & market analysis
+:::
+
+::: {.stat-item}
+**Teaching**
+
+Graduate and undergraduate economics
+:::
+
+::: {.stat-item}
+**Building**
+
+TeXFlow — Visual LaTeX for VS Code
+:::
+:::
+:::
+
+::: {.section}
+::: {.section-shell}
+::: {.section-head}
+::: {.section-heading}
+::: {.section-kicker}
+Research
+:::
+
+## Selected work
+:::
+
+Three selected publications in industrial organization and retail markets.
+:::
+
+::: {.card-grid .research-feature-grid}
+::: {.paper-card}
+::: {.card-label}
+Journal of Industry, Competition and Trade · 2026
+:::
+
+### The Border Effect on Prices: The Role of Local Product Availability {.paper-title}
+
+Fernando Borraz and Leandro Zipitría.
+
+::: {.card-links}
+[Published article →](https://link.springer.com/article/10.1007/s10842-026-00466-z)
+[Working paper](files/Disentangling_Border_2026.pdf)
+:::
+:::
+
+::: {.paper-card .featured-clean}
+::: {.card-label}
+AEJ: Economic Policy · 2024
+:::
+
+### Local Retail Prices, Product Varieties and Neighborhood Change {.paper-title}
+
+Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillón, and Leandro Zipitría.
+
+::: {.card-links}
+[Published article →](https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f)
+[Working paper](files/Borraz_AEJP_2021_R1.pdf)
+:::
+:::
+
+::: {.paper-card}
+::: {.card-label}
+International Economics · 2022
+:::
+
+### Varieties as a Source of Law of One Price Deviation {.paper-title}
+
+Fernando Borraz and Leandro Zipitría.
+
+::: {.card-links}
+[Published article →](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543)
+[Working paper](<files/LOP Version 2021_12_11.pdf>)
+:::
+:::
+:::
+
+::: {.button-row}
+[All papers and projects →](research.html){.btn-site .btn-secondary-site}
+:::
+:::
+:::
+
+::: {.section .alt}
+::: {.section-shell}
+::: {.section-head}
+::: {.section-heading}
+::: {.section-kicker}
+Work
+:::
+
+## Research, policy, teaching — and tools.
+:::
+:::
+
+::: {.card-grid}
+::: {.info-card}
+[01]{.card-index}
+
+### Research
+
+Industrial organization and applied microeconomics, with a focus on retail pricing, price dispersion, and market structure.
+
+::: {.card-links}
+[Research →](research.html)
+:::
+:::
+
+::: {.info-card}
+[02]{.card-index}
+
+### Policy & Advisory
+
+Competition policy, economic regulation, market analysis, pricing, and regulatory impact.
+
+::: {.card-links}
+[Professional work →](professional.html)
+:::
+:::
+
+::: {.info-card}
+[03]{.card-index}
+
+### Teaching
+
+Current graduate courses in Development Economics, Microeconomics II, and Economic Regulation & Competition Policy, plus a teaching archive.
+
+::: {.card-links}
+[Teaching →](teaching.html)
+:::
+:::
+:::
+:::
+:::
+
+::: {.section .dark}
+::: {.section-shell}
+::: {.split .wide-left}
+::: {.texflow-home-copy}
 <div class="section-kicker" style="color:#7fe8f7">TeXFlow — Visual LaTeX</div>
-<h2>Write LaTeX, without writing LaTeX.</h2>
-<p>A visual LaTeX editor inside VS Code. Write naturally while keeping your <code>.tex</code> files intact and accessible.</p>
-<div class="button-row"><a class="btn-site" style="background:#19bedf;color:#041423;border-color:#19bedf" href="texflow.html">See TeXFlow →</a><a class="btn-site" style="color:white;border-color:rgba(255,255,255,.35)" href="https://github.com/LeandroZipitria/texflow">GitHub</a></div>
-</div>
-<div class="tf-shot"><img src="assets/texflow/hero.webp" alt="TeXFlow visual LaTeX editor inside VS Code"></div>
-</div>
-</div>
-</section>
 
-<section class="section">
-<div class="section-shell">
-<div class="split">
-<div>
-<div class="section-kicker">Writing & public discussion</div>
-<h2>Economics beyond papers.</h2>
-<p>I write occasionally about economic policy and institutions, and publish longer-form commentary in <strong>Mercados Chicos</strong>.</p>
-<div class="button-row"><a class="btn-site btn-secondary-site" href="blog.html">Writing & Media →</a><a class="btn-site btn-secondary-site" href="personal.html">Personal →</a></div>
-</div>
-<div class="quote-panel">“An image is worth a thousand words.” I also co-created <a href="https://www.unaimagen.uy/">unaimagen</a>, a side project focused on visualizing data from Uruguay.</div>
-</div>
-</div>
-</section>
+## Write LaTeX, without writing LaTeX.
+
+A visual LaTeX editor inside VS Code. Write naturally while keeping your `.tex` files intact and accessible.
+
+::: {.button-row}
+[See TeXFlow →](texflow.html){.btn-site .texflow-primary}
+[GitHub](https://github.com/LeandroZipitria/texflow){.btn-site .texflow-secondary}
+:::
+:::
+
+::: {.tf-shot}
+<img src="assets/texflow/hero.webp" alt="TeXFlow visual LaTeX editor inside VS Code">
+:::
+:::
+:::
+:::
+
+::: {.section}
+::: {.section-shell}
+::: {.split}
+::: {.writing-home-copy}
+::: {.section-kicker}
+Writing & public discussion
+:::
+
+## Economics beyond papers.
+
+I write occasionally about economic policy and institutions, and publish longer-form commentary in **Mercados Chicos**.
+
+::: {.button-row}
+[Writing & Media →](blog.html){.btn-site .btn-secondary-site}
+[Personal →](personal.html){.btn-site .btn-secondary-site}
+:::
+:::
+
+::: {.quote-panel}
+“An image is worth a thousand words.” I also co-created [unaimagen](https://www.unaimagen.uy/), a side project focused on visualizing data from Uruguay.
+:::
+:::
+:::
+:::

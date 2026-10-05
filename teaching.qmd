@@ -5,156 +5,551 @@ page-layout: full
 toc: false
 ---
 
-<div class="page-hero">
-<div class="eyebrow">Teaching</div>
-<h1>Current courses and teaching archive.</h1>
-<p class="lead">I teach at Universidad de la República. Current graduate courses come first; previous courses and older materials remain available in the archive. Course slides are in Spanish.</p>
-<div class="anchor-row"><a href="#current">Current</a><a href="#desarrollo">Development Economics</a><a href="#micro2">Microeconomics II</a><a href="#regcomp">Regulation & Competition</a><a href="#guidelines">Guidelines</a><a href="#archive">Previous courses</a></div>
-</div>
+::: {.page-hero}
+::: {.eyebrow}
+Teaching
+:::
 
-<div class="page-content">
-<section id="current" class="list-section no-rule-top">
+# Current courses and teaching archive.
+
+::: {.lead}
+I teach at Universidad de la República. Current graduate courses come first; previous courses and older materials remain available in the archive. Course slides are in Spanish.
+:::
+
+::: {.anchor-row}
+[Current](#current)  
+[Development Economics](#desarrollo)  
+[Microeconomics II](#micro2)  
+[Regulation & Competition](#regcomp)  
+[Guidelines](#guidelines)  
+[Previous courses](#archive)
+:::
+:::
+
+::: {.page-content}
+
+::: {#current .list-section .no-rule-top}
 ## Current courses
 
-<div class="teaching-current-grid">
-<article class="course-current-card"><div class="card-label">Master in Economics · Economic Analysis</div><h3>Development Economics</h3><p>Stylized facts, models, finance, productivity, institutions, culture, and reforms.</p><div class="course-meta">9 presentations</div><div class="card-links"><a href="#desarrollo">Course materials ↓</a></div></article>
-<article class="course-current-card"><div class="card-label">Master in Economics · Economic Analysis</div><h3>Microeconomics II</h3><p>Externalities, public goods, risk, and incentives.</p><div class="course-meta">5 public presentations</div><div class="card-links"><a href="#micro2">Course materials ↓</a></div></article>
-<article class="course-current-card"><div class="card-label">Master in Economics · Economic Analysis</div><h3>Economic Regulation & Competition Policy</h3><p>Economic regulation, access, competition, market definition, dominance, vertical restraints, and mergers.</p><div class="course-meta">11 presentations · cases · guidelines</div><div class="card-links"><a href="#regcomp">Course materials ↓</a></div></article>
-</div>
-</section>
+::: {.teaching-current-grid}
+::: {.course-current-card}
+::: {.card-label}
+Master in Economics · Economic Analysis
+:::
 
-<section id="desarrollo" class="list-section">
-<div class="teaching-panel">
-<div class="course-head"><div><h3>Development Economics</h3><p>Curso de Desarrollo Económico en la Maestría en Economía, Opción Análisis Económico.</p></div><span class="status-badge">CURRENT</span></div>
-<ul class="lecture-list">
-<li><span class="lecture-no">01</span><div><a href="files/teaching/current/desarrollo-economico/1-presentacion.pdf">Presentación</a></div></li>
-<li><span class="lecture-no">02</span><div><a href="files/teaching/current/desarrollo-economico/1b-hechos.pdf">Hechos estilizados</a></div></li>
-<li><span class="lecture-no">03</span><div><a href="files/teaching/current/desarrollo-economico/2-reflexiones.pdf">Reflexiones varias</a></div></li>
-<li><span class="lecture-no">04</span><div><a href="files/teaching/current/desarrollo-economico/3-modelos.pdf">Modelos</a></div></li>
-<li><span class="lecture-no">05</span><div><a href="files/teaching/current/desarrollo-economico/4-finanzas.pdf">Finanzas</a></div></li>
-<li><span class="lecture-no">06</span><div><a href="files/teaching/current/desarrollo-economico/5-productividad.pdf">Productividad</a></div></li>
-<li><span class="lecture-no">07</span><div><a href="files/teaching/current/desarrollo-economico/6-instituciones.pdf">Instituciones</a></div></li>
-<li><span class="lecture-no">08</span><div><a href="files/teaching/current/desarrollo-economico/7-cultura.pdf">Cultura</a></div></li>
-<li><span class="lecture-no">09</span><div><a href="files/teaching/current/desarrollo-economico/8-reformas.pdf">Reformas y política del desarrollo</a></div></li>
-</ul>
-</div>
-</section>
+### Development Economics
 
-<section id="micro2" class="list-section">
-<div class="teaching-panel alt">
-<div class="course-head"><div><h3>Microeconomics II</h3><p>Curso de Microeconomía II en la Maestría en Economía, Opción Análisis Económico.</p></div><span class="status-badge">CURRENT</span></div>
-<ul class="lecture-list">
-<li><span class="lecture-no">01</span><div><a href="files/teaching/current/microeconomia-ii/1-externalidades.pdf">Externalidades</a></div></li>
-<li><span class="lecture-no">02</span><div><a href="files/teaching/current/microeconomia-ii/2-bienes_publicos_clase.pdf">Bienes públicos</a><small>Versión pública seleccionada.</small></div></li>
-<li><span class="lecture-no">03</span><div><a href="files/teaching/current/microeconomia-ii/3-riesgo.pdf">Riesgo</a></div></li>
-<li><span class="lecture-no">04</span><div><a href="files/teaching/current/microeconomia-ii/4a-incentivos.pdf">Incentivos — Parte I</a></div></li>
-<li><span class="lecture-no">05</span><div><a href="files/teaching/current/microeconomia-ii/4b-incentivos.pdf">Incentivos — Parte II</a></div></li>
-</ul>
-</div>
-</section>
+Stylized facts, models, finance, productivity, institutions, culture, and reforms.
 
-<section id="regcomp" class="list-section">
-<div class="teaching-panel">
-<div class="course-head"><div><h3>Economic Regulation & Competition Policy</h3><p>Curso de Regulación y Defensa de la Competencia en la Maestría en Economía, Opción Análisis Económico. Los casos se integran junto al tema en que se utilizan.</p></div><span class="status-badge">CURRENT</span></div>
-<div class="course-resource-row"><strong>Book</strong><span><a href="libro-regulacion/">Regulación económica para economías en desarrollo →</a> · <a href="libro-regulacion/Regulacion.pdf">PDF</a></span></div>
-<div class="topic-list">
-<div class="topic-row"><strong class="topic-name">Introducción</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/01_introduccion.pdf">Slides</a><span class="case-tag">Case</span> <a href="https://supreme.justia.com/cases/federal/us/221/1/">Standard Oil (1911)</a></div></div>
-<div class="topic-row"><strong class="topic-name">Monopolio natural</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/02_monopolio_natural.pdf">Slides</a></div></div>
-<div class="topic-row"><strong class="topic-name">Regulación de monopolios naturales</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/03_regulacion_monopolio_natural.pdf">Slides</a></div></div>
-<div class="topic-row"><strong class="topic-name">Práctica regulatoria</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/04_practica_regulatoria.pdf">Slides</a></div></div>
-<div class="topic-row"><strong class="topic-name">Acceso</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/05_acceso.pdf">Slides</a></div></div>
-<div class="topic-row"><strong class="topic-name">Mercados potencialmente competitivos</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/06_mercados_competitivos.pdf">Slides</a></div></div>
-<div class="topic-row"><strong class="topic-name">Defensa de la competencia</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/07_def_comp.pdf">Slides</a></div></div>
-<div class="topic-row"><strong class="topic-name">Mercado relevante y poder de mercado</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/08_mercado_relevante.pdf">Slides</a><span class="case-tag">Cases</span> <a href="https://caselaw.findlaw.com/us-supreme-court/351/377.html">DuPont (1956)</a> · <a href="https://caselaw.findlaw.com/us-supreme-court/370/294.html">Brown Shoe (1962)</a> · <a href="https://www.ftc.gov/enforcement/cases-proceedings/9710008/staples-inc-office-depot-inc">Staples/Office Depot (1997)</a> · <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61976CJ0027">United Brands (1978)</a></div></div>
-<div class="topic-row"><strong class="topic-name">Abuso de posición dominante</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/09_pos_dominante_ajustada.pdf">Slides</a><span class="case-tag">Cases</span> <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61976CJ0027">United Brands</a> · <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61976CJ0085">Hoffmann-La Roche</a> · <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61986CJ0062">AKZO</a> · <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32007D0053">Microsoft</a> · <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52018XC0112%2801%29">Google Shopping</a></div></div>
-<div class="topic-row"><strong class="topic-name">Restricciones verticales</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/10_rest_verticales_ajustada.pdf">Slides</a></div></div>
-<div class="topic-row"><strong class="topic-name">Fusiones</strong><div class="topic-links"><a href="files/teaching/current/regulacion-defensa-competencia/12_fusiones.pdf">Slides</a><span class="case-tag">Cases</span> <a href="https://caselaw.findlaw.com/us-supreme-court/370/294.html">Brown Shoe</a> · <a href="https://www.ftc.gov/enforcement/cases-proceedings/9710008/staples-inc-office-depot-inc">Staples/Office Depot</a> · <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31992M0166">Torras/Sarrio</a> · <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A31992D0553">Nestlé/Perrier</a> · <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32004D0134">GE/Honeywell</a></div></div>
-</div>
-</div>
-</section>
+::: {.course-meta}
+9 presentations
+:::
 
-<section id="guidelines" class="list-section">
+::: {.card-links}
+[Course materials ↓](#desarrollo)
+:::
+:::
+
+::: {.course-current-card}
+::: {.card-label}
+Master in Economics · Economic Analysis
+:::
+
+### Microeconomics II
+
+Externalities, public goods, risk, and incentives.
+
+::: {.course-meta}
+5 public presentations
+:::
+
+::: {.card-links}
+[Course materials ↓](#micro2)
+:::
+:::
+
+::: {.course-current-card}
+::: {.card-label}
+Master in Economics · Economic Analysis
+:::
+
+### Economic Regulation & Competition Policy
+
+Economic regulation, access, competition, market definition, dominance, vertical restraints, and mergers.
+
+::: {.course-meta}
+11 presentations · cases · guidelines
+:::
+
+::: {.card-links}
+[Course materials ↓](#regcomp)
+:::
+:::
+
+:::
+:::
+
+::: {#desarrollo .list-section .soft-section}
+::: {.teaching-panel}
+::: {.course-head}
+::: {.course-head-main}
+### Development Economics
+
+Curso de Desarrollo Económico en la Maestría en Economía, Opción Análisis Económico.
+:::
+[CURRENT]{.status-badge}
+:::
+
+::: {.lecture-list}
+1. [Presentación](files/teaching/current/desarrollo-economico/1-presentacion.pdf)
+2. [Hechos estilizados](files/teaching/current/desarrollo-economico/1b-hechos.pdf)
+3. [Reflexiones varias](files/teaching/current/desarrollo-economico/2-reflexiones.pdf)
+4. [Modelos](files/teaching/current/desarrollo-economico/3-modelos.pdf)
+5. [Finanzas](files/teaching/current/desarrollo-economico/4-finanzas.pdf)
+6. [Productividad](files/teaching/current/desarrollo-economico/5-productividad.pdf)
+7. [Instituciones](files/teaching/current/desarrollo-economico/6-instituciones.pdf)
+8. [Cultura](files/teaching/current/desarrollo-economico/7-cultura.pdf)
+9. [Reformas y política del desarrollo](files/teaching/current/desarrollo-economico/8-reformas.pdf)
+:::
+:::
+:::
+
+::: {#micro2 .list-section}
+::: {.teaching-panel .alt}
+::: {.course-head}
+::: {.course-head-main}
+### Microeconomics II
+
+Curso de Microeconomía II en la Maestría en Economía, Opción Análisis Económico.
+:::
+[CURRENT]{.status-badge}
+:::
+
+::: {.lecture-list}
+1. [Externalidades](files/teaching/current/microeconomia-ii/1-externalidades.pdf)
+2. [Bienes públicos](files/teaching/current/microeconomia-ii/2-bienes_publicos_clase.pdf)  
+   Versión pública seleccionada.
+3. [Riesgo](files/teaching/current/microeconomia-ii/3-riesgo.pdf)
+4. [Incentivos — Parte I](files/teaching/current/microeconomia-ii/4a-incentivos.pdf)
+5. [Incentivos — Parte II](files/teaching/current/microeconomia-ii/4b-incentivos.pdf)
+:::
+:::
+:::
+
+::: {#regcomp .list-section .soft-section}
+::: {.teaching-panel}
+::: {.course-head}
+::: {.course-head-main}
+### Economic Regulation & Competition Policy
+
+Curso de Regulación y Defensa de la Competencia en la Maestría en Economía, Opción Análisis Económico. Los casos se integran junto al tema en que se utilizan.
+:::
+[CURRENT]{.status-badge}
+:::
+
+::: {.course-resource-row}
+**Book** · [Regulación económica para economías en desarrollo →](libro-regulacion/) · [PDF](libro-regulacion/Regulacion.pdf)
+:::
+
+::: {.topic-list}
+::: {.topic-row}
+[Introducción]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/01_introduccion.pdf)[Case]{.case-tag} [Standard Oil (1911)](https://supreme.justia.com/cases/federal/us/221/1/)
+:::
+:::
+
+::: {.topic-row}
+[Monopolio natural]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/02_monopolio_natural.pdf)
+:::
+:::
+
+::: {.topic-row}
+[Regulación de monopolios naturales]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/03_regulacion_monopolio_natural.pdf)
+:::
+:::
+
+::: {.topic-row}
+[Práctica regulatoria]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/04_practica_regulatoria.pdf)
+:::
+:::
+
+::: {.topic-row}
+[Acceso]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/05_acceso.pdf)
+:::
+:::
+
+::: {.topic-row}
+[Mercados potencialmente competitivos]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/06_mercados_competitivos.pdf)
+:::
+:::
+
+::: {.topic-row}
+[Defensa de la competencia]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/07_def_comp.pdf)
+:::
+:::
+
+::: {.topic-row}
+[Mercado relevante y poder de mercado]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/08_mercado_relevante.pdf)[Cases]{.case-tag} [DuPont (1956)](https://caselaw.findlaw.com/us-supreme-court/351/377.html) · [Brown Shoe (1962)](https://caselaw.findlaw.com/us-supreme-court/370/294.html) · [Staples/Office Depot (1997)](https://www.ftc.gov/enforcement/cases-proceedings/9710008/staples-inc-office-depot-inc) · [United Brands (1978)](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61976CJ0027)
+:::
+:::
+
+::: {.topic-row}
+[Abuso de posición dominante]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/09_pos_dominante_ajustada.pdf)[Cases]{.case-tag} [United Brands](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61976CJ0027) · [Hoffmann-La Roche](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61976CJ0085) · [AKZO](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A61986CJ0062) · [Microsoft](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32007D0053) · [Google Shopping](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52018XC0112%2801%29)
+:::
+:::
+
+::: {.topic-row}
+[Restricciones verticales]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/10_rest_verticales_ajustada.pdf)
+:::
+:::
+
+::: {.topic-row}
+[Fusiones]{.topic-name}
+
+::: {.topic-links}
+[Slides](files/teaching/current/regulacion-defensa-competencia/12_fusiones.pdf)[Cases]{.case-tag} [Brown Shoe](https://caselaw.findlaw.com/us-supreme-court/370/294.html) · [Staples/Office Depot](https://www.ftc.gov/enforcement/cases-proceedings/9710008/staples-inc-office-depot-inc) · [Torras/Sarrio](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31992M0166) · [Nestlé/Perrier](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A31992D0553) · [GE/Honeywell](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32004D0134)
+:::
+:::
+
+:::
+:::
+:::
+
+::: {#guidelines .list-section}
 ## Guidelines and reference documents
 
-<p>Official links updated for the course. For the European Union, EUR-Lex is used whenever possible instead of old Commission PDF locations.</p>
+Official links updated for the course. For the European Union, EUR-Lex is used whenever possible instead of old Commission PDF locations.
 
-<div class="guide-grid">
-<article class="guide-card"><h3>Market definition</h3>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill current">2024</span><a href="https://eur-lex.europa.eu/eli/C/2024/1645/oj/eng">Market Definition Notice</a><small>Commission Notice C/2024/1645; replaces the 1997 notice.</small></div>
-<div class="guide-doc"><span class="pill uk">UK</span><span class="pill legacy">legacy</span><a href="https://www.gov.uk/government/publications/market-definition">Market definition — OFT403</a><small>Adopted by the CMA, but the 2004 text remains unamended.</small></div>
-</article>
+::: {.guide-grid}
+::: {.guide-card}
+### Market definition
 
-<article class="guide-card"><h3>Market power and dominance</h3>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill current">current</span><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52009XC0224%2801%29">Article 102 enforcement priorities</a><small>2009 Guidance, read together with the 2023 amendments.</small></div>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill current">2023</span><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52023XC0331%2801%29">Amendments to the Article 102 Guidance</a><small>Updated enforcement priorities.</small></div>
-<div class="guide-doc"><span class="pill uk">UK</span><span class="pill legacy">legacy</span><a href="https://www.gov.uk/government/publications/assessment-of-market-power">Assessment of market power — OFT415</a><small>Adopted by the CMA; original 2004 text.</small></div>
-<div class="guide-doc"><span class="pill uk">UK</span><span class="pill legacy">legacy</span><a href="https://www.gov.uk/government/publications/abuse-of-a-dominant-position">Abuse of a dominant position — OFT402</a><small>Adopted by the CMA; original 2004 text.</small></div>
-</article>
+::: {.guide-doc}
+[EU]{.pill .eu} [2024]{.pill .current} [Market Definition Notice](https://eur-lex.europa.eu/eli/C/2024/1645/oj/eng)
 
-<article class="guide-card"><h3>Horizontal agreements</h3>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill current">2023</span><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52023XC0721%2801%29">Horizontal Cooperation Guidelines</a><small>2023/C 259/01; replace the 2011 guidelines.</small></div>
-<div class="guide-doc"><span class="pill uk">UK</span><span class="pill current">2023</span><a href="https://www.gov.uk/government/publications/guidance-on-horizontal-agreements">Horizontal agreements — CMA184</a><small>Current CMA guidance.</small></div>
-<div class="guide-doc"><span class="pill us">US</span><span class="pill draft">status</span><a href="https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-department-justice-seek-public-comment-guidance-business-collaborations">Competitor-collaboration guidance under review</a><small>The 2000 Collaboration Guidelines were withdrawn; replacement guidance was under development in 2026.</small></div>
-</article>
+[Commission Notice C/2024/1645; replaces the 1997 notice.]{.guide-note}
+:::
 
-<article class="guide-card"><h3>Vertical restraints</h3>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill current">2022</span><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52022XC0630%2801%29">Guidelines on Vertical Restraints</a><small>2022/C 248/01.</small></div>
-<div class="guide-doc"><span class="pill uk">UK</span><span class="pill current">2022</span><a href="https://www.gov.uk/government/publications/vabeo-guidance">VABEO guidance</a><small>Current CMA guidance on vertical agreements.</small></div>
-</article>
+::: {.guide-doc}
+[UK]{.pill .uk} [legacy]{.pill .legacy} [Market definition — OFT403](https://www.gov.uk/government/publications/market-definition)
 
-<article class="guide-card wide"><h3>Mergers</h3>
-<div class="card-grid two">
-<div>
-<div class="guide-doc"><span class="pill us">US</span><span class="pill current">2023</span><a href="https://www.ftc.gov/system/files/ftc_gov/pdf/P234000-NEW-MERGER-GUIDELINES.pdf">DOJ/FTC Merger Guidelines</a><small>Final 2023 text.</small></div>
-<div class="guide-doc"><span class="pill uk">UK</span><span class="pill current">current</span><a href="https://www.gov.uk/government/publications/merger-assessment-guidelines">Merger Assessment Guidelines — CMA129</a><small>Current substantive guidance; page updated in 2026.</small></div>
-</div>
-<div>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill current">2004</span><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52004XC0205%2802%29">Horizontal Merger Guidelines</a><small>Current text while the review continues.</small></div>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill current">2008</span><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52008XC1018%2803%29">Non-Horizontal Merger Guidelines</a><small>Current text while the review continues.</small></div>
-<div class="guide-doc"><span class="pill eu">EU</span><span class="pill draft">2026 draft</span><a href="https://competition-policy.ec.europa.eu/mergers/review-merger-guidelines_en">Draft revised Merger Guidelines</a><small>Consultation draft; not presented as the current rule.</small></div>
-</div>
-</div>
-</article>
-</div>
+[Adopted by the CMA, but the 2004 text remains unamended.]{.guide-note}
+:::
 
-<div class="teaching-note"><strong>Status note.</strong> I do not force a U.S. document into every topic when there is no general current guideline. Historical documents remain useful, but are labelled as legacy rather than presented as current guidance.</div>
-</section>
+:::
 
-<section id="archive" class="list-section">
+::: {.guide-card}
+### Market power and dominance
+
+::: {.guide-doc}
+[EU]{.pill .eu} [current]{.pill .current} [Article 102 enforcement priorities](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52009XC0224%2801%29)
+
+[2009 Guidance, read together with the 2023 amendments.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[EU]{.pill .eu} [2023]{.pill .current} [Amendments to the Article 102 Guidance](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52023XC0331%2801%29)
+
+[Updated enforcement priorities.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[UK]{.pill .uk} [legacy]{.pill .legacy} [Assessment of market power — OFT415](https://www.gov.uk/government/publications/assessment-of-market-power)
+
+[Adopted by the CMA; original 2004 text.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[UK]{.pill .uk} [legacy]{.pill .legacy} [Abuse of a dominant position — OFT402](https://www.gov.uk/government/publications/abuse-of-a-dominant-position)
+
+[Adopted by the CMA; original 2004 text.]{.guide-note}
+:::
+
+:::
+
+::: {.guide-card}
+### Horizontal agreements
+
+::: {.guide-doc}
+[EU]{.pill .eu} [2023]{.pill .current} [Horizontal Cooperation Guidelines](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52023XC0721%2801%29)
+
+[2023/C 259/01; replace the 2011 guidelines.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[UK]{.pill .uk} [2023]{.pill .current} [Horizontal agreements — CMA184](https://www.gov.uk/government/publications/guidance-on-horizontal-agreements)
+
+[Current CMA guidance.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[US]{.pill .us} [status]{.pill .draft} [Competitor-collaboration guidance under review](https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-department-justice-seek-public-comment-guidance-business-collaborations)
+
+[The 2000 Collaboration Guidelines were withdrawn; replacement guidance was under development in 2026.]{.guide-note}
+:::
+
+:::
+
+::: {.guide-card}
+### Vertical restraints
+
+::: {.guide-doc}
+[EU]{.pill .eu} [2022]{.pill .current} [Guidelines on Vertical Restraints](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52022XC0630%2801%29)
+
+[2022/C 248/01.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[UK]{.pill .uk} [2022]{.pill .current} [VABEO guidance](https://www.gov.uk/government/publications/vabeo-guidance)
+
+[Current CMA guidance on vertical agreements.]{.guide-note}
+:::
+
+:::
+
+::: {.guide-card .wide}
+### Mergers
+
+::: {.card-grid .two}
+::: {.guide-column}
+::: {.guide-doc}
+[US]{.pill .us} [2023]{.pill .current} [DOJ/FTC Merger Guidelines](https://www.ftc.gov/system/files/ftc_gov/pdf/P234000-NEW-MERGER-GUIDELINES.pdf)
+
+[Final 2023 text.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[UK]{.pill .uk} [current]{.pill .current} [Merger Assessment Guidelines — CMA129](https://www.gov.uk/government/publications/merger-assessment-guidelines)
+
+[Current substantive guidance; page updated in 2026.]{.guide-note}
+:::
+
+:::
+
+::: {.guide-column}
+::: {.guide-doc}
+[EU]{.pill .eu} [2004]{.pill .current} [Horizontal Merger Guidelines](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52004XC0205%2802%29)
+
+[Current text while the review continues.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[EU]{.pill .eu} [2008]{.pill .current} [Non-Horizontal Merger Guidelines](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52008XC1018%2803%29)
+
+[Current text while the review continues.]{.guide-note}
+:::
+
+::: {.guide-doc}
+[EU]{.pill .eu} [2026 draft]{.pill .draft} [Draft revised Merger Guidelines](https://competition-policy.ec.europa.eu/mergers/review-merger-guidelines_en)
+
+[Consultation draft; not presented as the current rule.]{.guide-note}
+:::
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.teaching-note}
+**Status note.** I do not force a U.S. document into every topic when there is no general current guideline. Historical documents remain useful, but are labelled as legacy rather than presented as current guidance.
+:::
+:::
+
+::: {#archive .list-section .soft-section}
 ## Previous courses and archive
 
-<p>Earlier materials remain available, but are visually separated from the courses currently taught.</p>
+Earlier materials remain available, but are visually separated from the courses currently taught.
 
 <div class="archive-grid">
-<details><summary>Industrial Organization — undergraduate</summary><div class="archive-body"><p>More recent undergraduate version: markets, strategic behavior, oligopoly, concentration, barriers, regulation, and competition policy.</p><ul>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/1-mercados.pdf">Mercados</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/2-comportamiento_estrategico.pdf">Comportamiento estratégico</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/3-oligopolio.pdf">Oligopolio</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/4-concentracion.pdf">Concentración</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/5-barreras.pdf">Barreras</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/6-regulacion.pdf">Regulación</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/7-regulacion-monopolios.pdf">Regulación de monopolios</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/8-regulacion_competencia.pdf">Regulación y competencia</a></li>
-<li><a href="files/teaching/previous/organizacion-industrial-grado/9-defensa_competencia.pdf">Defensa de la competencia</a></li>
-</ul></div></details>
+<details>
+<summary>Industrial Organization — undergraduate</summary>
+<div class="archive-body" markdown="1">
 
-<details><summary>Industrial Organization — FCEA, earlier version</summary><div class="archive-body"><p>Presentations from the earlier course at FCEA, UdelaR.</p><ul>
-<li><a href="files/teaching/oi-fcea/0-TeoJuegos.pdf">Teoría de juegos</a></li><li><a href="files/teaching/oi-fcea/1-Introduccion.pdf">Introducción</a></li><li><a href="files/teaching/oi-fcea/2-CP.pdf">Competencia perfecta</a></li><li><a href="files/teaching/oi-fcea/3-Monopolio.pdf">Monopolio</a></li><li><a href="files/teaching/oi-fcea/4-Discriminacion.pdf">Discriminación de precios</a></li><li><a href="files/teaching/oi-fcea/5-Oligopolio.pdf">Oligopolio: bienes homogéneos</a></li><li><a href="files/teaching/oi-fcea/6-Colusion.pdf">Colusión</a></li><li><a href="files/teaching/oi-fcea/7-Estructura.pdf">Estructura de mercado</a></li><li><a href="files/teaching/oi-fcea/8-Fusiones.pdf">Fusiones horizontales</a></li><li><a href="files/teaching/oi-fcea/9-Cierre.pdf">Cierre de mercado</a></li><li><a href="files/teaching/oi-fcea/10-Restriciones.verticales.pdf">Restricciones verticales</a></li><li><a href="files/teaching/oi-fcea/11-BsDiferenciados.pdf">Bienes diferenciados</a></li><li><a href="files/teaching/oi-fcea/CursoOI.2012.pdf">Notas del curso (2012)</a></li>
-</ul></div></details>
+More recent undergraduate version: markets, strategic behavior, oligopoly, concentration, barriers, regulation, and competition policy.
 
-<details><summary>Competition Policy I — 2008 and 2015</summary><div class="archive-body"><p>Curso de 2008 dirigido principalmente a abogados, basado en Motta (2004), artículos y documentos oficiales. Una segunda versión fue dictada en 2015 para funcionarios de la Comisión de Promoción y Defensa de la Competencia de Uruguay.</p><p><strong>2008</strong></p><ul><li><a href="files/teaching/intro-competencia/clase-1-conceptos-econc3b3micos.pdf">Conceptos económicos</a></li><li><a href="files/teaching/intro-competencia/clase-2-objetivos-de-la-dc.pdf">Objetivos de la defensa de la competencia</a></li><li><a href="files/teaching/intro-competencia/clase-3-mercado-relevante-y-poder-de-mercado.pdf">Mercado relevante y poder de mercado</a></li><li><a href="files/teaching/intro-competencia/clase-4-abuso-de-posicion-domin.pdf">Abuso de posición dominante</a></li><li><a href="files/teaching/intro-competencia/clase-5-acuerdos-horizontales.pdf">Restricciones horizontales</a></li><li><a href="files/teaching/intro-competencia/clase-6-restricciones-horizontales.pdf">Restricciones verticales</a></li></ul><p><strong>2015</strong></p><ul><li><a href="files/teaching/intro-competencia/1-conceptos.pdf">Conceptos económicos</a></li><li><a href="files/teaching/intro-competencia/2-mercado.pdf">Mercado relevante</a></li><li><a href="files/teaching/intro-competencia/3-posdominante.pdf">Posición dominante</a></li><li><a href="files/teaching/intro-competencia/4-colusion.pdf">Colusión</a></li><li><a href="files/teaching/intro-competencia/5-verticales.pdf">Restricciones verticales</a></li></ul></div></details>
+- [Mercados](files/teaching/previous/organizacion-industrial-grado/1-mercados.pdf)
+- [Comportamiento estratégico](files/teaching/previous/organizacion-industrial-grado/2-comportamiento_estrategico.pdf)
+- [Oligopolio](files/teaching/previous/organizacion-industrial-grado/3-oligopolio.pdf)
+- [Concentración](files/teaching/previous/organizacion-industrial-grado/4-concentracion.pdf)
+- [Barreras](files/teaching/previous/organizacion-industrial-grado/5-barreras.pdf)
+- [Regulación](files/teaching/previous/organizacion-industrial-grado/6-regulacion.pdf)
+- [Regulación de monopolios](files/teaching/previous/organizacion-industrial-grado/7-regulacion-monopolios.pdf)
+- [Regulación y competencia](files/teaching/previous/organizacion-industrial-grado/8-regulacion_competencia.pdf)
+- [Defensa de la competencia](files/teaching/previous/organizacion-industrial-grado/9-defensa_competencia.pdf)
 
-<details><summary>Competition Policy II — graduate</summary><div class="archive-body"><p>Material de un curso de Maestría en Defensa de la Competencia.</p><ul><li><a href="files/teaching/competencia-avanzado/clase_1_-_mercado_relevante2.pdf">Mercado relevante y poder de mercado</a></li><li><a href="files/teaching/competencia-avanzado/clase_2_-_estrategicos2.pdf">Abuso de posición dominante</a></li><li><a href="files/teaching/competencia-avanzado/clase_3_-_colusion1.pdf">Colusión</a></li><li><a href="files/teaching/competencia-avanzado/clase_4_-_verticales2.pdf">Restricciones verticales</a></li><li><a href="files/teaching/competencia-avanzado/clase_5_-_fusiones1.pdf">Fusiones</a></li></ul></div></details>
-
-<details><summary>Game Theory</summary><div class="archive-body"><p>Presentaciones de juegos bayesianos para el curso de Teoría de Juegos en FCS, UdelaR.</p><ul><li><a href="files/teaching/juegos/Juegos_bayesianos.pdf">Juegos bayesianos estáticos</a></li><li><a href="files/teaching/juegos/Juegos_bayesianos_dinamicos.pdf">Juegos bayesianos dinámicos</a></li></ul></div></details>
-
-<details><summary>Games and Contracts</summary><div class="archive-body"><p>Presentaciones del curso de Micro III (Teoría de Juegos y Contratos), FCEA – UdelaR.</p><ul><li><a href="files/teaching/microiii/1.1-Repaso_Juegos_Normal.pdf">Repaso: juegos en forma normal</a></li><li><a href="files/teaching/microiii/1.2-Repaso_Juegos_extensivos.pdf">Repaso: juegos en forma extensiva</a></li><li><a href="files/teaching/microiii/3-juegos_bayesianos.pdf">Juegos bayesianos</a></li><li><a href="files/teaching/microiii/6.1-Contratos_presentacion.pdf">Contratos: introducción</a></li><li><a href="files/teaching/microiii/6.2-Contratos_Seleccion_Adversa.pdf">Selección adversa</a></li><li><a href="files/teaching/microiii/6.3-Contratos_Riesgo_Moral.pdf">Riesgo moral</a></li></ul></div></details>
-
-<details><summary>Microeconomics — earlier version</summary><div class="archive-body"><p>Material del curso de Microeconomía de la Maestría en Economía, FCS – UdelaR, basado en Mas-Colell, Whinston y Green.</p><ul><li><a href="files/teaching/Micro/Cap5.Produccion.pdf">Producción</a></li><li><a href="files/teaching/Micro/Cap10.Mercados_competitivos.pdf">Equilibrio parcial</a></li><li><a href="files/teaching/Micro/Cap15.Equilibrio_general.pdf">Equilibrio general</a></li></ul></div></details>
-
-<details><summary>Economic Institutions</summary><div class="archive-body"><p>Presentaciones del curso de Teoría de las Instituciones dictado junto a Mario Bergara en la Maestría en Economía, FCS – UdelaR.</p><ul><li><a href="files/teaching/instituciones/1.Limite_empresas.pdf">Límite de las empresas</a></li><li><a href="files/teaching/instituciones/2.Limite_gobiernos.pdf">Límite de los gobiernos</a></li><li><a href="files/teaching/instituciones/3.Crecimiento.pdf">Crecimiento</a></li><li><a href="files/teaching/instituciones/4.Cultura.pdf">Cultura</a></li></ul></div></details>
-
-<details><summary>Economic Regulation — earlier materials</summary><div class="archive-body"><p>Materiales anteriores de regulación económica, incluyendo presentaciones dictadas junto a Mario Bergara en la Maestría en Economía Internacional.</p><ul><li><a href="files/teaching/regulacion/Clase_1_Practica_Regulatoria.pdf">Práctica regulatoria</a></li><li><a href="files/teaching/regulacion/Clase_2_EEPP.pdf">Empresas públicas</a></li><li><a href="files/teaching/regulacion2/clase2.pdf">Monopolio natural</a></li><li><a href="files/teaching/regulacion2/clase31.pdf">Instituciones regulatorias</a></li><li><a href="files/teaching/regulacion2/clase41.pdf">Instrumentos regulatorios: información completa</a></li><li><a href="files/teaching/regulacion2/clase51.pdf">Instrumentos regulatorios: información asimétrica</a></li></ul><div class="card-links"><a href="libro-regulacion/">Regulation book →</a></div></div></details>
 </div>
-</section>
+</details>
+
+<details>
+<summary>Industrial Organization — FCEA, earlier version</summary>
+<div class="archive-body" markdown="1">
+
+Presentations from the earlier course at FCEA, UdelaR.
+
+- [Teoría de juegos](files/teaching/oi-fcea/0-TeoJuegos.pdf)
+- [Introducción](files/teaching/oi-fcea/1-Introduccion.pdf)
+- [Competencia perfecta](files/teaching/oi-fcea/2-CP.pdf)
+- [Monopolio](files/teaching/oi-fcea/3-Monopolio.pdf)
+- [Discriminación de precios](files/teaching/oi-fcea/4-Discriminacion.pdf)
+- [Oligopolio: bienes homogéneos](files/teaching/oi-fcea/5-Oligopolio.pdf)
+- [Colusión](files/teaching/oi-fcea/6-Colusion.pdf)
+- [Estructura de mercado](files/teaching/oi-fcea/7-Estructura.pdf)
+- [Fusiones horizontales](files/teaching/oi-fcea/8-Fusiones.pdf)
+- [Cierre de mercado](files/teaching/oi-fcea/9-Cierre.pdf)
+- [Restricciones verticales](files/teaching/oi-fcea/10-Restriciones.verticales.pdf)
+- [Bienes diferenciados](files/teaching/oi-fcea/11-BsDiferenciados.pdf)
+- [Notas del curso (2012)](files/teaching/oi-fcea/CursoOI.2012.pdf)
+
 </div>
+</details>
+
+<details>
+<summary>Competition Policy I — 2008 and 2015</summary>
+<div class="archive-body" markdown="1">
+
+Curso de 2008 dirigido principalmente a abogados, basado en Motta (2004), artículos y documentos oficiales. Una segunda versión fue dictada en 2015 para funcionarios de la Comisión de Promoción y Defensa de la Competencia de Uruguay.
+
+**2008**
+
+- [Conceptos económicos](files/teaching/intro-competencia/clase-1-conceptos-econc3b3micos.pdf)
+- [Objetivos de la defensa de la competencia](files/teaching/intro-competencia/clase-2-objetivos-de-la-dc.pdf)
+- [Mercado relevante y poder de mercado](files/teaching/intro-competencia/clase-3-mercado-relevante-y-poder-de-mercado.pdf)
+- [Abuso de posición dominante](files/teaching/intro-competencia/clase-4-abuso-de-posicion-domin.pdf)
+- [Restricciones horizontales](files/teaching/intro-competencia/clase-5-acuerdos-horizontales.pdf)
+- [Restricciones verticales](files/teaching/intro-competencia/clase-6-restricciones-horizontales.pdf)
+
+**2015**
+
+- [Conceptos económicos](files/teaching/intro-competencia/1-conceptos.pdf)
+- [Mercado relevante](files/teaching/intro-competencia/2-mercado.pdf)
+- [Posición dominante](files/teaching/intro-competencia/3-posdominante.pdf)
+- [Colusión](files/teaching/intro-competencia/4-colusion.pdf)
+- [Restricciones verticales](files/teaching/intro-competencia/5-verticales.pdf)
+
+</div>
+</details>
+
+<details>
+<summary>Competition Policy II — graduate</summary>
+<div class="archive-body" markdown="1">
+
+Material de un curso de Maestría en Defensa de la Competencia.
+
+- [Mercado relevante y poder de mercado](files/teaching/competencia-avanzado/clase_1_-_mercado_relevante2.pdf)
+- [Abuso de posición dominante](files/teaching/competencia-avanzado/clase_2_-_estrategicos2.pdf)
+- [Colusión](files/teaching/competencia-avanzado/clase_3_-_colusion1.pdf)
+- [Restricciones verticales](files/teaching/competencia-avanzado/clase_4_-_verticales2.pdf)
+- [Fusiones](files/teaching/competencia-avanzado/clase_5_-_fusiones1.pdf)
+
+</div>
+</details>
+
+<details>
+<summary>Game Theory</summary>
+<div class="archive-body" markdown="1">
+
+Presentaciones de juegos bayesianos para el curso de Teoría de Juegos en FCS, UdelaR.
+
+- [Juegos bayesianos estáticos](files/teaching/juegos/Juegos_bayesianos.pdf)
+- [Juegos bayesianos dinámicos](files/teaching/juegos/Juegos_bayesianos_dinamicos.pdf)
+
+</div>
+</details>
+
+<details>
+<summary>Games and Contracts</summary>
+<div class="archive-body" markdown="1">
+
+Presentaciones del curso de Micro III (Teoría de Juegos y Contratos), FCEA – UdelaR.
+
+- [Repaso: juegos en forma normal](files/teaching/microiii/1.1-Repaso_Juegos_Normal.pdf)
+- [Repaso: juegos en forma extensiva](files/teaching/microiii/1.2-Repaso_Juegos_extensivos.pdf)
+- [Juegos bayesianos](files/teaching/microiii/3-juegos_bayesianos.pdf)
+- [Contratos: introducción](files/teaching/microiii/6.1-Contratos_presentacion.pdf)
+- [Selección adversa](files/teaching/microiii/6.2-Contratos_Seleccion_Adversa.pdf)
+- [Riesgo moral](files/teaching/microiii/6.3-Contratos_Riesgo_Moral.pdf)
+
+</div>
+</details>
+
+<details>
+<summary>Microeconomics — earlier version</summary>
+<div class="archive-body" markdown="1">
+
+Material del curso de Microeconomía de la Maestría en Economía, FCS – UdelaR, basado en Mas-Colell, Whinston y Green.
+
+- [Producción](files/teaching/Micro/Cap5.Produccion.pdf)
+- [Equilibrio parcial](files/teaching/Micro/Cap10.Mercados_competitivos.pdf)
+- [Equilibrio general](files/teaching/Micro/Cap15.Equilibrio_general.pdf)
+
+</div>
+</details>
+
+<details>
+<summary>Economic Institutions</summary>
+<div class="archive-body" markdown="1">
+
+Presentaciones del curso de Teoría de las Instituciones dictado junto a Mario Bergara en la Maestría en Economía, FCS – UdelaR.
+
+- [Límite de las empresas](files/teaching/instituciones/1.Limite_empresas.pdf)
+- [Límite de los gobiernos](files/teaching/instituciones/2.Limite_gobiernos.pdf)
+- [Crecimiento](files/teaching/instituciones/3.Crecimiento.pdf)
+- [Cultura](files/teaching/instituciones/4.Cultura.pdf)
+
+</div>
+</details>
+
+<details>
+<summary>Economic Regulation — earlier materials</summary>
+<div class="archive-body" markdown="1">
+
+Materiales anteriores de regulación económica, incluyendo presentaciones dictadas junto a Mario Bergara en la Maestría en Economía Internacional.
+
+- [Práctica regulatoria](files/teaching/regulacion/Clase_1_Practica_Regulatoria.pdf)
+- [Empresas públicas](files/teaching/regulacion/Clase_2_EEPP.pdf)
+- [Monopolio natural](files/teaching/regulacion2/clase2.pdf)
+- [Instituciones regulatorias](files/teaching/regulacion2/clase31.pdf)
+- [Instrumentos regulatorios: información completa](files/teaching/regulacion2/clase41.pdf)
+- [Instrumentos regulatorios: información asimétrica](files/teaching/regulacion2/clase51.pdf)
+
+[Regulation book →](libro-regulacion/)
+
+</div>
+</details>
+
+</div>
+
+:::
+:::

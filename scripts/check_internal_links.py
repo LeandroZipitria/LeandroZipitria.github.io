@@ -20,7 +20,7 @@ for src in sources:
         continue
     text=src.read_text(encoding='utf-8')
     for raw in pattern.findall(text):
-        target=unquote(raw.strip())
+        target=unquote(raw.strip().strip('<>'))
         if not target or target.startswith(('http://','https://','mailto:','tel:','javascript:')):
             continue
         if target.startswith('#'):
