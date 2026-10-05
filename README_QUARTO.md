@@ -32,3 +32,9 @@ python scripts/check_internal_links.py --root .
 ```
 
 `--include-files` should only be used after this overlay has been merged into the real repository, where the complete legacy `files/` tree exists.
+
+## Maintaining the site
+
+The main `.qmd` files have been refactored so that routine content edits can be made in readable Quarto/Markdown rather than compressed raw HTML. See `HOW_TO_UPDATE_SITE.md` for concrete examples of updating papers, PDFs, and teaching materials.
+
+`texflow.qmd` intentionally keeps its custom HTML structure because it is a product-style landing page with a bespoke layout.

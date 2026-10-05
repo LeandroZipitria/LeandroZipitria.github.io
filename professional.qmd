@@ -5,25 +5,87 @@ page-layout: full
 toc: false
 ---
 
-<div class="page-hero"><div class="eyebrow">Professional</div><h1>Competition, regulation, and market analysis.</h1><p class="lead">More than twenty years of applied work in competition policy, economic regulation, pricing, regulatory impact assessment, and empirical market analysis.</p><div class="hero-actions"><a class="btn-site btn-primary-site" href="files/lista_consultorias.pdf">Professional disclosure →</a><a class="btn-site btn-secondary-site" href="contact.html">Contact</a></div></div>
+::: {.page-hero}
+::: {.eyebrow}
+Professional
+:::
 
-<div class="page-content">
-<div class="card-grid two">
-  <article class="info-card"><span class="card-index">01</span><h3>Competition &amp; antitrust</h3><p>Market definition, market power, mergers, restrictive practices, and economic analysis of business conduct.</p></article>
-  <article class="info-card"><span class="card-index">02</span><h3>Economic regulation</h3><p>Regulatory design, public services, public enterprises, pricing, and regulatory impact assessment.</p></article>
-  <article class="info-card"><span class="card-index">03</span><h3>Markets &amp; pricing</h3><p>Demand, retail markets, pricing strategy, market structure, and applied industrial organization.</p></article>
-  <article class="info-card"><span class="card-index">04</span><h3>Empirical analysis</h3><p>Econometric analysis of large datasets for policy evaluation, competition analysis, and market studies.</p></article>
-</div>
+# Competition, regulation, and market analysis.
 
-<section class="section" style="padding-bottom:30px">
-<div class="section-head"><div><div class="section-kicker">Experience</div><h2>Institutional and consulting work</h2></div><p>Work with international organizations, the public sector, and private clients.</p></div>
-<div class="card-grid two">
-  <article class="info-card"><h3>International organizations</h3><p>Senior consultant and project lead for the World Bank, IDB, CAF, ECLAC, PAHO, and UNDP.</p></article>
-  <article class="info-card"><h3>Private-sector consulting</h3><p>Market definition, mergers and conduct, regulation, demand and pricing analysis, and regulatory impact assessment.</p></article>
-</div>
-</section>
+::: {.lead}
+More than twenty years of applied work in competition policy, economic regulation, pricing, regulatory impact assessment, and empirical market analysis.
+:::
 
-<section class="list-section">
+::: {.hero-actions}
+[Professional disclosure →](files/lista_consultorias.pdf){.btn-site .btn-primary-site}
+[Contact](contact.html){.btn-site .btn-secondary-site}
+:::
+:::
+
+::: {.page-content}
+::: {.card-grid .two}
+::: {.info-card}
+[01]{.card-index}
+
+### Competition & antitrust
+
+Market definition, market power, mergers, restrictive practices, and economic analysis of business conduct.
+:::
+
+::: {.info-card}
+[02]{.card-index}
+
+### Economic regulation
+
+Regulatory design, public services, public enterprises, pricing, and regulatory impact assessment.
+:::
+
+::: {.info-card}
+[03]{.card-index}
+
+### Markets & pricing
+
+Demand, retail markets, pricing strategy, market structure, and applied industrial organization.
+:::
+
+::: {.info-card}
+[04]{.card-index}
+
+### Empirical analysis
+
+Econometric analysis of large datasets for policy evaluation, competition analysis, and market studies.
+:::
+:::
+
+::: {.section .compact-section}
+::: {.section-head}
+::: {.section-heading}
+::: {.section-kicker}
+Experience
+:::
+
+## Institutional and consulting work
+:::
+
+Work with international organizations, the public sector, and private clients.
+:::
+
+::: {.card-grid .two}
+::: {.info-card}
+### International organizations
+
+Senior consultant and project lead for the World Bank, IDB, CAF, ECLAC, PAHO, and UNDP.
+:::
+
+::: {.info-card}
+### Private-sector consulting
+
+Market definition, mergers and conduct, regulation, demand and pricing analysis, and regulatory impact assessment.
+:::
+:::
+:::
+
+::: {.list-section .soft-section}
 ## Public-sector experience
 
 - Ministry of Economy and Finance — IADB Project Manager, 2010–2013.
@@ -31,7 +93,16 @@ toc: false
 - Ministry of Economy and Finance — Chief Antitrust Economist, 2003–2009.
 - Ministry of Economy and Finance, Dirección General de Comercio — economic analysis, 2003–2010.
 - Office of Budget and Planning — regulatory impact analysis and pricing of public services, 2001–2003.
-</section>
+:::
 
-<div class="callout-band" style="margin-top:48px"><h2>Academic work and policy analysis reinforce each other.</h2><p>My research fields are industrial organization and applied microeconomics; my applied work concentrates on competition, regulation, and markets.</p><div class="button-row"><a class="btn-site" style="background:white;color:#08243f;border-color:white" href="research.html">Research →</a><a class="btn-site" style="color:white;border-color:rgba(255,255,255,.4)" href="teaching.html">Teaching →</a></div></div>
-</div>
+::: {.callout-band .callout-spaced}
+## Academic work and policy analysis reinforce each other.
+
+My research fields are industrial organization and applied microeconomics; my applied work concentrates on competition, regulation, and markets.
+
+::: {.button-row}
+[Research →](research.html){.btn-site .callout-primary}
+[Teaching →](teaching.html){.btn-site .callout-secondary}
+:::
+:::
+:::

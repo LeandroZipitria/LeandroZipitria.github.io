@@ -5,88 +5,436 @@ page-layout: full
 toc: false
 ---
 
-<div class="page-hero"><div class="eyebrow">Research</div><h1>Industrial organization and applied microeconomics.</h1><p class="lead">Research interests: retail pricing, price dispersion, regulation, and competition policy.</p><div class="hero-actions"><a class="btn-site btn-primary-site" href="https://scholar.google.com/citations?user=UVdbgDwAAAAJ">Google Scholar →</a><a class="btn-site btn-secondary-site" href="https://ideas.repec.org/e/pzi74.html">RePEc</a><a class="btn-site btn-secondary-site" href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1038707">SSRN</a><a class="btn-site btn-secondary-site" href="https://github.com/LeandroZipitria">GitHub</a></div><div class="anchor-row"><a href="#selected">Selected research</a><a href="#selected-book">Selected book</a><a href="#published">Published papers</a><a href="#current-projects">Current projects</a><a href="#working-papers">Working papers</a><a href="#non-technical">Policy work</a><a href="#books">Books</a></div></div>
+::::::: page-hero
+::: eyebrow
+Research
+:::
 
-<div class="page-content">
-<section id="selected" class="list-section no-rule-top">
+# Industrial organization and applied microeconomics.
+
+::: lead
+Research interests: retail pricing, price dispersion, regulation, and competition policy.
+:::
+
+::: hero-actions
+[Google Scholar →](https://scholar.google.com/citations?user=UVdbgDwAAAAJ){.btn-site .btn-primary-site} [RePEc](https://ideas.repec.org/e/pzi74.html){.btn-site .btn-secondary-site} [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1038707){.btn-site .btn-secondary-site} [GitHub](https://github.com/LeandroZipitria){.btn-site .btn-secondary-site}
+:::
+
+::: anchor-row
+[Selected research](#selected)\
+[Selected book](#selected-book)\
+[Published papers](#published)\
+[Current projects](#current-projects)\
+[Working papers](#working-papers)\
+[Policy work](#non-technical)\
+[Books](#books)
+:::
+:::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: page-content
+::::::::::::: {#selected .list-section .no-rule-top}
 ## Selected research
 
-<div class="card-grid research-feature-grid">
-<article class="paper-card"><div class="card-label">Journal of Industry, Competition and Trade · 2026</div><h3 class="paper-title">The Border Effect on Prices: The Role of Local Product Availability</h3><p>Fernando Borraz and Leandro Zipitría.</p><div class="card-links"><a href="https://link.springer.com/article/10.1007/s10842-026-00466-z">Published article →</a><a href="files/Disentangling_Border_2026.pdf">Working paper</a></div></article>
-<article class="paper-card featured-clean"><div class="card-label">AEJ: Economic Policy · 2024</div><h3 class="paper-title">Local Retail Prices, Product Varieties and Neighborhood Change</h3><p>Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillón, and Leandro Zipitría.</p><div class="card-links"><a href="https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f">Published article →</a><a href="files/Borraz_AEJP_2021_R1.pdf">Working paper</a></div></article>
-<article class="paper-card"><div class="card-label">International Economics · 2022</div><h3 class="paper-title">Varieties as a Source of Law of One Price Deviation</h3><p>Fernando Borraz and Leandro Zipitría.</p><div class="card-links"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543">Published article →</a><a href="files/LOP Version 2021_12_11.pdf">Working paper</a></div></article>
-</div>
-</section>
+:::::::::::: {.card-grid .research-feature-grid}
+::::: paper-card
+::: card-label
+Journal of Industry, Competition and Trade · 2026
+:::
 
-<section id="selected-book" class="list-section">
+### The Border Effect on Prices: The Role of Local Product Availability {.paper-title}
+
+Fernando Borraz and Leandro Zipitría.
+
+::: card-links
+[Published article →](https://link.springer.com/article/10.1007/s10842-026-00466-z) [Working paper](files/Disentangling_Border_2026.pdf)
+:::
+:::::
+
+::::: {.paper-card .featured-clean}
+::: card-label
+AEJ: Economic Policy · 2024
+:::
+
+### Local Retail Prices, Product Varieties and Neighborhood Change {.paper-title}
+
+Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillón, and Leandro Zipitría.
+
+::: card-links
+[Published article →](https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f) [Working paper](files/Borraz_AEJP_2021_R1.pdf)
+:::
+:::::
+
+::::: paper-card
+::: card-label
+International Economics · 2022
+:::
+
+### Varieties as a Source of Law of One Price Deviation {.paper-title}
+
+Fernando Borraz and Leandro Zipitría.
+
+::: card-links
+[Published article →](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543) [Working paper](files/LOP%20Version%202021_12_11.pdf)
+:::
+:::::
+::::::::::::
+:::::::::::::
+
+:::::: {#selected-book .list-section .soft-section}
 ## Selected book
 
-<article class="book-feature-card">
-<div class="card-label">Economic regulation · 2016</div>
-<h3>Regulación económica para economías en desarrollo</h3>
-<p>Rosario Domingo, Jorge Ponce, and Leandro Zipitría. Universidad de la República.</p>
-<div class="card-links"><a href="libro-regulacion/">Web edition →</a><a href="libro-regulacion/Regulacion.pdf">PDF</a><a href="https://github.com/LeandroZipitria/libro-regulacion">GitHub</a></div>
-</article>
-</section>
+::::: book-feature-card
+::: card-label
+Economic regulation · 2016
+:::
 
-<section id="published" class="list-section">
+### Regulación económica para economías en desarrollo
+
+Rosario Domingo, Jorge Ponce, and Leandro Zipitría. Universidad de la República.
+
+::: card-links
+[Web edition →](libro-regulacion/) [PDF](libro-regulacion/Regulacion.pdf) [GitHub](https://github.com/LeandroZipitria/libro-regulacion)
+:::
+:::::
+::::::
+
+:::::::::::::::::::::::::::::::::: {#published .list-section}
 ## Published papers
-<div class="research-list">
-<article class="research-entry"><div class="research-year">2026</div><div><strong>Borraz, Fernando and Leandro Zipitría.</strong> <a href="https://link.springer.com/article/10.1007/s10842-026-00466-z">The Border Effect on Prices: The Role of Local Product Availability</a>. <em>Journal of Industry, Competition and Trade</em>, 26. <a href="files/Disentangling_Border_2026.pdf">Working paper version</a>.</div></article>
-<article class="research-entry"><div class="research-year">2024</div><div><strong>Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillón, and Leandro Zipitría.</strong> <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f">Local Retail Prices, Product Varieties and Neighborhood Change</a>. <em>AEJ: Economic Policy</em>, 16(1): 1–33. <a href="files/Borraz_AEJP_2021_R1.pdf">Working paper version</a>.</div></article>
-<article class="research-entry"><div class="research-year">2022</div><div><strong>Borraz, Fernando and Leandro Zipitría.</strong> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543">Varieties as a Source of Law of One Price Deviation</a>. <em>International Economics</em>, 172: 1–14. <a href="files/LOP Version 2021_12_11.pdf">Working paper version</a>.</div></article>
-<article class="research-entry"><div class="research-year">2016</div><div><strong>Borraz, Fernando, Alberto Cavallo, Roberto Rigobon, and Leandro Zipitría.</strong> <a href="https://onlinelibrary.wiley.com/doi/10.1002/ijfe.1517">Distance and Political Boundaries: Estimating Border Effects under Inequality Constraints</a>. <em>International Journal of Finance and Economics</em>, 21(1): 3–35. <a href="files/2016.Borraz_Cavallo_Rigobon_Zipitria - Distance and political boundaries.pdf">Working paper version</a>.</div></article>
-<article class="research-entry"><div class="research-year">2014</div><div><strong>Borraz, Fernando, Juan Dubra, Daniel Ferrés, and Leandro Zipitría.</strong> <a href="https://link.springer.com/article/10.1007/s11151-013-9379-7">Supermarket Entry and the Survival of Small Stores</a>. <em>Review of Industrial Organization</em>, 44(1): 73–93. <a href="files/borrazdubraferreszipitria-4th-rr.pdf">Working paper version</a>.</div></article>
-<article class="research-entry"><div class="research-year">2012</div><div><strong>Borraz, Fernando and Leandro Zipitría.</strong> <a href="https://storage.googleapis.com/jnl-lse-j-elaceaj-files/journals/1/articles/141/63e9d285d9db3.pdf">Retail Price Setting in Uruguay</a>. <em>Economia Journal</em>, LACEA, 12(2): 77–104.</div></article>
-<article class="research-entry"><div class="research-year">2011</div><div><strong>Zipitría, Leandro.</strong> <a href="files/Zipitria2011.pdf">Impacto económico del supermercadismo</a>. <em>Revista de Ciencias Empresariales y Economía</em>, Edición X: 73–86.</div></article>
-<article class="research-entry"><div class="research-year">2011</div><div><strong>Bergara, Mario, Jorge Ponce, and Leandro Zipitría.</strong> <a href="files/SBC2011.pdf">Institutions and Soft Budget Constraints</a>. <em>International Review of Accounting, Banking and Finance</em>, 3(2): 41–66.</div></article>
-<article class="research-entry"><div class="research-year">2010</div><div><strong>Caffera, Marcelo, Lucila Arboleya and Leandro Zipitría.</strong> <a href="files/2010.Selfish.pdf">¿Estudiar economía te hace más egoísta?</a>. <em>Revista de Ciencias Empresariales y Economía</em>, Edición IX: 29–35.</div></article>
-<article class="research-entry"><div class="research-year">2010</div><div><strong>Zipitría, Leandro.</strong> <a href="files/2010.Cerveza.pdf">Una aplicación de test de precios al mercado de la cerveza en Uruguay</a>. <em>Revista de Economía</em>, 17(1): 149–168.</div></article>
-</div>
-</section>
 
-<section id="current-projects" class="list-section">
+::::::::::::::::::::::::::::::::: research-list
+::::: research-entry
+::: research-year
+2026
+:::
+
+::: research-copy
+**Borraz, Fernando and Leandro Zipitría.** [The Border Effect on Prices: The Role of Local Product Availability](https://link.springer.com/article/10.1007/s10842-026-00466-z). *Journal of Industry, Competition and Trade*, 26. [Working paper version](files/Disentangling_Border_2026.pdf).
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2024
+:::
+
+::: research-copy
+**Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillón, and Leandro Zipitría.** [Local Retail Prices, Product Varieties and Neighborhood Change](https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f). *AEJ: Economic Policy*, 16(1): 1–33. [Working paper version](files/Borraz_AEJP_2021_R1.pdf).
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2022
+:::
+
+::: research-copy
+**Borraz, Fernando and Leandro Zipitría.** [Varieties as a Source of Law of One Price Deviation](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543). *International Economics*, 172: 1–14. [Working paper version](files/LOP%20Version%202021_12_11.pdf).
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2016
+:::
+
+::: research-copy
+**Borraz, Fernando, Alberto Cavallo, Roberto Rigobon, and Leandro Zipitría.** [Distance and Political Boundaries: Estimating Border Effects under Inequality Constraints](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.1517). *International Journal of Finance and Economics*, 21(1): 3–35. [Working paper version](files/2016.Borraz_Cavallo_Rigobon_Zipitria%20-%20Distance%20and%20political%20boundaries.pdf).
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2014
+:::
+
+::: research-copy
+**Borraz, Fernando, Juan Dubra, Daniel Ferrés, and Leandro Zipitría.** [Supermarket Entry and the Survival of Small Stores](https://link.springer.com/article/10.1007/s11151-013-9379-7). *Review of Industrial Organization*, 44(1): 73–93. [Working paper version](files/borrazdubraferreszipitria-4th-rr.pdf).
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2012
+:::
+
+::: research-copy
+**Borraz, Fernando and Leandro Zipitría.** [Retail Price Setting in Uruguay](https://storage.googleapis.com/jnl-lse-j-elaceaj-files/journals/1/articles/141/63e9d285d9db3.pdf). *Economia Journal*, LACEA, 12(2): 77–104.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2011
+:::
+
+::: research-copy
+**Zipitría, Leandro.** [Impacto económico del supermercadismo](files/Zipitria2011.pdf). *Revista de Ciencias Empresariales y Economía*, Edición X: 73–86.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2011
+:::
+
+::: research-copy
+**Bergara, Mario, Jorge Ponce, and Leandro Zipitría.** [Institutions and Soft Budget Constraints](files/SBC2011.pdf). *International Review of Accounting, Banking and Finance*, 3(2): 41–66.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2010
+:::
+
+::: research-copy
+**Caffera, Marcelo, Lucila Arboleya and Leandro Zipitría.** [¿Estudiar economía te hace más egoísta?](files/2010.Selfish.pdf). *Revista de Ciencias Empresariales y Economía*, Edición IX: 29–35.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2010
+:::
+
+::: research-copy
+**Zipitría, Leandro.** [Una aplicación de test de precios al mercado de la cerveza en Uruguay](files/2010.Cerveza.pdf). *Revista de Economía*, 17(1): 149–168.
+:::
+:::::
+:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::: {#current-projects .list-section .soft-section}
 ## Current projects
-<div class="research-list">
-<article class="research-entry"><div class="research-year">2026</div><div><strong>Brum, Matías, Iael Klazcko, and Leandro Zipitría.</strong> <a href="files/Income and Retail Prices within a City.pdf">Income and Retail Prices within a City: Evidence on Product Composition and Market Segmentation</a>. Submitted. <a href="https://github.com/LeandroZipitria/income_prices">Code</a>.</div></article>
-<article class="research-entry"><div class="research-year">2026</div><div><strong>Borraz, Fernando and Leandro Zipitría.</strong> <a href="files/Chain Pricing and Long-Run Retail Price Divergence.pdf">Chain Pricing and Long-Run Retail Price Divergence</a>. Submitted. <a href="https://github.com/LeandroZipitria/Convergence">Code</a>.</div></article>
-<article class="research-entry"><div class="research-year">2026</div><div><strong>Acerenza, Santiago, Bruno Engel, Néstor Gandelman and Leandro Zipitría.</strong> <a href="files/Tax_Incidence_DiD.pdf">From Slaughterhouses to Consumers: Pass-Through of Uruguay’s VAT Cut on the Meat Market</a>.</div></article>
-<article class="research-entry"><div class="research-year">2026</div><div><strong>Acerenza, Santiago, Sebastián Fleitas, Néstor Gandelman and Leandro Zipitría.</strong> Heterogeneity in Consumer Climate Adaptation: Evidence from a Water Scarcity Crisis.</div></article>
-<article class="research-entry"><div class="research-year">2026</div><div><strong>Borraz, Fernando, Nicolás González-Pampillón and Leandro Zipitría.</strong> Police Presence and Retail Market Outcomes.</div></article>
-<article class="research-entry"><div class="research-year">2026</div><div><strong>Acerenza, Santiago, Fernando Borraz and Leandro Zipitría.</strong> Border Effects with Local Products: Competition, Bias, and Partial Identification.</div></article>
-</div>
-</section>
 
-<section id="working-papers" class="list-section">
+::::::::::::::::::::: research-list
+::::: research-entry
+::: research-year
+2026
+:::
+
+::: research-copy
+**Brum, Matías, Iael Klazcko, and Leandro Zipitría.** [Income and Retail Prices within a City: Evidence on Product Composition and Market Segmentation](files/Income%20and%20Retail%20Prices%20within%20a%20City.pdf). [Code](https://github.com/LeandroZipitria/income_prices). (Under revision)
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2026
+:::
+
+::: research-copy
+**Borraz, Fernando and Leandro Zipitría.** [The Long-Run Dynamics of Relative Price Dispersion](files/relative_dispersion.pdf). [Codes](https://github.com/LeandroZipitria/relative-price-dispersion).
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2026
+:::
+
+::: research-copy
+**Acerenza, Santiago, Bruno Engel, Néstor Gandelman and Leandro Zipitría.** [From Slaughterhouses to Consumers: Pass-Through of Uruguay’s VAT Cut on the Meat Market](files/Tax_Incidence_DiD.pdf). (Under revision)
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2026
+:::
+
+::: research-copy
+**Acerenza, Santiago, Sebastián Fleitas, Néstor Gandelman and Leandro Zipitría.** Heterogeneity in Consumer Climate Adaptation: Evidence from a Water Scarcity Crisis.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2026
+:::
+
+::: research-copy
+**Borraz, Fernando, Nicolás González-Pampillón and Leandro Zipitría.** Police Presence and Retail Market Outcomes.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2026
+:::
+
+::: research-copy
+**Acerenza, Santiago, Fernando Borraz and Leandro Zipitría.** Border Effects with Local Products: Competition, Bias, and Partial Identification.
+:::
+:::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+
+:::::::::::::::::::::: {#working-papers .list-section}
 ## Working papers and earlier versions
-<div class="research-list">
-<article class="research-entry"><div class="research-year">2024</div><div><strong>Borraz, Fernando and Leandro Zipitría.</strong> <a href="https://www.econstor.eu/bitstream/10419/289780/1/GLO-DP-1424.pdf">Assessing long run price convergence in retailing</a>, GLO Discussion Paper Series 1424. <a href="https://github.com/LeandroZipitria/Convergence">Code</a>. New version: <em>Chain Pricing and Long-Run Retail Price Divergence</em>.</div></article>
-<article class="research-entry"><div class="research-year">2018</div><div><strong>Czarnievicz, Daniel and Leandro Zipitría.</strong> <a href="files/2018.Concentración y precios en cinco mercados minoristas.pdf">Concentración y precios en cinco mercados minoristas</a>. Documento de trabajo 06/18, dECON.</div></article>
-<article class="research-entry"><div class="research-year">2016</div><div><strong>Rius, Andrés and Leandro Zipitría.</strong> <a href="https://repositorio.cepal.org/bitstream/handle/11362/39864/S1501314_es.pdf;jsessionid=8C82D69F3FC49D2272777AF8960C1BFB?sequence=1">Formación y determinación de precios en el Uruguay</a>. Series de CEPAL #22.</div></article>
-<article class="research-entry"><div class="research-year">2014</div><div><strong>Domingo, Rosario and Leandro Zipitría.</strong> <a href="files/2014.Marco regulatorio y empresas publicas en Uruguay.pdf">Marco regulatorio y empresas públicas en Uruguay</a>. Documento de trabajo 15/14, dECON.</div></article>
-<article class="research-entry"><div class="research-year">2014</div><div><strong>Domingo, Rosario y Leandro Zipitría.</strong> <a href="files/2014.La regulacion de empresas publicas - el rol de la propiedad.pdf">La regulación de servicios públicos: el rol de la propiedad</a>. Documento de trabajo 13/14, dECON.</div></article>
-<article class="research-entry"><div class="research-year">2013</div><div><strong>Bergara, Mario y Leandro Zipitría.</strong> <a href="files/2013.Sobre el gobierno corporativo del FLAR dECON 1413.pdf">Sobre el gobierno corporativo de los organismos multilaterales de crédito</a>. Documento de trabajo 14/13, dECON.</div></article>
-</div>
-</section>
 
-<section id="non-technical" class="list-section">
+::::::::::::::::::::: research-list
+::::: research-entry
+::: research-year
+2024
+:::
+
+::: research-copy
+**Borraz, Fernando and Leandro Zipitría.** [Assessing long run price convergence in retailing](https://www.econstor.eu/bitstream/10419/289780/1/GLO-DP-1424.pdf), GLO Discussion Paper Series 1424. [Code](https://github.com/LeandroZipitria/Convergence). New version: *Chain Pricing and Long-Run Retail Price Divergence*.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2018
+:::
+
+::: research-copy
+**Czarnievicz, Daniel and Leandro Zipitría.** [Concentración y precios en cinco mercados minoristas](files/2018.Concentración%20y%20precios%20en%20cinco%20mercados%20minoristas.pdf). Documento de trabajo 06/18, dECON.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2016
+:::
+
+::: research-copy
+**Rius, Andrés and Leandro Zipitría.** [Formación y determinación de precios en el Uruguay](https://repositorio.cepal.org/bitstream/handle/11362/39864/S1501314_es.pdf;jsessionid=8C82D69F3FC49D2272777AF8960C1BFB?sequence=1). Series de CEPAL #22.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2014
+:::
+
+::: research-copy
+**Domingo, Rosario and Leandro Zipitría.** [Marco regulatorio y empresas públicas en Uruguay](files/2014.Marco%20regulatorio%20y%20empresas%20publicas%20en%20Uruguay.pdf). Documento de trabajo 15/14, dECON.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2014
+:::
+
+::: research-copy
+**Domingo, Rosario y Leandro Zipitría.** [La regulación de servicios públicos: el rol de la propiedad](files/2014.La%20regulacion%20de%20empresas%20publicas%20-%20el%20rol%20de%20la%20propiedad.pdf). Documento de trabajo 13/14, dECON.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2013
+:::
+
+::: research-copy
+**Bergara, Mario y Leandro Zipitría.** [Sobre el gobierno corporativo de los organismos multilaterales de crédito](files/2013.Sobre%20el%20gobierno%20corporativo%20del%20FLAR%20dECON%201413.pdf). Documento de trabajo 14/13, dECON.
+:::
+:::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+
+::::::::::::::::::::::::: {#non-technical .list-section .soft-section}
 ## Non-technical and policy-oriented work
-<div class="research-list">
-<article class="research-entry"><div class="research-year">2023</div><div><strong>Zipitría, Leandro.</strong> “Los nuevos lineamientos de fusiones de Estados Unidos. Características, contexto y reflexiones para Uruguay”, in <em>Anuario de Derecho de la Competencia</em>, Fundación de Cultura Universitaria: 263–275.</div></article>
-<article class="research-entry"><div class="research-year">2023</div><div><strong>González Aguila, Ricardo y Leandro Zipitría.</strong> <a href="https://cubayeconomia.blogspot.com/2024/01/la-conceptualizacion-y-los-incentivos.html">La <em>Conceptualización</em> y los incentivos: lo que queda por hacer</a>, <em>Miradas a la economía Cubana. De la Conceptualización a la práctica</em>, chapter 3: 35–44. Frederich Ebert Stiftung.</div></article>
-<article class="research-entry"><div class="research-year">2020</div><div><strong>González Aguila, Ricardo y Leandro Zipitría.</strong> <a href="https://www.jstor.org/stable/10.13169/intejcubastud.12.2.0228">¿Pueden las empresas estatales cubanas pagar mayores salarios?</a>, <em>International Journal of Cuban Studies</em>, 12(2): 228–251.</div></article>
-<article class="research-entry"><div class="research-year">2017</div><div><strong>Zipitría, Leandro and Ricardo Torres.</strong> “El rol del sector privado en Cuba”, in <em>El emprendimiento: una aproximación internacional al desarrollo económico</em>, chapter 9: 189–218, Editorial de la Universidad de Cantabria.</div></article>
-<article class="research-entry"><div class="research-year">2011</div><div><strong>Zipitría, Leandro.</strong> <a href="files/2011-la-ley-final1.pdf">Sobre la aplicación de la Ley Nº18.159 de promoción y defensa de la competencia</a>. <em>La Ley Uruguay</em>, año IV, Nº7, julio.</div></article>
-<article class="research-entry"><div class="research-year">2008</div><div><strong>Zipitría, Leandro.</strong> <a href="files/2008-capitulo-lz-final-rap.pdf">Defensa de la competencia: una breve nota económica</a>. In <em>Estudios sobre defensa de la competencia y relaciones de consumo</em>, pp. 211–221. Fondo de Cultura Universitaria.</div></article>
-<article class="research-entry"><div class="research-year">2003</div><div><strong>Bergara, Mario y Leandro Zipitría.</strong> <a href="https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/9605/1/Las%20Reglas%20de%20Juego%20en%20Uruguay.pdf">Una visión institucional de la legislación de bancarrota</a>. Chapter VII of <em>Las reglas de juego en el Uruguay: el entorno institucional y los problemas económicos</em>. Editorial Trilce.</div></article>
-</div>
-</section>
 
-<section id="books" class="list-section">
+:::::::::::::::::::::::: research-list
+::::: research-entry
+::: research-year
+2023
+:::
+
+::: research-copy
+**Zipitría, Leandro.** “Los nuevos lineamientos de fusiones de Estados Unidos. Características, contexto y reflexiones para Uruguay”, in *Anuario de Derecho de la Competencia*, Fundación de Cultura Universitaria: 263–275.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2023
+:::
+
+::: research-copy
+**González Aguila, Ricardo y Leandro Zipitría.** [La Conceptualización y los incentivos: lo que queda por hacer](https://cubayeconomia.blogspot.com/2024/01/la-conceptualizacion-y-los-incentivos.html), *Miradas a la economía Cubana. De la Conceptualización a la práctica*, chapter 3: 35–44. Frederich Ebert Stiftung.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2020
+:::
+
+::: research-copy
+**González Aguila, Ricardo y Leandro Zipitría.** [¿Pueden las empresas estatales cubanas pagar mayores salarios?](https://www.jstor.org/stable/10.13169/intejcubastud.12.2.0228), *International Journal of Cuban Studies*, 12(2): 228–251.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2017
+:::
+
+::: research-copy
+**Zipitría, Leandro and Ricardo Torres.** “El rol del sector privado en Cuba”, in *El emprendimiento: una aproximación internacional al desarrollo económico*, chapter 9: 189–218, Editorial de la Universidad de Cantabria.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2011
+:::
+
+::: research-copy
+**Zipitría, Leandro.** [Sobre la aplicación de la Ley Nº18.159 de promoción y defensa de la competencia](files/2011-la-ley-final1.pdf). *La Ley Uruguay*, año IV, Nº7, julio.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2008
+:::
+
+::: research-copy
+**Zipitría, Leandro.** [Defensa de la competencia: una breve nota económica](files/2008-capitulo-lz-final-rap.pdf). In *Estudios sobre defensa de la competencia y relaciones de consumo*, pp. 211–221. Fondo de Cultura Universitaria.
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2003
+:::
+
+::: research-copy
+**Bergara, Mario y Leandro Zipitría.** [Una visión institucional de la legislación de bancarrota](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/9605/1/Las%20Reglas%20de%20Juego%20en%20Uruguay.pdf). Chapter VII of *Las reglas de juego en el Uruguay: el entorno institucional y los problemas económicos*. Editorial Trilce.
+:::
+:::::
+::::::::::::::::::::::::
+:::::::::::::::::::::::::
+
+:::::::::: {#books .list-section}
 ## Books
-<div class="research-list books-list">
-<article class="research-entry"><div class="research-year">2016</div><div><strong>Domingo, Rosario, Jorge Ponce y Leandro Zipitría.</strong> <em>Regulación económica para economías en desarrollo</em>. Universidad de la República. <a href="libro-regulacion/Regulacion.pdf">PDF</a> · <a href="libro-regulacion/">Web edition</a> · <a href="https://github.com/LeandroZipitria/libro-regulacion">GitHub</a>.</div></article>
-<article class="research-entry"><div class="research-year">2024</div><div><strong>Díaz, Ileana and Leandro Zipitría (eds.).</strong> <em>Empresas estatales cubanas. Situación y propuestas de transformación</em>. Universidad de la Habana y Udelar. <a href="files/2024 - Empresas estatales cubanas.pdf">PDF</a>.</div></article>
-</div>
-</section>
-</div>
+
+::::::::: {.research-list .books-list}
+::::: research-entry
+::: research-year
+2016
+:::
+
+::: research-copy
+**Domingo, Rosario, Jorge Ponce y Leandro Zipitría.** *Regulación económica para economías en desarrollo*. Universidad de la República. [PDF](libro-regulacion/Regulacion.pdf) · [Web edition](libro-regulacion/) · [GitHub](https://github.com/LeandroZipitria/libro-regulacion).
+:::
+:::::
+
+::::: research-entry
+::: research-year
+2024
+:::
+
+::: research-copy
+**Díaz, Ileana and Leandro Zipitría (eds.).** *Empresas estatales cubanas. Situación y propuestas de transformación*. Universidad de la Habana y Udelar. [PDF](files/2024%20-%20Empresas%20estatales%20cubanas.pdf).
+:::
+:::::
+:::::::::
+::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

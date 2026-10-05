@@ -5,12 +5,26 @@ page-layout: full
 toc: false
 ---
 
-<div class="page-hero"><div class="eyebrow">About</div><h1>Economist specializing in industrial organization and applied microeconomics.</h1><p class="lead">My research fields are industrial organization and applied microeconomics, with a focus on retail markets, pricing, competition, and regulation. I am Full Professor at dECON, Universidad de la República, and hold a PhD in Economics from Universidad de San Andrés.</p><div class="hero-actions"><a class="btn-site btn-primary-site" href="files/english_CV.pdf">CV · English →</a><a class="btn-site btn-secondary-site" href="files/spanish_CV.pdf">CV · Español</a></div></div>
+::: {.page-hero}
+::: {.eyebrow}
+About
+:::
 
-<div class="page-content">
-<div class="split wide-left" style="align-items:start">
-<div class="prose">
+# Economist specializing in industrial organization and applied microeconomics.
 
+::: {.lead}
+My research fields are industrial organization and applied microeconomics, with a focus on retail markets, pricing, competition, and regulation. I am Full Professor at dECON, Universidad de la República, and hold a PhD in Economics from Universidad de San Andrés.
+:::
+
+::: {.hero-actions}
+[CV · English →](files/english_CV.pdf){.btn-site .btn-primary-site}
+[CV · Español](files/spanish_CV.pdf){.btn-site .btn-secondary-site}
+:::
+:::
+
+::: {.page-content}
+::: {.split .wide-left .align-start}
+::: {.prose}
 ## Degrees
 
 - **PhD in Economics**, Universidad de San Andrés, 2017.
@@ -27,22 +41,24 @@ toc: false
 ## Teaching
 
 Graduate teaching has included regulation, institutions, microeconomics, industrial organization, and competition policy. Undergraduate teaching has included game theory, microeconomics, introduction to economics, industrial organization, and competition policy.
+:::
 
-</div>
-<div>
-  <div class="portrait-card" style="max-width:360px"><img src="assets/site/portrait.webp" alt="Leandro Zipitria"></div>
-</div>
-</div>
+::: {.portrait-column}
+::: {.portrait-card .portrait-small}
+<img src="assets/site/portrait.webp" alt="Leandro Zipitria">
+:::
+:::
+:::
 
-<section class="list-section">
+::: {.list-section}
 ## Professional activity
 
 More than twenty years of applied experience in competition policy, economic regulation, and market analysis. Consultant for the World Bank, IDB, CAF, ECLAC, PAHO, and UNDP, alongside public-sector and private-sector advisory work.
 
 [Full disclosure of professional work](files/lista_consultorias.pdf) · [Professional profile](professional.html)
-</section>
+:::
 
-<section class="list-section">
+::: {.list-section .soft-section}
 ## Previous public-sector activity
 
 - Ministry of Economy and Finance — IADB Project Manager, 2010–2013.
@@ -50,11 +66,11 @@ More than twenty years of applied experience in competition policy, economic reg
 - Ministry of Economy and Finance — Chief Antitrust Economist, 2003–2009.
 - Ministry of Economy and Finance, Dirección General de Comercio — economic analysis, 2003–2010.
 - Office of Budget and Planning — regulatory impact analysis and pricing of public services, 2001–2003.
-</section>
+:::
 
-<section class="list-section">
+::: {.list-section}
 ## Affiliations
 
 American Economic Association · European Economic Association · Latin American and Caribbean Economic Association
-</section>
-</div>
+:::
+:::
