@@ -5,227 +5,152 @@ page-layout: full
 toc: false
 ---
 
-::: {.site-hero}
-::: {.hero-copy}
-::: {.eyebrow .identity-eyebrow}
+::: {.eh-home}
+
+::: {.eh-hero}
+
+::: {.eh-hero-copy}
+::: {.eh-eyebrow}
 Economist
 :::
 
-<h1 class="identity-title">
-  <span>Industrial Organization</span>
-  <span>&amp; Applied Microeconomics</span>
-</h1>
+# Industrial Organization and Applied Microeconomics {.eh-title-line}
 
-::: {.lead}
+::: {.eh-lead}
 Full Professor of Economics at Universidad de la República. Research on retail pricing, price dispersion, competition, and economic regulation.
 :::
 
-::: {.hero-secondary}
+::: {.eh-secondary}
 Applied work in competition policy, economic regulation, and market analysis.
 :::
 
-::: {.hero-actions}
-[Explore research →](research.html){.btn-site .btn-primary-site}
-[Download CV](files/english_CV.pdf){.btn-site .btn-secondary-site}
+::: {.eh-inline-links}
+[Research](research.html)
+[CV](files/english_CV.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=UVdbgDwAAAAJ)
+[Professional](professional.html)
 :::
 :::
 
-::: {.portrait-card .portrait-landscape}
-<img src="assets/site/portrait.webp" alt="Leandro Zipitria">
-:::
-:::
-
-::: {.stat-strip}
-::: {.stat-grid}
-::: {.stat-item}
-**Research**
-
-Industrial organization and applied microeconomics
+::: {.eh-portrait}
+![Leandro Zipitria](assets/site/portrait.webp)
 :::
 
-::: {.stat-item}
-**Policy & Advisory**
-
-Competition, regulation & market analysis
 :::
 
-::: {.stat-item}
-**Teaching**
+::: {.eh-core}
 
-Graduate and undergraduate economics
+::: {.eh-research}
+::: {.eh-section-head}
+::: {.eh-section-title}
+::: {.eh-kicker}
+Selected research
 :::
 
-::: {.stat-item}
-**Building**
-
-TeXFlow — Visual LaTeX for VS Code
-:::
-:::
+## Recent papers
 :::
 
-::: {.section}
-::: {.section-shell}
-::: {.section-head}
-::: {.section-heading}
-::: {.section-kicker}
-Research
+[All research →](research.html){.eh-more}
 :::
 
-## Selected work
+::: {.eh-paper}
+::: {.eh-paper-meta}
+2026 · Journal of Industry, Competition and Trade
 :::
 
-Three selected publications in industrial organization and retail markets.
-:::
-
-::: {.card-grid .research-feature-grid}
-::: {.paper-card}
-::: {.card-label}
-Journal of Industry, Competition and Trade · 2026
-:::
-
-### The Border Effect on Prices: The Role of Local Product Availability {.paper-title}
+### [The Border Effect on Prices: The Role of Local Product Availability](https://link.springer.com/article/10.1007/s10842-026-00466-z)
 
 Fernando Borraz and Leandro Zipitría.
 
-::: {.card-links}
-[Published article →](https://link.springer.com/article/10.1007/s10842-026-00466-z)
+::: {.eh-paper-links}
 [Working paper](files/Disentangling_Border_2026.pdf)
 :::
 :::
 
-::: {.paper-card .featured-clean}
-::: {.card-label}
-AEJ: Economic Policy · 2024
+::: {.eh-paper}
+::: {.eh-paper-meta}
+2024 · AEJ: Economic Policy
 :::
 
-### Local Retail Prices, Product Varieties and Neighborhood Change {.paper-title}
+### [Local Retail Prices, Product Varieties and Neighborhood Change](https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f)
 
 Fernando Borraz, Felipe Carozzi, Nicolás González-Pampillón, and Leandro Zipitría.
 
-::: {.card-links}
-[Published article →](https://www.aeaweb.org/articles?id=10.1257/pol.20210817&&from=f)
+::: {.eh-paper-links}
 [Working paper](files/Borraz_AEJP_2021_R1.pdf)
 :::
 :::
 
-::: {.paper-card}
-::: {.card-label}
-International Economics · 2022
+::: {.eh-paper}
+::: {.eh-paper-meta}
+2022 · International Economics
 :::
 
-### Varieties as a Source of Law of One Price Deviation {.paper-title}
+### [Varieties as a Source of Law of One Price Deviation](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543)
 
 Fernando Borraz and Leandro Zipitría.
 
-::: {.card-links}
-[Published article →](https://www.sciencedirect.com/science/article/abs/pii/S2110701722000543)
+::: {.eh-paper-links}
 [Working paper](<files/LOP Version 2021_12_11.pdf>)
 :::
 :::
+
 :::
 
-::: {.button-row}
-[All papers and projects →](research.html){.btn-site .btn-secondary-site}
-:::
-:::
-:::
-
-::: {.section .alt}
-::: {.section-shell}
-::: {.section-head}
-::: {.section-heading}
-::: {.section-kicker}
-Work
+::: {.eh-side}
+::: {.eh-side-block}
+::: {.eh-kicker}
+Professional
 :::
 
-## Research, policy, teaching — and tools.
+## Competition, regulation & market analysis
+
+Applied work in competition policy, economic regulation, market analysis, pricing, and regulatory impact.
+
+::: {.eh-prof-meta}
+Government · international organizations · private firms
 :::
-:::
 
-::: {.card-grid}
-::: {.info-card}
-[01]{.card-index}
-
-### Research
-
-Industrial organization and applied microeconomics, with a focus on retail pricing, price dispersion, and market structure.
-
-::: {.card-links}
-[Research →](research.html)
+[Professional work →](professional.html){.eh-text-link}
 :::
 :::
 
-::: {.info-card}
-[02]{.card-index}
-
-### Policy & Advisory
-
-Competition policy, economic regulation, market analysis, pricing, and regulatory impact.
-
-::: {.card-links}
-[Professional work →](professional.html)
-:::
 :::
 
-::: {.info-card}
-[03]{.card-index}
+::: {.eh-lower}
 
-### Teaching
-
-Current graduate courses in Development Economics, Microeconomics II, and Economic Regulation & Competition Policy, plus a teaching archive.
-
-::: {.card-links}
-[Teaching →](teaching.html)
+::: {.eh-texflow}
+::: {.eh-tf-copy}
+::: {.eh-kicker .eh-kicker-light}
+TeXFlow — Visual LaTeX
 :::
-:::
-:::
-:::
-:::
-
-::: {.section .dark}
-::: {.section-shell}
-::: {.split .wide-left}
-::: {.texflow-home-copy}
-<div class="section-kicker" style="color:#7fe8f7">TeXFlow — Visual LaTeX</div>
 
 ## Write LaTeX, without writing LaTeX.
 
-A visual LaTeX editor inside VS Code. Write naturally while keeping your `.tex` files intact and accessible.
+A visual LaTeX editor inside VS Code, while the `.tex` file remains the source of truth.
 
-::: {.button-row}
-[See TeXFlow →](texflow.html){.btn-site .texflow-primary}
-[GitHub](https://github.com/LeandroZipitria/texflow){.btn-site .texflow-secondary}
-:::
-:::
-
-::: {.tf-shot}
-<img src="assets/texflow/hero.webp" alt="TeXFlow visual LaTeX editor inside VS Code">
-:::
-:::
+::: {.eh-tf-links}
+[TeXFlow](texflow.html)
+[GitHub](https://github.com/LeandroZipitria/texflow)
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=leandrozipitria.texflow)
 :::
 :::
 
-::: {.section}
-::: {.section-shell}
-::: {.split}
-::: {.writing-home-copy}
-::: {.section-kicker}
-Writing & public discussion
-:::
-
-## Economics beyond papers.
-
-I write occasionally about economic policy and institutions, and publish longer-form commentary in **Mercados Chicos**.
-
-::: {.button-row}
-[Writing & Media →](blog.html){.btn-site .btn-secondary-site}
-[Personal →](personal.html){.btn-site .btn-secondary-site}
+::: {.eh-tf-shot}
+![TeXFlow visual LaTeX editor inside VS Code](assets/texflow/hero.webp)
 :::
 :::
 
-::: {.quote-panel}
-“An image is worth a thousand words.” I also co-created [unaimagen](https://www.unaimagen.uy/), a side project focused on visualizing data from Uruguay.
+::: {.eh-more-links}
+::: {.eh-kicker}
+More
 :::
+
+[Writing & Media](blog.html)
+[Personal](personal.html)
+[Contact](contact.html)
 :::
+
 :::
+
 :::

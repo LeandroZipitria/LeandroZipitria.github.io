@@ -10,7 +10,7 @@ toc: false
 Professional
 :::
 
-# Competition, regulation, and market analysis.
+# Competition, Regulation, and Market Analysis
 
 ::: {.lead}
 More than twenty years of applied work in competition policy, economic regulation, pricing, regulatory impact assessment, and empirical market analysis.
@@ -58,17 +58,9 @@ Econometric analysis of large datasets for policy evaluation, competition analys
 :::
 
 ::: {.section .compact-section}
-::: {.section-head}
-::: {.section-heading}
-::: {.section-kicker}
-Experience
-:::
-
 ## Institutional and consulting work
-:::
 
 Work with international organizations, the public sector, and private clients.
-:::
 
 ::: {.card-grid .two}
 ::: {.info-card}

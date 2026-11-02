@@ -10,7 +10,7 @@ toc: false
 Teaching
 :::
 
-# Current courses and teaching archive.
+# Current Courses and Teaching Archive
 
 ::: {.lead}
 I teach at Universidad de la República. Current graduate courses come first; previous courses and older materials remain available in the archive. Course slides are in Spanish.
@@ -127,8 +127,7 @@ Curso de Microeconomía II en la Maestría en Economía, Opción Análisis Econ�
 
 ::: {.lecture-list}
 1. [Externalidades](files/teaching/current/microeconomia-ii/1-externalidades.pdf)
-2. [Bienes públicos](files/teaching/current/microeconomia-ii/2-bienes_publicos_clase.pdf)  
-   Versión pública seleccionada.
+2. [Bienes públicos](files/teaching/current/microeconomia-ii/2-bienes_publicos_clase.pdf)
 3. [Riesgo](files/teaching/current/microeconomia-ii/3-riesgo.pdf)
 4. [Incentivos — Parte I](files/teaching/current/microeconomia-ii/4a-incentivos.pdf)
 5. [Incentivos — Parte II](files/teaching/current/microeconomia-ii/4b-incentivos.pdf)

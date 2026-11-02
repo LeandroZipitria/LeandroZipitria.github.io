@@ -44,8 +44,6 @@ website:
             href: blog.qmd
           - text: Personal
             href: personal.qmd
-          - text: Reading
-            href: reading.qmd
           - text: Contact
             href: contact.qmd
     right:
@@ -60,7 +58,7 @@ website:
         aria-label: Contact
   page-footer:
     left: "© Leandro Zipitría"
-    center: "Industrial Organization · Applied Microeconomics"
+    center: "Industrial Organization and Applied Microeconomics"
     right:
       - text: GitHub
         href: https://github.com/LeandroZipitria

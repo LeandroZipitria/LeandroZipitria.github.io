@@ -10,7 +10,7 @@ toc: false
 Personal
 :::
 
-# Music and other things.
+# Music and Other Things
 
 ::: {.lead}
 “If you're not having fun, you're doing something wrong.” — Groucho Marx

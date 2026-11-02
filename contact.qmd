@@ -10,7 +10,7 @@ toc: false
 Contact
 :::
 
-# Get in touch.
+# Get in Touch
 
 ::: {.lead}
 For academic, teaching, or professional inquiries.
