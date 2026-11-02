@@ -10,7 +10,7 @@ toc: false
 Writing & Media
 :::
 
-# Economics beyond academic journals.
+# Economics Beyond Academic Journals
 
 ::: {.lead}
 Essays, columns, and public-facing economic analysis, mainly in Spanish.

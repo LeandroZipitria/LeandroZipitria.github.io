@@ -10,7 +10,7 @@ toc: false
 Research
 :::
 
-# Industrial organization and applied microeconomics.
+# Industrial Organization and Applied Microeconomics
 
 ::: lead
 Research interests: retail pricing, price dispersion, regulation, and competition policy.
